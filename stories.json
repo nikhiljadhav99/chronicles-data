@@ -1,1 +1,500 @@
-
+{
+"en": {
+"stories": [
+{
+"id": "story_001",
+"title": "Shivaji: The Mountain Oath",
+"empire": "Maratha Empire",
+"category": "Kings",
+"period": "1630-1680",
+"region": "Maharashtra",
+"narrator": "Aarav Deshmukh",
+"languages": ["Marathi", "Hindi", "English"],
+"duration": "42 min",
+"rating": 4.9,
+"coverEmoji": "SA",
+"summary": "A cinematic account of young Shivaji building forts, alliances, and a new idea of swarajya.",
+"isPremium": false,
+"isNew": true,
+"isKing": true,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "The oath at Raireshwar",
+"duration": "8 min",
+"isLocked": false,
+"content": "In the year 1645, a sixteen-year-old Shivaji gathered his trusted companions at the Raireshwar temple near Pune. The monsoon winds swept through the Sahyadri hills as the young boy placed his hand on the Shivalinga and swore an oath of swarajya — self-rule for his people.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "Forts become a kingdom",
+"duration": "11 min",
+"isLocked": false,
+"content": "Torna, Rajgad, Kondana — one by one the forts of the Sahyadri range fell into Shivaji's hands through careful planning, local support, and speed. Each fort was a declaration. The hills had a new master.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "Afzal Khan arrives",
+"duration": "13 min",
+"isLocked": false,
+"content": "The Adilshahi sultanate sent Afzal Khan to end Shivaji's ambitions. The meeting near Pratapgad fort ended in seconds. Shivaji's concealed bagh nakh did what diplomacy never could.",
+"audioUrl": null
+},
+{
+"number": 4,
+"title": "Coronation and legacy",
+"duration": "10 min",
+"isLocked": true,
+"content": "On the sixth day of Jyeshtha 1674, at Raigad fort, Shivaji was crowned Chhatrapati. He was not merely a chieftain. He was a king — and his kingdom had a name, a law, and a future.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "story_002",
+"title": "Ashoka After Kalinga",
+"empire": "Maurya Empire",
+"category": "Empires",
+"period": "268-232 BCE",
+"region": "Magadha and Kalinga",
+"narrator": "Meera Kulkarni",
+"languages": ["Marathi", "Hindi", "English"],
+"duration": "36 min",
+"rating": 4.8,
+"coverEmoji": "AE",
+"summary": "The battle that changed an emperor, and how remorse turned into one of history's great moral projects.",
+"isPremium": false,
+"isNew": false,
+"isKing": false,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "March to Kalinga",
+"duration": "9 min",
+"isLocked": false,
+"content": "Kalinga was the last major independent kingdom outside Mauryan control. Ashoka's army marched east with full force. The Kalingans resisted fiercely. By the numbers alone it was a Mauryan victory — but Ashoka stood on the battlefield and could not call it one.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "The silence after war",
+"duration": "12 min",
+"isLocked": false,
+"content": "One hundred thousand dead. Ashoka walked through the ruins of Kalinga and felt something break open inside him. His own edicts record grief and regret — a confession carved into rock.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "Dhamma across the empire",
+"duration": "15 min",
+"isLocked": false,
+"content": "Ashoka turned his empire toward dhamma — tolerance, non-violence, care for animals and servants, respect across faiths. He built hospitals, planted shade trees on roads, and sent emissaries as far as Greece and Egypt.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "story_003",
+"title": "Panipat: Dawn of a Hard Day",
+"empire": "Maratha Confederacy",
+"category": "Battles",
+"period": "1761",
+"region": "Panipat",
+"narrator": "Sahil Patil",
+"languages": ["Marathi", "Hindi"],
+"duration": "47 min",
+"rating": 4.6,
+"coverEmoji": "PA",
+"summary": "A tense retelling of strategy, supply lines, courage, and the terrible cost of the Third Battle of Panipat.",
+"isPremium": true,
+"isNew": false,
+"isKing": false,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "Northward campaign",
+"duration": "10 min",
+"isLocked": false,
+"content": "By 1760, the Maratha Confederacy was the dominant power in the subcontinent. Peshwa Vishwasrao and Sadashivrao Bhau led a vast army northward. The march was confident — but supply lines stretched thin.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "Winter camps",
+"duration": "12 min",
+"isLocked": false,
+"content": "The two armies circled each other through autumn 1760. Abdali cut Maratha supply lines. Hunger set in. Horses weakened. The mood shifted from confidence to grim determination.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "The battle opens",
+"duration": "16 min",
+"isLocked": true,
+"content": "On 14 January 1761, the Marathas chose to fight. Early hours went well — but when Abdali released his reserve cavalry into the Maratha flanks, the line broke. What followed was not a defeat. It was a catastrophe.",
+"audioUrl": null
+},
+{
+"number": 4,
+"title": "Memory of Panipat",
+"duration": "9 min",
+"isLocked": true,
+"content": "Tens of thousands died. In Maharashtra, every family lost someone. The word Panipat entered the language as a synonym for irreversible loss.",
+"audioUrl": null
+}
+]
+}
+],
+"kings": [
+{
+"id": "king_001",
+"name": "Chhatrapati Shivaji Maharaj",
+"period": "1630-1680",
+"empire": "Maratha",
+"era": "Medieval",
+"shortNote": "Founder of swarajya and master of hill-fort strategy.",
+"title": "Chhatrapati",
+"birthDate": "19 Feb 1630",
+"deathDate": "3 Apr 1680",
+"empireId": "empire_maratha",
+"image": null,
+"timelineReferences": ["story_001"],
+"chapters": [
+{
+"number": 1,
+"title": "Early life and the oath",
+"duration": "6 min",
+"isLocked": false,
+"content": "Born at Shivneri fort to Jijabai and Shahaji, Shivaji grew up on stories of Rajput valor. By sixteen he had gathered a band of Mavala warriors and taken his first oath of swarajya.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "Building the Maratha navy",
+"duration": "8 min",
+"isLocked": false,
+"content": "Shivaji built one of the first significant Indian naval forces to counter the Portuguese and the Siddis of Janjira. Sindhudurg fort was built on a sea island as its anchor.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "The Agra trap and escape",
+"duration": "9 min",
+"isLocked": true,
+"content": "Aurangzeb placed Shivaji under house arrest in Agra. The escape — hidden in sweet baskets — became one of the great stories of the era. Shivaji returned and recaptured everything.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "king_002",
+"name": "Ashoka",
+"period": "304-232 BCE",
+"empire": "Maurya",
+"era": "Ancient",
+"shortNote": "Expanded an empire, then changed its moral direction.",
+"title": "Devanampiya Priyadarshi",
+"birthDate": "304 BCE",
+"deathDate": "232 BCE",
+"empireId": "empire_maurya",
+"image": null,
+"timelineReferences": ["story_002"],
+"chapters": [
+{
+"number": 1,
+"title": "Rise to the throne",
+"duration": "5 min",
+"isLocked": false,
+"content": "Before Kalinga, Ashoka was known as Chandashoka — fierce Ashoka. The transformation after the war was so complete that later generations struggled to reconcile the two phases of one life.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "The rock edicts",
+"duration": "7 min",
+"isLocked": false,
+"content": "Ashoka's edicts were carved on rocks and pillars across the subcontinent — written in local scripts so people could read them. No Indian ruler before or after communicated so directly with subjects.",
+"audioUrl": null
+}
+]
+}
+],
+"quizQuestions": [
+{
+"id": "quiz_001",
+"question": "Which empire did Ashoka rule?",
+"options": ["Gupta", "Maurya", "Chola", "Maratha"],
+"correctIndex": 1,
+"xp": 25
+},
+{
+"id": "quiz_002",
+"question": "Which king is closely linked with the idea of swarajya?",
+"options": ["Ashoka", "Rajaraja Chola", "Shivaji Maharaj", "Akbar"],
+"correctIndex": 2,
+"xp": 30
+},
+{
+"id": "quiz_003",
+"question": "The Third Battle of Panipat took place in which year?",
+"options": ["1526", "1674", "1761", "1857"],
+"correctIndex": 2,
+"xp": 35
+}
+]
+},
+"mr": {
+"stories": [
+{
+"id": "story_001",
+"title": "शिवाजी: पर्वतावरची शपथ",
+"empire": "मराठा साम्राज्य",
+"category": "राजे",
+"period": "१६३०-१६८०",
+"region": "महाराष्ट्र",
+"narrator": "आराव देशमुख",
+"languages": ["मराठी", "हिंदी", "इंग्रजी"],
+"duration": "४२ मिनिटे",
+"rating": 4.9,
+"coverEmoji": "SA",
+"summary": "तरुण शिवाजीने किल्ले, आघाड्या आणि स्वराज्याची नवी कल्पना कशी घडवली याचे एक चित्रमय वर्णन.",
+"isPremium": false,
+"isNew": true,
+"isKing": true,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "रायरेश्वरावरची शपथ",
+"duration": "८ मिनिटे",
+"isLocked": false,
+"content": "इ.स. १६४५ मध्ये, सोळा वर्षांच्या शिवाजीने पुण्याजवळील रायरेश्वर मंदिरात आपल्या विश्वासू साथीदारांना एकत्र केले. सह्याद्रीच्या डोंगरांवरून पावसाळी वारे वाहत होते. त्या तरुण मुलाने शिवलिंगावर हात ठेवला आणि शपथ घेतली — स्वत:च्या वैभवासाठी नाही, तर आपल्या लोकांच्या स्वराज्यासाठी.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "किल्ले बनले राज्य",
+"duration": "११ मिनिटे",
+"isLocked": false,
+"content": "तोरणा, राजगड, कोंडाणा — सह्याद्रीचे किल्ले एकामागोमाग शिवाजीच्या ताब्यात आले. उघड युद्धाने नव्हे, तर काळजीपूर्वक नियोजन, स्थानिक पाठिंबा आणि वेगाने. प्रत्येक किल्ला म्हणजे एक घोषणा होती — डोंगरांना नवा स्वामी मिळाला होता.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "अफझलखान येतो",
+"duration": "१३ मिनिटे",
+"isLocked": false,
+"content": "आदिलशाही सल्तनतने शिवाजीची महत्त्वाकांक्षा संपवण्यासाठी अफझलखानाला पाठवले. प्रतापगडाजवळ झालेली भेट क्षणार्धात संपली. शिवाजीच्या लपवलेल्या वाघनखाने ते केले जे मुत्सद्देगिरीला जमले नव्हते.",
+"audioUrl": null
+},
+{
+"number": 4,
+"title": "राज्याभिषेक आणि वारसा",
+"duration": "१० मिनिटे",
+"isLocked": true,
+"content": "ज्येष्ठ शुद्ध षष्ठी, इ.स. १६७४ रोजी रायगड किल्ल्यावर शिवाजीचा राज्याभिषेक झाला. ते केवळ एक सरदार नव्हते. ते राजे होते — आणि त्यांच्या राज्याला नाव होते, कायदा होता आणि भविष्य होते.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "story_002",
+"title": "कलिंगानंतर अशोक",
+"empire": "मौर्य साम्राज्य",
+"category": "साम्राज्ये",
+"period": "इ.स.पू. २६८-२३२",
+"region": "मगध आणि कलिंग",
+"narrator": "मीरा कुलकर्णी",
+"languages": ["मराठी", "हिंदी", "इंग्रजी"],
+"duration": "३६ मिनिटे",
+"rating": 4.8,
+"coverEmoji": "AE",
+"summary": "एका सम्राटाला बदलवणारी लढाई आणि पश्चातापातून इतिहासातील एक महान नैतिक प्रकल्प कसा उभा राहिला.",
+"isPremium": false,
+"isNew": false,
+"isKing": false,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "कलिंगाकडे कूच",
+"duration": "९ मिनिटे",
+"isLocked": false,
+"content": "कलिंग हे मौर्य नियंत्रणाबाहेरचे शेवटचे मोठे स्वतंत्र राज्य होते. अशोकाचे सैन्य पूर्णशक्तीनिशी पूर्वेकडे कूच करते झाले. कलिंगावासीयांनी जोरदार प्रतिकार केला. संख्येने हे मौर्यांचे विजय होते — पण अशोक रणांगणावर उभा राहिला आणि त्याला विजय म्हणता आले नाही.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "युद्धानंतरची शांतता",
+"duration": "१२ मिनिटे",
+"isLocked": false,
+"content": "एक लाख मृत. अशोक कलिंगाच्या उद्ध्वस्त राजधानीतून चालत गेला आणि त्याच्या आतमध्ये काहीतरी तुटले. त्याचे स्वतःचे शिलालेख हे दु:ख आणि पश्चाताप असाधारण प्रामाणिकपणाने नोंदवतात — दगडात कोरलेली कबुली.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "साम्राज्यभर धम्म",
+"duration": "१५ मिनिटे",
+"isLocked": false,
+"content": "अशोकाने आपले साम्राज्य धम्माकडे वळवले — सहिष्णुता, अहिंसा, प्राणी आणि सेवकांची काळजी, सर्व धर्मांचा आदर. त्याने रुग्णालये बांधली, रस्त्यांवर सावलीसाठी झाडे लावली आणि ग्रीस व इजिप्तपर्यंत दूत पाठवले.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "story_003",
+"title": "पानिपत: एका कठीण दिवसाची पहाट",
+"empire": "मराठा संघराज्य",
+"category": "लढाया",
+"period": "१७६१",
+"region": "पानिपत",
+"narrator": "साहिल पाटील",
+"languages": ["मराठी", "हिंदी"],
+"duration": "४७ मिनिटे",
+"rating": 4.6,
+"coverEmoji": "PA",
+"summary": "रणनीती, रसद, शौर्य आणि पानिपतच्या तिसऱ्या युद्धाच्या भयंकर किंमतीचे एक तणावपूर्ण वर्णन.",
+"isPremium": true,
+"isNew": false,
+"isKing": false,
+"progress": null,
+"chapters": [
+{
+"number": 1,
+"title": "उत्तरेकडील मोहीम",
+"duration": "१० मिनिटे",
+"isLocked": false,
+"content": "इ.स. १७६० पर्यंत मराठा संघराज्य हे उपखंडातील प्रबळ सत्ता होती. पेशवे विश्वासराव आणि सदाशिवरावभाऊ यांनी एक विशाल सेना उत्तरेकडे नेली. कूच आत्मविश्वासपूर्ण होती — पण रसद-साखळी ताणत गेली.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "हिवाळी तळ",
+"duration": "१२ मिनिटे",
+"isLocked": false,
+"content": "दोन्ही सेना इ.स. १७६० च्या शरद ऋतूत एकमेकांभोवती घिरट्या घालत राहिल्या. अब्दालीने मराठ्यांची रसद-साखळी तोडली. उपासमार सुरू झाली. घोडे अशक्त झाले. छावणीतील वातावरण आत्मविश्वासातून गंभीर निर्धाराकडे सरकले.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "लढाई सुरू होते",
+"duration": "१६ मिनिटे",
+"isLocked": true,
+"content": "१४ जानेवारी १७६१, मकर संक्रांतीच्या सकाळी मराठ्यांनी लढायचे ठरवले. सुरुवातीचे काही तास चांगले गेले — पण अब्दालीने आपली राखीव घोडदळ मराठ्यांच्या बाजूंवर सोडली तेव्हा फळी तुटली. जे झाले ते पराभव नव्हता. ती आपत्ती होती.",
+"audioUrl": null
+},
+{
+"number": 4,
+"title": "पानिपतची स्मृती",
+"duration": "९ मिनिटे",
+"isLocked": true,
+"content": "हजारो जण धारातीर्थी पडले. महाराष्ट्रात असे कोणतेही कुटुंब नव्हते जे कोणाला तरी मुकले नाही. 'पानिपत' हा शब्द भाषेत 'अपरिवर्तनीय नुकसान' या अर्थाने घर करून बसला.",
+"audioUrl": null
+}
+]
+}
+],
+"kings": [
+{
+"id": "king_001",
+"name": "छत्रपती शिवाजी महाराज",
+"period": "१६३०-१६८०",
+"empire": "मराठा",
+"era": "मध्ययुगीन",
+"shortNote": "स्वराज्याचे संस्थापक आणि गनिमी काव्याचे जाणकार.",
+"title": "छत्रपती",
+"birthDate": "१९ फेब्रुवारी १६३०",
+"deathDate": "३ एप्रिल १६८०",
+"empireId": "empire_maratha",
+"image": null,
+"timelineReferences": ["story_001"],
+"chapters": [
+{
+"number": 1,
+"title": "बालपण आणि शपथ",
+"duration": "६ मिनिटे",
+"isLocked": false,
+"content": "शिवनेरी किल्ल्यावर जिजाबाई आणि शहाजींच्या पोटी जन्मलेल्या शिवाजींनी राजपूत शौर्याच्या कथांवर आणि आईच्या महत्त्वाकांक्षेवर वाढले. वयाच्या सोळाव्या वर्षी त्यांनी मावळ्यांची एक फळी जमवली आणि स्वराज्याची पहिली शपथ घेतली.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "मराठा आरमाराची उभारणी",
+"duration": "८ मिनिटे",
+"isLocked": false,
+"content": "शिवाजींनी कोकण किनारा सह्याद्रीइतकाच महत्त्वाचा असल्याचे जाणले. पोर्तुगीज आणि जंजिऱ्याच्या सिद्दींना तोंड देण्यासाठी त्यांनी आरमार उभारले. सिंधुदुर्ग किल्ला समुद्रातील बेटावर त्याचा आधारस्तंभ म्हणून बांधला.",
+"audioUrl": null
+},
+{
+"number": 3,
+"title": "आग्र्याचा सापळा आणि सुटका",
+"duration": "९ मिनिटे",
+"isLocked": true,
+"content": "औरंगजेबाने शिवाजींना आग्र्यात नजरकैदेत ठेवले. मिठाईच्या टोपल्यांत लपून केलेली सुटका त्या काळातील एक महान कथा बनली. शिवाजी दख्खनला परतले आणि सोडून द्यावे लागलेले सर्व किल्ले पुन्हा जिंकले.",
+"audioUrl": null
+}
+]
+},
+{
+"id": "king_002",
+"name": "अशोक",
+"period": "इ.स.पू. ३०४-२३२",
+"empire": "मौर्य",
+"era": "प्राचीन",
+"shortNote": "साम्राज्य विस्तारले, मग त्याची नैतिक दिशा बदलली.",
+"title": "देवानांपिय प्रियदर्शी",
+"birthDate": "इ.स.पू. ३०४",
+"deathDate": "इ.स.पू. २३२",
+"empireId": "empire_maurya",
+"image": null,
+"timelineReferences": ["story_002"],
+"chapters": [
+{
+"number": 1,
+"title": "सिंहासनावर आरोहण",
+"duration": "५ मिनिटे",
+"isLocked": false,
+"content": "कलिंगापूर्वी अशोक 'चंडाशोक' म्हणून ओळखला जात होता — उग्र अशोक. युद्धानंतरचे परिवर्तन इतके संपूर्ण होते की नंतरच्या पिढ्यांना एकाच आयुष्याचे दोन टप्पे जुळवणे कठीण गेले.",
+"audioUrl": null
+},
+{
+"number": 2,
+"title": "शिलालेख",
+"duration": "७ मिनिटे",
+"isLocked": false,
+"content": "अशोकाचे शिलालेख उपखंडभर दगडांवर आणि स्तंभांवर कोरले गेले — स्थानिक लिपींमध्ये लिहिलेले जेणेकरून लोक ते वाचू शकतील. त्याच्याआधी किंवा नंतर कोणत्याही भारतीय राज्यकर्त्याने इतक्या थेटपणे प्रजेशी संवाद साधला नाही.",
+"audioUrl": null
+}
+]
+}
+],
+"quizQuestions": [
+{
+"id": "quiz_001",
+"question": "अशोकाने कोणत्या साम्राज्यावर राज्य केले?",
+"options": ["गुप्त", "मौर्य", "चोल", "मराठा"],
+"correctIndex": 1,
+"xp": 25
+},
+{
+"id": "quiz_002",
+"question": "स्वराज्याच्या संकल्पनेशी कोणता राजा जवळून जोडला जातो?",
+"options": ["अशोक", "राजाराज चोल", "शिवाजी महाराज", "अकबर"],
+"correctIndex": 2,
+"xp": 30
+},
+{
+"id": "quiz_003",
+"question": "पानिपतची तिसरी लढाई कोणत्या वर्षी झाली?",
+"options": ["१५२६", "१६७४", "१७६१", "१८५७"],
+"correctIndex": 2,
+"xp": 35
+}
+]
+}
+}
