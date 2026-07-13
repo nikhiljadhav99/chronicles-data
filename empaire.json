@@ -66,7 +66,7 @@
           "number": 6,
           "title": "Bindusara holds the center",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Chandragupta's son Bindusara inherited an empire already vast, and spent his reign consolidating rather than dramatically expanding it, reportedly extending Mauryan influence further into the Deccan plateau. Greek and Roman writers knew him as \"Amitrochates,\" a rendering of an Indian title, and diplomatic contact with the Hellenistic world continued during his reign — including, according to later fragments, a request from Bindusara to the Seleucid court for wine, dried figs, and a Greek philosopher, a small but telling detail of the cosmopolitan tastes of the Mauryan court.",
           "audioUrl": null
         },
@@ -74,7 +74,7 @@
           "number": 7,
           "title": "A prince named Ashoka",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Among Bindusara's many sons, Ashoka was sent while still young to serve as a provincial governor, first to Taxila in the northwest, where he was dispatched to quell a local uprising, and later to Ujjain in central India, where he met and married (or took as consort) Devi, a merchant's daughter from nearby Vidisha. Bindusara's death, around 274–272 BCE, triggered a succession struggle whose details survive mainly through later Buddhist legend — most notably the Ashokavadana, which claims Ashoka fought and killed rival half-brothers to secure the throne. Modern historians treat the most extreme versions of these stories with real skepticism, but agree the succession was contested and took years to fully resolve, with Ashoka's formal coronation only taking place around 268 BCE.",
           "audioUrl": null
         },
@@ -82,7 +82,7 @@
           "number": 8,
           "title": "The Kalinga War",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In the eighth year of his reign, around 261 BCE, Ashoka led a massive campaign against Kalinga, the last significant independent kingdom on the subcontinent's eastern seaboard. The war is known in unusual detail because Ashoka himself later described it, in his Thirteenth Major Rock Edict: roughly one hundred and fifty thousand people deported, one hundred thousand killed in the fighting, and many more dead afterward from the war's wider devastation. It is one of the only wars in the ancient world recorded, in such stark terms, by the ruler who waged it.",
           "audioUrl": null
         },
@@ -90,7 +90,7 @@
           "number": 9,
           "title": "Ashoka and the age of Dhamma",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The devastation at Kalinga changed the direction of Ashoka's reign entirely. He renounced further wars of conquest, turned toward Buddhism, and governed through a program he called dhamma — a broad moral and civic code of tolerance, non-violence, and welfare, applied across an empire of enormous religious and ethnic diversity. He built hospitals for people and animals, planted shade trees and dug wells along the empire's roads, and had his moral instructions carved onto rock faces and stone pillars across the subcontinent — inscriptions that remain the primary source for reconstructing his reign today.",
           "audioUrl": null
         },
@@ -98,7 +98,7 @@
           "number": 10,
           "title": "Edicts across an empire",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Beneath the moral vision of dhamma sat the practical machinery of one of the ancient world's largest empires, governed through provinces such as Taxila, Ujjain, Tosali, and Suvarnagiri, each administered by a viceroy reporting to Pataliputra. Ashoka created a new class of officials, the dhamma-mahamatras, tasked with promoting his ethical program and checking on the welfare of prisoners and religious minorities. His edicts were written mostly in Prakrit using the Brahmi script, though in the northwest some appeared in Kharosthi, and at Kandahar in Greek and Aramaic — a reflection of just how far Mauryan administrative reach and cultural contact extended.",
           "audioUrl": null
         },
@@ -106,7 +106,7 @@
           "number": 11,
           "title": "Buddhism spreads beyond India",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Ashoka's edicts name the distant Hellenistic rulers to whom he sent envoys of dhamma, including Antiochus II, Ptolemy II of Egypt, and Antigonus II Gonatas of Macedon. Tradition holds that closer to home, he sent his own son Mahinda and daughter Sanghamitra to Sri Lanka, where they converted King Devanampiya Tissa and helped establish a Buddhist tradition on the island that has endured for well over two thousand years — one of the most consequential religious missions in the ancient world, carried out at the direction of a Mauryan emperor.",
           "audioUrl": null
         },
@@ -114,7 +114,7 @@
           "number": 12,
           "title": "Ashoka's final years and death",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The final years of Ashoka's reign are the least documented part of his life; his later edicts grow sparser, and no contemporary source records his decline. Later legend claims that in old age his ministers and grandson moved to restrict his access to the royal treasury, alarmed at how much he was donating to Buddhist monasteries. He died around 232 BCE, most likely at Pataliputra, after a reign of roughly thirty-seven years, leaving behind an empire without a clear, unchallenged successor.",
           "audioUrl": null
         },
@@ -122,7 +122,7 @@
           "number": 13,
           "title": "A swift unraveling",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Ashoka's death left no ruler capable of holding his vast inheritance together. Ancient sources disagree on exactly who followed him, and succession disputes among his descendants eroded central authority quickly. The sheer difficulty of governing such an enormous and diverse territory without Ashoka's personal authority and the unifying framework of dhamma took its toll, and within roughly fifty years the empire had effectively begun to dissolve, its outlying provinces slipping from central control one by one.",
           "audioUrl": null
         },
@@ -130,7 +130,7 @@
           "number": 14,
           "title": "The fall of the Mauryas",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The Mauryan Empire formally ended in 185 BCE, when the last Mauryan ruler, Brihadratha, was assassinated by his own military commander, Pushyamitra Shunga, during a public review of the troops. Pushyamitra founded the Shunga dynasty in the Mauryas' place, ruling over a much-reduced kingdom centered on Magadha, a fraction of the subcontinent-spanning empire Chandragupta had founded and Ashoka had governed at its height.",
           "audioUrl": null
         },
@@ -138,7 +138,7 @@
           "number": 15,
           "title": "Legacy of the Mauryan Empire",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The Mauryan Empire was the first state to unite most of the Indian subcontinent under a single administration, and Ashoka's reign in particular left a moral and cultural legacy far outlasting the dynasty's political collapse. For nearly two thousand years, Ashoka survived mainly as a hazy legendary figure, his own inscriptions unreadable after the Brahmi script fell out of use — until 1837, when the British scholar James Prinsep deciphered it, restoring Ashoka to history. Today, the four-lion capital from his pillar at Sarnath is India's national emblem, and the wheel at its base sits at the center of the Indian flag.",
           "audioUrl": null
         }
@@ -218,7 +218,7 @@
           "number": 7,
           "title": "Akbar's religious and administrative reforms",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Akbar governed with a religious tolerance unusual for a ruler of his era, abolishing the jizya tax on non-Muslim subjects and hosting debates among scholars of different faiths at his court in Fatehpur Sikri. He later promoted Din-i-Ilahi, an eclectic spiritual and ethical order blending elements of several religions, though it attracted few followers beyond his inner circle. More lasting was his administrative reform: the mansabdari system, which ranked nobles and officials by numerical grade tied to military and administrative obligation, creating a structure that would outlast the dynasty itself.",
           "audioUrl": null
         },
@@ -226,7 +226,7 @@
           "number": 8,
           "title": "Jahangir and the court of art",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Akbar's son Jahangir, who took the throne in 1605, presided over an empire largely secure enough that he could indulge his own considerable passions: painting, natural history, and court chronicle-writing. Mughal miniature painting reached new heights of detail and naturalism under his patronage, and his own memoirs, the Jahangirnama, record close observations of plants, animals, and court life with an eye more suited to a naturalist than a conqueror.",
           "audioUrl": null
         },
@@ -234,7 +234,7 @@
           "number": 9,
           "title": "Nur Jahan's power",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In the later years of Jahangir's reign, effective power increasingly rested with his wife, Empress Nur Jahan, an exceptionally capable political operator who issued coins in her own name, held court audiences, and built a faction that dominated Mughal politics as Jahangir's health declined — an influence rare for a woman in any pre-modern empire, and one that provoked lasting resentment among rival nobles and, eventually, among Jahangir's own sons.",
           "audioUrl": null
         },
@@ -242,7 +242,7 @@
           "number": 10,
           "title": "Shah Jahan's rise to the throne",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Jahangir's death in 1627 triggered a war of succession, as was common in Mughal transitions of power. His son Khurram, who took the throne as Shah Jahan, moved decisively against rival claimants, including relatives placed in his path by Nur Jahan's faction, and secured the throne through a combination of military action and the systematic elimination of potential challengers.",
           "audioUrl": null
         },
@@ -250,7 +250,7 @@
           "number": 11,
           "title": "Shah Jahan and the age of marble",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Shah Jahan presided over the empire's age of architectural grandeur, commissioning the Taj Mahal in memory of his wife Mumtaz Mahal, who died in childbirth in 1631, along with the Red Fort and the Jama Masjid in his new capital of Shahjahanabad, and the jewel-encrusted Peacock Throne. Beneath the marble splendor, the treasury strained under the enormous cost of these building projects, and rivalry among his four sons — Dara Shikoh, Shah Shuja, Aurangzeb, and Murad — was already sharpening into open hostility.",
           "audioUrl": null
         },
@@ -258,7 +258,7 @@
           "number": 12,
           "title": "War of succession among Shah Jahan's sons",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "When Shah Jahan fell seriously ill in 1657, his sons moved against each other in a brutal war of succession. Dara Shikoh, the favored eldest son and a scholar of comparative religion, was outmaneuvered militarily by his more disciplined and politically ruthless brother Aurangzeb, who defeated him in battle, had him paraded through Delhi in chains, and ultimately executed him on charges of apostasy.",
           "audioUrl": null
         },
@@ -266,7 +266,7 @@
           "number": 13,
           "title": "Aurangzeb seizes the throne",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Having defeated his brothers, Aurangzeb imprisoned his own father, Shah Jahan, in the Agra Fort for the remaining eight years of the old emperor's life, reportedly confined within sight of the Taj Mahal he had built. Aurangzeb formally took the throne in 1658, beginning the longest reign of any Mughal emperor and steering the empire in a markedly different direction from his predecessors.",
           "audioUrl": null
         },
@@ -274,7 +274,7 @@
           "number": 14,
           "title": "Aurangzeb's long reign and the Deccan wars",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Aurangzeb expanded Mughal territory to its greatest extent, but became consumed for decades by war in the Deccan, particularly against the rising Maratha power founded by Shivaji and sustained after his death by his successors. Aurangzeb eventually moved his entire court and army south in an attempt to crush Maratha resistance once and for all, a campaign that dragged on for over two decades without ever achieving decisive victory, draining the imperial treasury and exhausting the army even as the emperor grew old in the field.",
           "audioUrl": null
         },
@@ -282,7 +282,7 @@
           "number": 15,
           "title": "Aurangzeb's religious policies",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Aurangzeb reimposed the jizya tax on non-Muslim subjects that Akbar had abolished, and his reign saw instances of temple destruction alongside continued patronage of some Hindu institutions — a record that remains genuinely contested among historians, who differ on how much of his policy was driven by religious orthodoxy versus political calculation against specific rebellious or rival powers. What is not disputed is that his policies, whatever their intent, deepened resentment among several of the empire's constituent communities during a reign already strained by endless warfare.",
           "audioUrl": null
         },
@@ -290,7 +290,7 @@
           "number": 16,
           "title": "Twilight begins",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Aurangzeb died in 1707 at an advanced age, having spent his final years in the Deccan far from Delhi, and left behind an empire exhausted by decades of war and a treasury nearly emptied by it. His successors proved unable to match his political skill or hold his territory together; the throne changed hands rapidly amid palace intrigue, and effective control over distant provinces began slipping toward regional governors and rising local powers, including the Marathas, the Sikhs in Punjab, and the nawabs of Bengal and Awadh.",
           "audioUrl": null
         },
@@ -298,7 +298,7 @@
           "number": 17,
           "title": "Invasions from the west",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Mughal weakness invited external attack. In 1739, the Persian conqueror Nadir Shah sacked Delhi, massacred much of its population, and carried off the Peacock Throne along with the legendary Koh-i-Noor diamond, dealing a blow from which Mughal prestige never recovered. Decades later, the Afghan ruler Ahmad Shah Abdali launched repeated invasions into northern India, further destabilizing an already fragile imperial order and setting the stage for the confrontation between his forces and the Marathas at Panipat in 1761.",
           "audioUrl": null
         },
@@ -306,7 +306,7 @@
           "number": 18,
           "title": "Rise of regional powers and the East India Company",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "As Mughal authority crumbled, the English East India Company, originally a trading concern, steadily expanded its political and military footprint in India. Its decisive victory at the Battle of Plassey in 1757, followed by victory at Buxar in 1764, secured it the diwani — the right to collect revenue — over Bengal, transforming a commercial enterprise into a territorial power that would, over the following century, eclipse the authority of the Mughal emperors it nominally still recognized.",
           "audioUrl": null
         },
@@ -314,7 +314,7 @@
           "number": 19,
           "title": "Bahadur Shah Zafar and 1857",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "By the mid-nineteenth century, the last Mughal emperor, Bahadur Shah Zafar, a poet of genuine talent, held only symbolic authority confined largely to the Red Fort in Delhi, his empire reduced to a pension paid by the British. In 1857, rebelling Indian soldiers proclaimed him the nominal leader of a widespread uprising against East India Company rule. After the revolt was crushed, the British held Zafar responsible, exiled him to Rangoon in British Burma, and formally abolished the Mughal throne, ending the dynasty founded by Babur more than three centuries earlier.",
           "audioUrl": null
         },
@@ -322,7 +322,7 @@
           "number": 20,
           "title": "Legacy of the Mughal Empire",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Despite its long decline, the Mughal Empire left an enduring imprint on the subcontinent: monumental architecture, from the Taj Mahal to the Red Fort; a sophisticated administrative and revenue system later adapted by the British; and a rich tradition of painting, poetry, and cuisine that continues to shape South Asian culture today. Few empires anywhere have left behind so visible and lasting a legacy from so turbulent and often violent a history of conquest, succession war, and eventual collapse.",
           "audioUrl": null
         }
@@ -402,7 +402,7 @@
           "number": 7,
           "title": "The execution of Sambhaji",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In 1689, Sambhaji was captured by Mughal forces after being betrayed, and brought before Aurangzeb, who offered to spare his life in exchange for conversion to Islam and the surrender of Maratha forts. Sambhaji refused, and was tortured and executed — a brutal episode that, rather than breaking Maratha resistance as Aurangzeb intended, hardened it, transforming the fight against the Mughals into a broader popular cause across the Maratha homeland.",
           "audioUrl": null
         },
@@ -410,7 +410,7 @@
           "number": 8,
           "title": "Rajaram and the war of endurance",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "With Sambhaji dead and Raigad under Mughal siege, his brother Rajaram fled south to the fortress of Jinji in the far Carnatic, from where he continued to direct Maratha resistance for years. In his absence, and later after his own death in 1700, a decentralized network of Maratha commanders — including Sambhaji's widow Tarabai, who ruled as regent for her young son — kept up a relentless guerrilla campaign that Mughal forces, however numerous, could never fully suppress.",
           "audioUrl": null
         },
@@ -418,7 +418,7 @@
           "number": 9,
           "title": "War against Aurangzeb",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The war dragged on for over two decades, draining the Mughal treasury and army without ever achieving the total victory Aurangzeb sought — a slow, grinding contest that outlasted the emperor himself. Aurangzeb died in the Deccan in 1707, having spent the final years of his life and reign chasing a Maratha resistance movement he was never able to extinguish, a costly stalemate that left the Mughal Empire exhausted just as Maratha power was poised to expand.",
           "audioUrl": null
         },
@@ -426,7 +426,7 @@
           "number": 10,
           "title": "Shahu and the rise of the Peshwas",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "After Aurangzeb's death, the Mughals released Shivaji's grandson Shahu, whom they had held captive since childhood, calculating that his return would divide Maratha loyalties against Tarabai's regency. It worked — Shahu and Tarabai's factions fought a bitter civil war for the Maratha throne, which Shahu eventually won. During this period, he came to rely heavily on a capable Chitpavan Brahmin minister, Balaji Vishwanath, whom he appointed Peshwa, or prime minister, beginning a shift in real power away from the Bhonsle royal line.",
           "audioUrl": null
         },
@@ -434,7 +434,7 @@
           "number": 11,
           "title": "Balaji Vishwanath and the Peshwa system",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In 1719, Balaji Vishwanath negotiated a landmark agreement with the Mughal court, securing formal Mughal recognition of Maratha rights to collect chauth and sardeshmukhi — substantial revenue shares — across large parts of the Deccan, in exchange for Maratha military support to the beleaguered Mughal government. It was a turning point: the Marathas were no longer simply raiders or rebels, but a recognized fiscal and military power operating within, and increasingly above, the Mughal imperial system.",
           "audioUrl": null
         },
@@ -442,7 +442,7 @@
           "number": 12,
           "title": "Baji Rao I and Maratha expansion",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Balaji Vishwanath's son, Baji Rao I, who became Peshwa in 1720, proved to be one of the most brilliant military commanders of the era, reportedly undefeated in battle across a career of rapid, far-ranging campaigns. Under his leadership, Maratha power expanded dramatically beyond the Deccan into Malwa, Gujarat, and Bundelkhand, and Maratha cavalry reached as far as Delhi itself, transforming the confederacy from a regional Deccan power into a force that dominated much of the Indian subcontinent.",
           "audioUrl": null
         },
@@ -450,7 +450,7 @@
           "number": 13,
           "title": "The Maratha confederacy",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In the decades after Baji Rao's death, power within the Maratha state grew increasingly decentralized, shifting toward great noble families who governed their own territories while nominally deferring to the Peshwa at Pune: the Scindias of Gwalior, the Holkars of Indore, the Gaekwads of Baroda, and the Bhonsles of Nagpur. This loose confederacy could field enormous combined armies and dominated much of India by the mid-1700s, but its scattered command structure — powerful, semi-independent, and often rivals as much as allies — would prove a serious vulnerability in moments of crisis.",
           "audioUrl": null
         },
@@ -458,7 +458,7 @@
           "number": 14,
           "title": "Panipat and decline",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In 1761, a massive Maratha army suffered a catastrophic defeat against Ahmad Shah Abdali's invading Afghan forces at the Third Battle of Panipat, losing tens of thousands of soldiers, including many of the confederacy's most capable commanders and a generation of its fighting men. It was the single greatest military disaster in Maratha history, and although the empire would recover politically within a decade, Panipat left a wound in Maratha military strength and confidence from which the confederacy never fully returned to its earlier momentum.",
           "audioUrl": null
         },
@@ -466,7 +466,7 @@
           "number": 15,
           "title": "Recovery under Madhavrao I",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The young Peshwa Madhavrao I, taking office in the immediate aftermath of Panipat, proved a capable and disciplined ruler who worked methodically to rebuild Maratha authority across northern and central India, reasserting influence as far as Delhi and repairing relations among the confederacy's fractious noble houses. His early death in 1772, at only twenty-seven, cut short what many historians regard as a genuine recovery, and control of the Peshwaship soon slipped into a bitter internal succession struggle.",
           "audioUrl": null
         },
@@ -474,7 +474,7 @@
           "number": 16,
           "title": "Internal rivalries and the Anglo-Maratha Wars begin",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Raghunathrao, an uncle sidelined in the Peshwa succession, sought British East India Company support to seize power for himself, triggering the First Anglo-Maratha War (1775–1782) — the first major armed conflict between the Marathas and the rapidly expanding Company. The war ended largely in a Maratha strategic victory, formalized in the Treaty of Salbai, but it marked the beginning of a new and far more dangerous rival entering Maratha politics.",
           "audioUrl": null
         },
@@ -482,7 +482,7 @@
           "number": 17,
           "title": "The Second Anglo-Maratha War",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "Deepening rivalries among the confederate Maratha chiefs — particularly Scindia and Holkar — culminated in a destructive civil conflict that left the Peshwa, Baji Rao II, vulnerable and isolated. In 1802, he signed the Treaty of Bassein, accepting British protection and effectively surrendering much of Maratha independence to the East India Company. This provoked the Second Anglo-Maratha War (1803–1805), in which Scindia and the Bhonsle of Nagpur suffered significant defeats against British forces under Arthur Wellesley, later the Duke of Wellington.",
           "audioUrl": null
         },
@@ -490,7 +490,7 @@
           "number": 18,
           "title": "The Third Anglo-Maratha War and the fall",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "In a final attempt to reverse Maratha decline, Peshwa Baji Rao II led a broad coalition against the British in the Third Anglo-Maratha War (1817–1818), but the confederacy, weakened by decades of internal rivalry and now facing a far more organized and better-resourced adversary, was decisively defeated. Baji Rao II surrendered and was pensioned off by the British, who annexed the Peshwa's territories directly, formally ending nearly a century and a half of Maratha imperial power in 1818.",
           "audioUrl": null
         },
@@ -498,7 +498,7 @@
           "number": 19,
           "title": "Legacy of the Marathas",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "The Maratha state, born from Shivaji's determination to build Swarajya in the face of empires far larger than his own, grew within a century into the dominant power across much of the Indian subcontinent, checking and ultimately outlasting Mughal authority in the Deccan before its own eventual fall to British power. Its legacy endures in the forts and naval bases that still line the Sahyadris and the Konkan coast, in the administrative and military traditions carried forward by its noble houses long after 1818, and in the enduring symbolic power of Shivaji's idea of self-rule, later invoked by Indian nationalists in their own struggle against colonial power.",
           "audioUrl": null
         }
@@ -572,7 +572,7 @@
           "number": 6,
           "title": "बिंदुसाराचा भक्कम कारभार",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "चंद्रगुप्ताचा मुलगा बिंदुसार याला आधीच विशाल असलेले साम्राज्य वारशाने मिळाले, आणि त्याने आपली कारकीर्द मोठ्या प्रमाणात विस्तारापेक्षा त्याच्या बळकटीकरणात घालवली, तसेच दख्खनच्या पठारापर्यंत मौर्य प्रभाव आणखी वाढवला, असे मानले जाते. ग्रीक व रोमन लेखक त्याला \"अमित्रोचेट्स\" या नावाने ओळखत, आणि त्याच्या वडिलांनी सेल्युकसशी केलेल्या तहातून वारशाने मिळालेले हेलेनिस्टिक जगाशी राजनैतिक संबंध त्याच्या कारकिर्दीतही टिकून राहिले — यात, नंतरच्या तुकड्यांनुसार, बिंदुसाराने सेल्युसिड दरबाराकडे मद्य, वाळलेले अंजीर आणि एक ग्रीक तत्त्वज्ञ पाठवण्याची विनंती केल्याचाही उल्लेख आहे, जो मौर्य दरबाराच्या वैश्विक अभिरुचीचे एक छोटेसे पण बोलके उदाहरण आहे.",
           "audioUrl": null
         },
@@ -580,7 +580,7 @@
           "number": 7,
           "title": "अशोक नावाचा राजपुत्र",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "बिंदुसाराच्या अनेक पुत्रांपैकी, अशोकाला लहान वयातच प्रांताधिपती म्हणून पाठवण्यात आले — प्रथम वायव्येकडील तक्षशिला येथे, जिथे स्थानिक उठाव शमवण्यासाठी त्याला पाठवण्यात आले, आणि नंतर मध्य भारतातील उज्जैन येथे, जिथे त्याची जवळच्या विदिशा येथील एका व्यापाऱ्याची मुलगी, देवी, हिच्याशी भेट झाली आणि विवाह (किंवा उपपत्नी म्हणून स्वीकार) झाला. बिंदुसाराचे निधन, सुमारे इ.स.पू. २७४-२७२ दरम्यान, वारसाहक्काच्या संघर्षाला कारणीभूत ठरले, ज्याचे तपशील मुख्यतः नंतरच्या बौद्ध दंतकथांतून — विशेषतः अशोकावदानातून — मिळतात, ज्यात अशोकाने गादी मिळवण्यासाठी प्रतिस्पर्धी सावत्र बंधूंना ठार मारल्याचा दावा केला जातो. आधुनिक इतिहासकार या कथांच्या अतिरंजित आवृत्त्यांकडे साशंकतेने पाहतात, परंतु वारसाहक्काचा संघर्ष झाला आणि तो सोडवण्यास वर्षे लागली, यावर सर्वसाधारण एकमत आहे. अशोकाचा औपचारिक राज्याभिषेक सुमारे इ.स.पू. २६८ सालीच झाला.",
           "audioUrl": null
         },
@@ -588,7 +588,7 @@
           "number": 8,
           "title": "कलिंगचे युद्ध",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "आपल्या कारकिर्दीच्या आठव्या वर्षी, सुमारे इ.स.पू. २६१ साली, अशोकाने भारतीय उपखंडाच्या पूर्व किनारपट्टीवरील शेवटच्या महत्त्वाच्या स्वतंत्र राज्यावर, कलिंगावर, प्रचंड मोठी मोहीम राबवली. हे युद्ध असामान्य तपशिलात ज्ञात आहे, कारण अशोकाने स्वतःच नंतर आपल्या तेराव्या मोठ्या शिलालेखात त्याचे वर्णन केले: सुमारे दीड लाख लोक हद्दपार झाले, एक लाख लढाईत मारले गेले, आणि युद्धाच्या व्यापक विध्वंसामुळे त्यानंतर आणखी अनेक पटींनी लोक मृत्युमुखी पडले. ज्या राज्यकर्त्याने युद्ध छेडले, त्यानेच अशा स्पष्ट शब्दांत त्याचे वर्णन केलेले हे प्राचीन जगातील दुर्मीळ युद्धांपैकी एक आहे.",
           "audioUrl": null
         },
@@ -596,7 +596,7 @@
           "number": 9,
           "title": "अशोक आणि धम्माचा काळ",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "कलिंगातील विध्वंसाने अशोकाच्या कारकिर्दीची दिशा पूर्णपणे बदलली. त्याने पुढील विजयाची युद्धे सोडून दिली, बौद्ध धर्माकडे वळला, आणि धम्म नावाच्या एका कार्यक्रमाद्वारे राज्यकारभार केला — विविध धर्म व वंशांनी नटलेल्या साम्राज्यासाठी सहिष्णुता, अहिंसा आणि कल्याण यांवर आधारित एक व्यापक नैतिक व नागरी संहिता. त्याने माणसांसाठी व प्राण्यांसाठी रुग्णालये बांधली, साम्राज्याच्या रस्त्यांवर सावलीसाठी झाडे लावली व विहिरी खोदल्या, आणि आपल्या नैतिक आदेशांचे शिलालेख उपखंडभर खडकांवर व दगडी स्तंभांवर कोरवून घेतले — हे शिलालेख आज त्याच्या कारकिर्दीची पुनर्रचना करण्यासाठीचे मुख्य साधन आहेत.",
           "audioUrl": null
         },
@@ -604,7 +604,7 @@
           "number": 10,
           "title": "साम्राज्यभर पसरलेले शिलालेख",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "धम्माच्या नैतिक दृष्टिकोनाखाली त्या काळातील सर्वांत मोठ्या साम्राज्यांपैकी एकाची व्यावहारिक यंत्रणा कार्यरत होती, जी तक्षशिला, उज्जैन, तोसली आणि सुवर्णगिरी यांसारख्या प्रांतांद्वारे चालवली जात असे, प्रत्येकाचा कारभार पाटलिपुत्राला उत्तरदायी असलेल्या एका सुभेदाराकडे असे. अशोकाने धम्म-महामात्र नावाच्या अधिकाऱ्यांचा एक नवा वर्ग निर्माण केला, ज्यांच्यावर आपला नैतिक कार्यक्रम राबवण्याची तसेच कैदी व धार्मिक अल्पसंख्याकांच्या कल्याणाची पाहणी करण्याची जबाबदारी होती. त्याचे शिलालेख मुख्यतः ब्राह्मी लिपीतील प्राकृत भाषेत लिहिलेले होते, जरी वायव्येकडे काही खरोष्ठी लिपीत आणि कंदाहार येथे ग्रीक व अरामाईक भाषांत आढळतात — मौर्य प्रशासकीय व्याप्ती आणि सांस्कृतिक संपर्क किती दूरवर पोहोचला होता, याचे हे प्रतिबिंब आहे.",
           "audioUrl": null
         },
@@ -612,7 +612,7 @@
           "number": 11,
           "title": "भारताबाहेर बौद्ध धर्माचा प्रसार",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "अशोकाच्या शिलालेखांत त्याने धम्माचे दूत ज्या दूरस्थ हेलेनिस्टिक राज्यकर्त्यांकडे पाठवले, त्यांची नावे आढळतात — यात अँटिओकस दुसरा, इजिप्तचा टॉलेमी दुसरा, आणि मॅसिडोनियाचा अँटिगोनस दुसरा गोनाटास यांचा समावेश आहे. परंपरेनुसार, याच काळात त्याने आपला मुलगा महेंद्र आणि मुलगी संघमित्रा यांना श्रीलंकेला पाठवले, जिथे त्यांनी राजा देवानामप्रिय तिस्स याचे धर्मांतर घडवून आणले आणि त्या बेटावर बौद्ध परंपरेची स्थापना केली — जी दोन हजार वर्षांहूनही अधिक काळ टिकून राहिली आहे. एका मौर्य सम्राटाच्या आदेशाने पार पडलेली ही प्राचीन जगातील सर्वांत दूरगामी परिणाम करणाऱ्या धार्मिक मोहिमांपैकी एक होती.",
           "audioUrl": null
         },
@@ -620,7 +620,7 @@
           "number": 12,
           "title": "अशोकाची अखेरची वर्षे आणि निधन",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "अशोकाच्या कारकिर्दीतील अखेरची वर्षे त्याच्या जीवनातील सर्वांत कमी दस्तऐवजीकरण झालेला भाग आहेत; त्याचे नंतरचे शिलालेख विरळ होत जातात, आणि कोणताही समकालीन संदर्भ त्याच्या पतनाची नोंद ठेवत नाही. नंतरच्या दंतकथेनुसार, वृद्धापकाळात तो बौद्ध विहारांना इतका खजिना दान करत होता की त्याचे मंत्री व नातू यांनी राजकोषावरील त्याचा अधिकार मर्यादित करण्याचा प्रयत्न केला. सुमारे इ.स.पू. २३२ साली, अंदाजे सदतीस वर्षांच्या कारकिर्दीनंतर, बहुधा पाटलिपुत्र येथे त्याचे निधन झाले, आणि त्याच्यामागे कोणताही स्पष्ट, निर्विवाद उत्तराधिकारी नसलेले साम्राज्य उरले.",
           "audioUrl": null
         },
@@ -628,7 +628,7 @@
           "number": 13,
           "title": "वेगाने उलगडणारे साम्राज्य",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "अशोकाच्या निधनानंतर त्याचा विशाल वारसा एकसंध राखण्यास सक्षम असा कोणताही शासक उरला नाही. त्याच्यानंतर नेमके कोण आले, याबाबत प्राचीन संदर्भांत मतभेद आहेत, आणि त्याच्या वंशजांमधील वारसाहक्काच्या वादांनी केंद्रीय सत्तेची झीज वेगाने केली. अशोकाच्या व्यक्तिगत अधिकाराशिवाय आणि धम्माच्या एकसंध चौकटीशिवाय एवढा प्रचंड व वैविध्यपूर्ण प्रदेश सांभाळण्याची निव्वळ अडचणही यात भर घालत गेली, आणि अंदाजे पन्नास वर्षांतच साम्राज्य प्रत्यक्षात विस्कळीत होऊ लागले, त्याचे दूरस्थ प्रांत एकामागोमाग एक केंद्रीय नियंत्रणातून निसटत गेले.",
           "audioUrl": null
         },
@@ -636,7 +636,7 @@
           "number": 14,
           "title": "मौर्य साम्राज्याचा अस्त",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "इ.स.पू. १८५ साली, शेवटचा मौर्य शासक बृहद्रथ याची, सैन्याच्या जाहीर पाहणीदरम्यान, त्याच्याच सेनापती पुष्यमित्र शुंग याने हत्या केली, आणि मौर्य साम्राज्याचा औपचारिक अंत झाला. पुष्यमित्राने मौर्यांच्या जागी शुंग घराण्याची स्थापना केली, आणि मगधापुरता मर्यादित असलेल्या, चंद्रगुप्ताने स्थापन केलेल्या व अशोकाने आपल्या शिखरावर असताना कारभारलेल्या उपखंडव्यापी साम्राज्याच्या तुलनेत अत्यंत लहान अशा राज्यावर राज्य केले.",
           "audioUrl": null
         },
@@ -644,7 +644,7 @@
           "number": 15,
           "title": "मौर्य साम्राज्याचा वारसा",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "मौर्य साम्राज्य हे भारतीय उपखंडाचा बहुतांश भाग एकाच प्रशासनाखाली एकत्र आणणारे पहिले राज्य होते, आणि विशेषतः अशोकाच्या कारकिर्दीने घराण्याच्या राजकीय पतनापेक्षाही खूप अधिक काळ टिकणारा नैतिक व सांस्कृतिक वारसा मागे ठेवला. जवळपास दोन हजार वर्षे अशोक मुख्यतः एका अस्पष्ट दंतकथेतील व्यक्तिमत्त्व म्हणूनच उरला, कारण ब्राह्मी लिपी वापरातून गेल्यानंतर त्याचे स्वतःचे शिलालेख वाचता येईनासे झाले होते — अखेर १८३७ साली ब्रिटिश विद्वान जेम्स प्रिन्सेप यांनी ब्राह्मी लिपी उलगडली, आणि अशोकाला इतिहासात पुन्हा प्रतिष्ठापित केले. आज सारनाथ येथील त्याच्या स्तंभावरील चार सिंहांचे शीर्ष हे भारताचे राष्ट्रीय बोधचिन्ह आहे, आणि त्याच्या पायथ्याशी असलेले चक्र भारतीय राष्ट्रध्वजाच्या मध्यभागी विराजमान आहे.",
           "audioUrl": null
         }
@@ -724,7 +724,7 @@
           "number": 7,
           "title": "अकबराचे धार्मिक व प्रशासकीय सुधारणा",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "अकबराने आपल्या काळातील राज्यकर्त्यांच्या मानाने असामान्य धार्मिक सहिष्णुतेने राज्यकारभार केला, अहिंदूंवरील जिझिया कर रद्द केला, आणि फतेहपूर सिक्री येथील आपल्या दरबारात विविध धर्मांतील विद्वानांमध्ये चर्चासत्रे आयोजित केली. नंतर त्याने दीन-ए-इलाही या अनेक धर्मांतील घटक एकत्र करणाऱ्या संमिश्र आध्यात्मिक व नैतिक पंथाला प्रोत्साहन दिले, जरी त्याला आपल्या निकटवर्तीय गटाबाहेर फारसे अनुयायी मिळाले नाहीत. त्याचे अधिक चिरस्थायी योगदान म्हणजे प्रशासकीय सुधारणा: मनसबदारी व्यवस्था, ज्यात सरदार व अधिकाऱ्यांना लष्करी व प्रशासकीय जबाबदारीशी निगडित संख्यात्मक श्रेणीनुसार क्रमवारी दिली जात असे — ही रचना पुढे घराण्यापेक्षाही अधिक काळ टिकली.",
           "audioUrl": null
         },
@@ -732,7 +732,7 @@
           "number": 8,
           "title": "जहांगीर आणि कलेचा दरबार",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "अकबराचा मुलगा जहांगीर, ज्याने १६०५ साली गादी स्वीकारली, त्याला एवढे सुरक्षित साम्राज्य लाभले की तो आपल्या स्वतःच्या आवडींना — चित्रकला, निसर्गशास्त्र आणि दरबारी इतिवृत्तलेखन — भरपूर वेळ देऊ शकला. त्याच्या आश्रयाखाली मुघल लघुचित्रकलेने तपशील व नैसर्गिकतेच्या नव्या उंचीला स्पर्श केला, आणि त्याच्या स्वतःच्या जहांगीरनामा या संस्मरणांत वनस्पती, प्राणी व दरबारी जीवनाची अशी बारकाईने नोंद आहे, जी एका विजेत्यापेक्षा निसर्गशास्त्रज्ञाला अधिक शोभणारी आहे.",
           "audioUrl": null
         },
@@ -740,7 +740,7 @@
           "number": 9,
           "title": "नूरजहानची सत्ता",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "जहांगीरच्या कारकिर्दीच्या उत्तरार्धात, प्रत्यक्ष सत्ता वाढत्या प्रमाणात त्याची पत्नी, सम्राज्ञी नूरजहान, हिच्या हाती एकवटली — एक अत्यंत कुशल राजकीय व्यक्तिमत्त्व, जिने स्वतःच्या नावाने नाणी पाडली, दरबारी सभा घेतल्या, आणि जहांगीरची प्रकृती ढासळत असताना मुघल राजकारणावर वर्चस्व गाजवणारा एक गट उभा केला — कोणत्याही पूर्वआधुनिक साम्राज्यात स्त्रीसाठी दुर्मीळ असलेला हा प्रभाव होता, आणि यामुळे प्रतिस्पर्धी सरदारांमध्ये तसेच अखेर जहांगीरच्या स्वतःच्या पुत्रांमध्येही कायमस्वरूपी असंतोष निर्माण झाला.",
           "audioUrl": null
         },
@@ -748,7 +748,7 @@
           "number": 10,
           "title": "शहाजहानचा गादीवरील उदय",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१६२७ साली जहांगीरच्या निधनाने वारसाहक्काचे युद्ध सुरू झाले, जे मुघल सत्तांतरात नेहमीचेच होते. त्याचा मुलगा खुर्रम, ज्याने शहाजहान या नावाने गादी स्वीकारली, त्याने नूरजहानच्या गटाने आपल्या मार्गात आणलेल्या नातलगांसह प्रतिस्पर्धी दावेदारांविरुद्ध निर्णायकपणे पावले उचलली, आणि लष्करी कारवाई व संभाव्य आव्हानकर्त्यांच्या पद्धतशीर निपटाऱ्याच्या संयोगातून गादी सुरक्षित केली.",
           "audioUrl": null
         },
@@ -756,7 +756,7 @@
           "number": 11,
           "title": "शहाजहान आणि संगमरवराचा काळ",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "शहाजहानच्या कारकिर्दीत साम्राज्याने वास्तुकलेच्या भव्यतेचा काळ अनुभवला — १६३१ साली प्रसूतीदरम्यान निधन पावलेली आपली पत्नी मुमताज महल हिच्या स्मृतिप्रीत्यर्थ त्याने ताजमहाल उभारला, त्याचबरोबर आपल्या नव्या राजधानी शाहजहानाबादमध्ये लाल किल्ला व जामा मशीद, आणि रत्नजडित मयूर सिंहासनही निर्माण केले. या संगमरवरी वैभवाखाली, या प्रचंड बांधकाम प्रकल्पांच्या खर्चामुळे राजकोषावर ताण पडत होता, आणि त्याच्या चार पुत्रांमध्ये — दारा शुकोह, शाह शुजा, औरंगजेब आणि मुराद — आधीच तीव्र बनत चाललेली स्पर्धा उघड शत्रुत्वाकडे झुकत होती.",
           "audioUrl": null
         },
@@ -764,7 +764,7 @@
           "number": 12,
           "title": "शहाजहानच्या पुत्रांमधील वारसाहक्काचे युद्ध",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१६५७ साली शहाजहान गंभीर आजारी पडला, तेव्हा त्याच्या पुत्रांनी एकमेकांविरुद्ध क्रूर वारसाहक्काचे युद्ध सुरू केले. आवडता ज्येष्ठ पुत्र आणि तुलनात्मक धर्माभ्यासक दारा शुकोह याला त्याचा अधिक शिस्तबद्ध व राजकीयदृष्ट्या निर्दय भाऊ औरंगजेब याने लष्करी डावपेचांत मात दिली, लढाईत पराभूत केले, साखळदंडांनी दिल्लीतून त्याची धिंड काढली, आणि अखेर धर्मत्यागाच्या आरोपाखाली त्याला ठार मारले.",
           "audioUrl": null
         },
@@ -772,7 +772,7 @@
           "number": 13,
           "title": "औरंगजेबाने गादी बळकावली",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "आपल्या भावांचा पराभव केल्यानंतर, औरंगजेबाने आपल्याच वडिलांना, शहाजहानला, आग्रा किल्ल्यात त्या वृद्ध सम्राटाच्या उर्वरित आठ वर्षांसाठी कैद केले — त्याने स्वतः उभारलेल्या ताजमहालाच्या दृष्टिपथात, असे सांगितले जाते. औरंगजेबाने १६५८ साली औपचारिकरीत्या गादी स्वीकारली, कोणत्याही मुघल सम्राटाची सर्वांत प्रदीर्घ कारकीर्द सुरू केली, आणि साम्राज्याला आपल्या पूर्वसुरींपेक्षा स्पष्टपणे वेगळ्या दिशेने नेले.",
           "audioUrl": null
         },
@@ -780,7 +780,7 @@
           "number": 14,
           "title": "औरंगजेबाची प्रदीर्घ कारकीर्द आणि दख्खनची युद्धे",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "औरंगजेबाने मुघल प्रदेशाचा त्याच्या सर्वाधिक विस्तारापर्यंत विस्तार केला, परंतु दख्खनमधील युद्धात, विशेषतः शिवाजींनी स्थापन केलेल्या व त्यांच्या निधनानंतर त्यांच्या उत्तराधिकाऱ्यांनी टिकवलेल्या उगवत्या मराठा सत्तेविरुद्धच्या युद्धात, तो दशकानुदशके गुंतून पडला. अखेर औरंगजेबाने मराठा प्रतिकाराचा कायमचा बीमोड करण्याच्या प्रयत्नात आपला संपूर्ण दरबार व सैन्य दक्षिणेकडे हलवले — ही मोहीम कोणताही निर्णायक विजय न मिळताच दोन दशकांहूनही अधिक काळ चालली, ज्यामुळे राजकोष रिकामा झाला आणि सम्राट स्वतः रणांगणावर वृद्ध होत असतानाच सैन्य थकून गेले.",
           "audioUrl": null
         },
@@ -788,7 +788,7 @@
           "number": 15,
           "title": "औरंगजेबाची धार्मिक धोरणे",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "औरंगजेबाने अकबराने रद्द केलेला जिझिया कर अहिंदूंवर पुन्हा लागू केला, आणि त्याच्या कारकिर्दीत काही मंदिरे उद्ध्वस्त झाल्याच्या घटना घडल्या, तसेच काही हिंदू संस्थांना संरक्षणही मिळत राहिले — हा एक असा नोंदलेला इतिहास आहे, जो इतिहासकारांमध्ये खरोखरच वादग्रस्त आहे, कारण त्याचे धोरण किती धार्मिक कट्टरतेने प्रेरित होते आणि किती विशिष्ट बंडखोर किंवा प्रतिस्पर्धी सत्तांविरुद्धच्या राजकीय गणितामुळे होते, याबाबत मतभेद आहेत. जे निर्विवाद आहे ते म्हणजे, त्याचा हेतू काहीही असो, त्याच्या धोरणांनी आधीच सततच्या युद्धांमुळे ताणलेल्या साम्राज्यातील अनेक समाजघटकांमध्ये असंतोष अधिक खोलवर रुजवला.",
           "audioUrl": null
         },
@@ -796,7 +796,7 @@
           "number": 16,
           "title": "अस्ताची सुरुवात",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१७०७ साली प्रगत वयात औरंगजेबाचे निधन झाले, त्याने आपली अखेरची वर्षे दिल्लीपासून दूर दख्खनमध्ये घालवली होती, आणि दशकानुदशकांच्या युद्धामुळे थकलेले साम्राज्य व जवळजवळ रिकामा झालेला राजकोष मागे ठेवला. त्याचे उत्तराधिकारी त्याच्या राजकीय कौशल्याशी बरोबरी करू शकले नाहीत किंवा त्याचा प्रदेश एकसंध राखू शकले नाहीत; दरबारी कारस्थानांमुळे गादी वेगाने हातबदलत राहिली, आणि दूरस्थ प्रांतांवरील प्रत्यक्ष नियंत्रण प्रादेशिक सुभेदार व मराठे, पंजाबातील शीख, तसेच बंगाल व अवधचे नवाब यांसारख्या उगवत्या स्थानिक सत्तांकडे सरकू लागले.",
           "audioUrl": null
         },
@@ -804,7 +804,7 @@
           "number": 17,
           "title": "पश्चिमेकडून झालेली आक्रमणे",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "मुघल दुर्बलतेने बाह्य आक्रमणांना आमंत्रण दिले. १७३९ साली, पर्शियन विजेता नादिरशाहने दिल्लीची लूट केली, तिथल्या मोठ्या लोकसंख्येची कत्तल केली, आणि मयूर सिंहासन व दंतकथाप्रसिद्ध कोहिनूर हिऱ्यासह खजिना घेऊन गेला — यामुळे मुघल प्रतिष्ठेला असा धक्का बसला की तो पुन्हा कधीच सावरला नाही. काही दशकांनंतर, अफगाण शासक अहमदशाह अब्दालीने उत्तर भारतावर वारंवार आक्रमणे केली, आधीच डळमळीत असलेल्या शाही व्यवस्थेला अधिकच अस्थिर केले, आणि १७६१ साली पानिपत येथे त्याच्या सैन्याचा मराठ्यांशी झालेल्या संघर्षाची पार्श्वभूमी तयार केली.",
           "audioUrl": null
         },
@@ -812,7 +812,7 @@
           "number": 18,
           "title": "प्रादेशिक सत्तांचा उदय आणि ईस्ट इंडिया कंपनी",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "मुघल सत्ता ढासळत असताना, मूळतः व्यापारी संस्था असलेल्या इंग्रज ईस्ट इंडिया कंपनीने भारतात आपले राजकीय व लष्करी पाऊल सातत्याने वाढवले. १७५७ सालच्या प्लासीच्या लढाईतील निर्णायक विजयाने, आणि त्यानंतर १७६४ सालच्या बक्सरच्या विजयाने, कंपनीला बंगालवरील दिवाणी — म्हणजे महसूल वसुलीचा हक्क — मिळाला, आणि पुढील शतकभरात या व्यावसायिक संस्थेचे रूपांतर अशा प्रादेशिक सत्तेत झाले, जिने नाममात्र मान्यता देत असलेल्या मुघल सम्राटांच्या अधिकारालाही मागे टाकले.",
           "audioUrl": null
         },
@@ -820,7 +820,7 @@
           "number": 19,
           "title": "बहादूरशाह जफर आणि १८५७",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "एकोणिसाव्या शतकाच्या मध्यापर्यंत, शेवटचा मुघल सम्राट, खऱ्याखुऱ्या प्रतिभेचा कवी असलेला बहादूरशाह जफर, याच्याकडे केवळ प्रतीकात्मक अधिकार उरला होता, जो मुख्यतः दिल्लीतील लाल किल्ल्यापुरता मर्यादित होता, आणि त्याचे साम्राज्य ब्रिटिशांकडून मिळणाऱ्या निवृत्तिवेतनावर सीमित झाले होते. १८५७ साली, बंड करणाऱ्या भारतीय शिपायांनी त्याला ईस्ट इंडिया कंपनीच्या राजवटीविरुद्धच्या व्यापक उठावाचा नाममात्र नेता घोषित केले. उठाव दडपल्यानंतर, ब्रिटिशांनी जफरला जबाबदार धरले, त्याला ब्रिटिश ब्रह्मदेशातील रंगून येथे हद्दपार केले, आणि मुघल गादी औपचारिकरीत्या रद्द केली, ज्याने बाबराने तीन शतकांपूर्वी स्थापन केलेल्या घराण्याचा अंत केला.",
           "audioUrl": null
         },
@@ -828,7 +828,7 @@
           "number": 20,
           "title": "मुघल साम्राज्याचा वारसा",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "आपल्या प्रदीर्घ अस्तानंतरही, मुघल साम्राज्याने उपखंडावर चिरस्थायी ठसा उमटवला: ताजमहालपासून लाल किल्ल्यापर्यंतची भव्य वास्तुकला; नंतर ब्रिटिशांनी स्वीकारलेली सुसंस्कृत प्रशासकीय व महसूल व्यवस्था; आणि आजही दक्षिण आशियाई संस्कृतीला आकार देणारी चित्रकला, काव्य व पाककलेची समृद्ध परंपरा. विजय, वारसाहक्काची युद्धे आणि अखेरचे पतन यांनी भरलेल्या एवढ्या अशांत इतिहासातूनही एवढा दृश्यमान व चिरस्थायी वारसा मागे ठेवणारी साम्राज्ये फार थोडी आहेत.",
           "audioUrl": null
         }
@@ -908,7 +908,7 @@
           "number": 7,
           "title": "संभाजींची अंमलबजावणी",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१६८९ साली, विश्वासघातामुळे संभाजी मुघल सैन्याच्या हाती सापडले, आणि त्यांना औरंगजेबासमोर आणण्यात आले, ज्याने इस्लाम स्वीकारल्यास व मराठा किल्ले शरण दिल्यास प्राणदान देण्याची अट घातली. संभाजींनी नकार दिला, आणि त्यांचा अमानुष छळ करून वध करण्यात आला — औरंगजेबाला अपेक्षित असलेल्या मराठा प्रतिकाराच्या विघटनाऐवजी, या क्रूर प्रसंगाने प्रतिकार अधिकच बळकट केला, आणि मुघलांविरुद्धचा संघर्ष संपूर्ण मराठा प्रदेशातील एका व्यापक लोकचळवळीत रूपांतरित झाला.",
           "audioUrl": null
         },
@@ -916,7 +916,7 @@
           "number": 8,
           "title": "राजाराम आणि चिवट लढ्याचा काळ",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "संभाजींच्या मृत्यूनंतर आणि रायगडाला मुघल वेढा पडल्यानंतर, त्यांचे बंधू राजाराम दक्षिणेकडील दूरस्थ जिंजी किल्ल्यावर पळून गेले, आणि तेथून त्यांनी अनेक वर्षे मराठा प्रतिकाराचे नेतृत्व सुरू ठेवले. त्यांच्या अनुपस्थितीत, आणि १७०० साली त्यांच्या स्वतःच्या निधनानंतरही, विकेंद्रित मराठा सेनापतींचे जाळे — यात संभाजींची पत्नी ताराबाई, ज्या आपल्या लहान मुलासाठी कारभारी म्हणून राज्य करत होत्या, यांचाही समावेश होता — यांनी अथक गनिमी मोहीम चालू ठेवली, जी कितीही मोठे मुघल सैन्य असले तरी पूर्णपणे दडपू शकले नाही.",
           "audioUrl": null
         },
@@ -924,7 +924,7 @@
           "number": 9,
           "title": "औरंगजेबाविरुद्धचे युद्ध",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "हे युद्ध दोन दशकांहूनही अधिक काळ चालले, ज्यामुळे मुघल राजकोष व सैन्य क्षीण होत गेले, पण औरंगजेबाला हवा असलेला पूर्ण विजय कधीच मिळाला नाही — एक संथ, थकवणारा संघर्ष, जो सम्राटाच्या स्वतःच्याच आयुष्यापेक्षा अधिक काळ चालला. औरंगजेबाचे १७०७ साली दख्खनमध्येच निधन झाले, आपल्या आयुष्याची व कारकिर्दीची अखेरची वर्षे एका अशा मराठा प्रतिकार चळवळीचा पाठलाग करण्यात घालवून, जिचा बीमोड तो कधीच करू शकला नाही — हा खर्चिक गतिरोध मुघल साम्राज्याला अशा वेळी थकवून गेला, जेव्हा मराठा सत्ता विस्ताराच्या उंबरठ्यावर होती.",
           "audioUrl": null
         },
@@ -932,7 +932,7 @@
           "number": 10,
           "title": "शाहू आणि पेशव्यांचा उदय",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "औरंगजेबाच्या निधनानंतर, मुघलांनी शिवाजींचा नातू शाहू, ज्याला त्यांनी बालपणापासून कैदेत ठेवले होते, याची सुटका केली, या गणितावर की त्याच्या परतण्याने ताराबाईंच्या कारभाराविरुद्ध मराठा निष्ठा विभागल्या जातील. हे गणित यशस्वी ठरले — शाहू व ताराबाई यांच्या गटांत मराठा गादीसाठी एक कडवे गृहयुद्ध झाले, जे अखेर शाहूंनी जिंकले. या काळात, त्यांनी बाळाजी विश्वनाथ या एका सक्षम चित्पावन ब्राह्मण मंत्र्यावर मोठा विश्वास ठेवला, ज्यांना त्यांनी पेशवा म्हणजे प्रधानमंत्री नेमले, आणि यातूनच प्रत्यक्ष सत्ता भोसले राजघराण्याकडून हळूहळू दुसरीकडे झुकू लागली.",
           "audioUrl": null
         },
@@ -940,7 +940,7 @@
           "number": 11,
           "title": "बाळाजी विश्वनाथ आणि पेशवाई व्यवस्था",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१७१९ साली, बाळाजी विश्वनाथ यांनी मुघल दरबाराशी एक ऐतिहासिक करार केला, ज्यायोगे दख्खनच्या मोठ्या भागावर चौथ व सरदेशमुखी — म्हणजे महसूलाचा मोठा हिस्सा — गोळा करण्याच्या मराठ्यांच्या हक्काला औपचारिक मुघल मान्यता मिळाली, याच्या मोबदल्यात संकटग्रस्त मुघल सरकारला मराठा लष्करी मदत देण्याचे मान्य करण्यात आले. हा एक निर्णायक टप्पा होता: मराठे आता केवळ लुटारू किंवा बंडखोर उरले नव्हते, तर मुघल शाही व्यवस्थेतच, आणि वाढत्या प्रमाणात त्याहूनही वर, कार्यरत असलेली एक मान्यताप्राप्त वित्तीय व लष्करी सत्ता बनले होते.",
           "audioUrl": null
         },
@@ -948,7 +948,7 @@
           "number": 12,
           "title": "बाजीराव पहिले आणि मराठा विस्तार",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "बाळाजी विश्वनाथ यांचा मुलगा बाजीराव पहिला, जो १७२० साली पेशवा बनला, तो त्या काळातील सर्वांत तेजस्वी सेनापतींपैकी एक ठरला, आणि वेगवान, दूरवर पसरलेल्या मोहिमांच्या कारकिर्दीत त्याला एकही लढाई हरल्याची नोंद नाही, असे सांगितले जाते. त्याच्या नेतृत्वाखाली, मराठा सत्तेचा विस्तार दख्खनच्या पलीकडे माळवा, गुजरात आणि बुंदेलखंडापर्यंत मोठ्या प्रमाणात झाला, आणि मराठा घोडदळ थेट दिल्लीपर्यंत पोहोचले, ज्यामुळे या संघराज्याचे रूपांतर केवळ एका प्रादेशिक दख्खनी सत्तेपासून भारतीय उपखंडाच्या मोठ्या भागावर वर्चस्व गाजवणाऱ्या शक्तीत झाले.",
           "audioUrl": null
         },
@@ -956,7 +956,7 @@
           "number": 13,
           "title": "मराठा संघराज्य",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "बाजीरावांच्या निधनानंतरच्या दशकांत, मराठा राज्यातील सत्ता वाढत्या प्रमाणात विकेंद्रित होत गेली, आणि ती पुण्यातील पेशव्यांना नाममात्र मान्यता देत आपापल्या प्रदेशांवर राज्य करणाऱ्या मोठ्या सरदार घराण्यांकडे झुकली: ग्वाल्हेरचे शिंदे, इंदूरचे होळकर, बडोद्याचे गायकवाड, आणि नागपूरचे भोसले. हे शिथिल संघराज्य प्रचंड संयुक्त सैन्य उभे करू शकत असे आणि १७००च्या मध्यापर्यंत बहुतांश भारतावर वर्चस्व गाजवत होते, परंतु त्याची विखुरलेली आदेशरचना — शक्तिशाली, अर्धस्वायत्त, आणि अनेकदा सहकाऱ्यांपेक्षा प्रतिस्पर्ध्यांसारखे वागणारे — संकटाच्या क्षणी एक गंभीर उणीव ठरणार होती.",
           "audioUrl": null
         },
@@ -964,7 +964,7 @@
           "number": 14,
           "title": "पानिपत आणि पडझड",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "१७६१ साली, अहमदशाह अब्दालीच्या आक्रमक अफगाण सैन्याविरुद्ध पानिपतच्या तिसऱ्या लढाईत एका प्रचंड मराठा सैन्याचा विनाशकारी पराभव झाला, ज्यात संघराज्यातील अनेक सर्वांत सक्षम सेनापतींसह हजारो सैनिक व एक संपूर्ण लढवय्या पिढी नष्ट झाली. मराठा इतिहासातील हा एकमेव सर्वांत मोठा लष्करी आपत्ती ठरला, आणि साम्राज्य राजकीयदृष्ट्या दशकभरात सावरले असले, तरी पानिपतने मराठा लष्करी सामर्थ्य व आत्मविश्वासाला अशी जखम दिली, जिच्यातून हे संघराज्य आपल्या पूर्वीच्या गतीपर्यंत कधीच पूर्णपणे परतले नाही.",
           "audioUrl": null
         },
@@ -972,7 +972,7 @@
           "number": 15,
           "title": "माधवराव पहिल्यांच्या काळातील पुनरुत्थान",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "पानिपतच्या तात्काळ पाठोपाठ गादीवर आलेल्या तरुण पेशवा माधवराव पहिले यांनी उत्तर व मध्य भारतभर मराठा सत्तेची पुनर्बांधणी करण्यासाठी पद्धतशीरपणे कार्य केले, दिल्लीपर्यंत पुन्हा प्रभाव प्रस्थापित करत आणि संघराज्यातील कलहग्रस्त सरदार घराण्यांमधील संबंध सुधारत. अवघ्या सत्ताविसाव्या वर्षी, १७७२ साली, त्यांचे अकाली निधन झाले, आणि अनेक इतिहासकार खऱ्या अर्थाने सुरू झालेली पुनरुत्थानाची प्रक्रिया यामुळे अर्धवट राहिली, असे मानतात, आणि पेशवाईची सत्ता लवकरच एका कडव्या अंतर्गत वारसाहक्काच्या संघर्षात अडकली.",
           "audioUrl": null
         },
@@ -980,7 +980,7 @@
           "number": 16,
           "title": "अंतर्गत कलह आणि इंग्रज-मराठा युद्धांची सुरुवात",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "पेशवाईच्या वारसाहक्कात बाजूला पडलेल्या रघुनाथराव या काकांनी स्वतःसाठी सत्ता मिळवण्यासाठी ब्रिटिश ईस्ट इंडिया कंपनीची मदत मागितली, आणि यातून पहिले इंग्रज-मराठा युद्ध (१७७५-१७८२) सुरू झाले — मराठे आणि वेगाने विस्तारणारी कंपनी यांच्यातील पहिला मोठा सशस्त्र संघर्ष. हे युद्ध मुख्यतः मराठ्यांच्या रणनीतिक विजयात संपले, सालबाईच्या तहाद्वारे औपचारिक झाले, परंतु यातून मराठा राजकारणात एका नव्या, कितीतरी अधिक धोकादायक प्रतिस्पर्ध्याचा प्रवेश झाल्याचे स्पष्ट झाले.",
           "audioUrl": null
         },
@@ -988,7 +988,7 @@
           "number": 17,
           "title": "दुसरे इंग्रज-मराठा युद्ध",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "संघराज्यातील सरदारांमध्ये — विशेषतः शिंदे व होळकर यांच्यातील — वाढत्या शत्रुत्वामुळे झालेल्या विध्वंसक अंतर्गत संघर्षाने पेशवा बाजीराव दुसरे यांना असुरक्षित व एकाकी करून टाकले. १८०२ साली, त्यांनी बेसिनचा तह करत ब्रिटिश संरक्षण स्वीकारले, आणि प्रत्यक्षात मराठा स्वातंत्र्याचा मोठा भाग ईस्ट इंडिया कंपनीच्या हाती सोपवला. यामुळे दुसरे इंग्रज-मराठा युद्ध (१८०३-१८०५) भडकले, ज्यात शिंदे व नागपूरचे भोसले यांना, आर्थर वेलस्ली — पुढे ड्यूक ऑफ वेलिंग्टन — यांच्या नेतृत्वाखालील ब्रिटिश सैन्याकडून लक्षणीय पराभवांना सामोरे जावे लागले.",
           "audioUrl": null
         },
@@ -996,7 +996,7 @@
           "number": 18,
           "title": "तिसरे इंग्रज-मराठा युद्ध आणि पतन",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "मराठा पडझड उलटवण्याच्या अखेरच्या प्रयत्नात, पेशवा बाजीराव दुसरे यांनी तिसऱ्या इंग्रज-मराठा युद्धात (१८१७-१८१८) ब्रिटिशांविरुद्ध एक व्यापक संघराज्य उभे केले, परंतु दशकानुदशकांच्या अंतर्गत कलहामुळे कमकुवत झालेले आणि आता कितीतरी अधिक संघटित व साधनसंपन्न प्रतिस्पर्ध्याला तोंड देणारे हे संघराज्य निर्णायकपणे पराभूत झाले. बाजीराव दुसरे यांनी शरणागती पत्करली आणि ब्रिटिशांकडून त्यांना निवृत्तिवेतन देण्यात आले, तर पेशव्यांचा प्रदेश थेट ब्रिटिशांनी आपल्या राज्यात विलीन केला, आणि १८१८ साली जवळजवळ दीड शतकाच्या मराठा साम्राज्यसत्तेचा औपचारिक अंत झाला.",
           "audioUrl": null
         },
@@ -1004,7 +1004,7 @@
           "number": 19,
           "title": "मराठ्यांचा वारसा",
           "duration": "5 min",
-          "isLocked": true,
+          "isLocked": false,
           "content": "स्वतःपेक्षा कितीतरी मोठ्या साम्राज्यांसमोर स्वराज्य उभारण्याच्या शिवाजींच्या निर्धारातून जन्माला आलेले मराठा राज्य, एका शतकभरात भारतीय उपखंडाच्या मोठ्या भागावर वर्चस्व गाजवणाऱ्या सत्तेत रूपांतरित झाले, दख्खनमध्ये मुघल सत्तेला रोखून अखेर तिच्याहूनही अधिक काळ टिकून राहिले, आणि अखेर स्वतःही ब्रिटिश सत्तेसमोर लयाला गेले. सह्याद्री व कोकण किनारपट्टीवर आजही उभे असलेल्या किल्ल्यांमध्ये व नौदल तळांमध्ये, १८१८ नंतरही सरदार घराण्यांनी पुढे चालवलेल्या प्रशासकीय व लष्करी परंपरांमध्ये, आणि पुढे भारतीय राष्ट्रवाद्यांनी वसाहतवादी सत्तेविरुद्धच्या स्वतःच्या लढ्यात वारंवार आठवण करून दिलेल्या शिवाजींच्या स्वराज्याच्या चिरस्थायी प्रतीकात्मक शक्तीमध्ये, हा वारसा आजही टिकून आहे.",
           "audioUrl": null
         }
