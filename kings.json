@@ -1073,6 +1073,372 @@
                     "audioUrl": null
                 }
             ]
+        },
+        {
+            "id": "king_007",
+            "title": "Prithviraj Chauhan: The Last Rajput King of Delhi",
+            "empire": "Chahamana (Chauhan) Dynasty",
+            "category": "Kings",
+            "period": "c. 1166-1192 CE",
+            "region": "Ajmer and Delhi, North India",
+            "narrator": "Aarav Deshmukh",
+            "languages": [
+                "Marathi",
+                "English"
+            ],
+            "duration": "65 min",
+            "rating": 4.7,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/prithviraj.png",
+            "summary": "A young king who united rival Rajput houses, won and then lost the empire-deciding battle of Tarain, and became — through centuries of bardic retelling — as much a figure of legend as of history.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "The Chahamanas of Ajmer: A Rajput Dynasty's Rise",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "The Chahamana dynasty, more commonly known today as the Chauhans, had ruled the region around Ajmer in present-day Rajasthan for generations before Prithviraj III's birth, gradually building it into one of the more significant Rajput powers of northern India. By the mid-twelfth century, the Chahamanas controlled a substantial and strategically important territory straddling key trade and military routes across Rajasthan, positioning the dynasty as a natural rival to neighboring powers including the Chandelas of Mahoba, the Paramaras of Malwa, and the Gahadavalas of Kannauj — rivalries that would shape much of Prithviraj's own reign and reputation.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "Birth and a Kingdom in Waiting",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Prithviraj III was born around 1166 CE (dates vary somewhat across sources) into the ruling Chahamana family, generally identified as the son of King Someshvara and Queen Karpuradevi. Details of his early childhood are not documented with real historical precision in contemporary sources, and much of what popular tradition remembers about his upbringing — including elaborate accounts of his education in warfare, statecraft, and the arts — comes primarily through the Prithviraj Raso, a much later bardic epic whose historical reliability for personal biographical detail is treated with real caution by modern historians, even as it remains the single most influential source shaping his popular image.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "A Young King's Ascension",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Prithviraj III ascended to the Chahamana throne while still quite young, generally placed around 1178 CE, following his father Someshvara's death — with several traditions describing a period of regency, under his mother Karpuradevi and capable ministers, during his earliest years on the throne before he began exercising genuine independent authority as he came of age. This pattern of a young monarch initially governing through regents before asserting personal control was not unusual for the era, but it meant that Prithviraj's reputation as a capable and ambitious ruler would ultimately need to be built through his own adult actions rather than inherited passively along with his throne.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "Delhi and Ajmer: A Dual Inheritance",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "In addition to the core Chahamana territory centered on Ajmer, Prithviraj also came to control Delhi (then generally referred to as Dhillika), reportedly inherited through a relative on his mother's side connected to the Tomara dynasty that had previously ruled the city — giving Prithviraj control over two of the most strategically significant urban centers in northern India simultaneously. This combined territorial base, unusually strong for a single Rajput ruler of the period, positioned Prithviraj as one of the most formidable regional powers in northern India by the time he reached full adulthood, and would later make him the natural focal point of Rajput resistance against the Ghurid invasions descending from the northwest.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "Building a Rajput Confederacy",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Prithviraj's reign was characterized by sustained military activity aimed at extending Chahamana authority and influence across a wide network of neighboring Rajput territories, through a combination of direct conquest, forced submission, and shifting alliance — a pattern common among Rajput rulers of the era, for whom warfare against fellow Rajput kingdoms was, in practice, at least as frequent and consequential as conflict against outside powers like the Ghurids who would eventually prove far more historically decisive.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "The War with the Chandelas of Mahoba",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Among Prithviraj's most significant military campaigns was his war against the Chandela kingdom of Mahoba, in present-day Uttar Pradesh, a conflict remembered vividly, if not always with strict historical precision, in later Rajput bardic and folk tradition — a war that resulted in a genuine Chahamana victory extending Prithviraj's influence and reputation considerably beyond his core Ajmer-Delhi territory, and that would leave behind one of the era's most enduring folk-heroic legacies.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "Alha and Udal: Warriors of Legend",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Mahoba campaign is closely associated in North Indian oral and folk tradition with two legendary Chandela warriors, Alha and Udal, whose exploits defending Mahoba against Prithviraj's forces became the subject of an enormously popular folk epic, the Alha-Khand, still sung and performed across parts of North India today. As with the Prithviraj Raso's treatment of Prithviraj himself, historians generally regard the Alha-Khand as a work of folk literature that grew and evolved considerably in the retelling over centuries, blending a kernel of genuine historical conflict with substantial later legendary embellishment, making it a valuable window into popular memory of the era even where its specific narrative details cannot be treated as reliable history.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "Rivalry with Kannauj: Prithviraj and Jaichand",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Prithviraj's most consequential rivalry among fellow Indian rulers was with Jaichand (Jayachandra) of the Gahadavala dynasty, ruler of the powerful kingdom of Kannauj — a rivalry that later tradition, particularly the Prithviraj Raso, would frame as deeply personal and consequential, extending well beyond ordinary territorial competition into a narrative of romantic rivalry and betrayal that would shape Prithviraj's popular legacy for centuries afterward, whatever its precise basis in verifiable historical fact.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "The Legend of Samyukta",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The best-known episode connecting Prithviraj and Jaichand in popular tradition is the story of Samyukta (Sanyogita), Jaichand's daughter, who according to the Prithviraj Raso fell in love with Prithviraj and, defying her father's wishes and a staged public ceremony intended to publicly humiliate Prithviraj by excluding him, eloped with him after he arrived to abduct her — a dramatic romantic narrative that has become deeply embedded in popular Indian memory of Prithviraj, immortalized in countless later retellings, poems, and dramatizations.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "Separating History from the Prithviraj Raso",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Modern historians treat the Samyukta elopement story, along with much of the Prithviraj Raso's other richly detailed personal and romantic narrative content, with considerable skepticism as verified history, since the text in its currently surviving form is now generally dated by scholars to centuries after Prithviraj's actual lifetime, and shows clear evidence of substantial later literary elaboration, embellishment, and even significant later interpolation by different generations of bardic reciters and copyists. This does not mean the underlying rivalry between the Chahamana and Gahadavala dynasties was itself fictional — regional political competition between Ajmer-Delhi and Kannauj is independently plausible and consistent with the broader pattern of Rajput inter-kingdom rivalry — but the specific, vividly detailed romantic narrative built around it belongs more properly to the realm of celebrated later literature than to verified contemporary historical record.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "Chand Bardai: Poet and Court Chronicler",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Prithviraj Raso is traditionally attributed to Chand Bardai, described in the text's own tradition as Prithviraj's close friend, court poet, and eventual companion in his final days of captivity — though, as with the text's broader historicity, scholars debate how much of the massive surviving epic, which grew across many centuries through successive retelling and expansion, can be reliably traced to a single original author working in genuine contemporary proximity to Prithviraj's own court, versus how much represents a much later, composite bardic tradition only nominally attributed to Chand Bardai as its founding, legendary author-figure.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "The Ghurid Threat Emerges",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "By the late twelfth century, Muhammad of Ghor, ruler of the Ghurid Sultanate centered in present-day Afghanistan, had begun a sustained campaign of eastward expansion into the Indian subcontinent, having already secured control over Multan, Sindh, and the Punjab region through earlier campaigns before turning his attention toward the wealthy and strategically vital Delhi-Ajmer region under Prithviraj's control — setting the two rulers on an eventual collision course that would prove decisive not just for their own individual reigns, but for the subsequent political history of northern India as a whole.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "Muhammad of Ghor's Early Campaigns",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Muhammad of Ghor's approach toward Prithviraj's territory followed a broader pattern already established through his earlier campaigns elsewhere in India — probing military expeditions testing the strength and cohesion of regional resistance, often exploiting rivalries and lack of coordination among the numerous independent Indian kingdoms he encountered along his path of advance, a strategic approach that would prove decisive when he finally confronted the combined, though not always fully unified, Rajput resistance Prithviraj had assembled.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "The First Battle of Tarain (1191)",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In 1191, Muhammad of Ghor's forces met Prithviraj's army, reportedly reinforced by a substantial coalition of allied Rajput rulers, at Tarain (also rendered Taraori), near present-day Haryana. In this first engagement, Prithviraj's forces achieved a genuine and significant victory, reportedly wounding Muhammad of Ghor himself in the fighting and forcing a Ghurid withdrawal — a battle that, at the time, appeared to confirm Rajput military strength against the Ghurid threat and secure, at least temporarily, Prithviraj's control over Delhi and the surrounding region.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "Victory and a Fateful Mercy",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Later tradition, drawing significantly on the Prithviraj Raso and subsequent bardic retelling, describes Prithviraj as having captured the wounded Muhammad of Ghor after the First Battle of Tarain and then, in an act of chivalric mercy consistent with idealized Rajput warrior codes, released him rather than executing his defeated rival — a decision later Indian nationalist and popular retelling has frequently characterized as a fatal, almost tragic error of judgment, since Ghor would return within a year better prepared and ultimately triumphant. Historians note that the historical basis for this specific capture-and-release episode is considerably less certain than the battle's basic outcome itself, and caution against treating it as definitively established fact rather than a compelling, morally resonant narrative element that later tradition attached to the historical victory.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "Ghor's Return: Preparing for Revenge",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following his defeat and withdrawal in 1191, Muhammad of Ghor spent the following year methodically reorganizing and reinforcing his military forces, determined to reverse the previous year's setback — a reflection of the same persistent, patient strategic approach that had characterized his broader campaign of Indian conquest, in which individual battlefield defeats were treated as temporary setbacks to be corrected through renewed and better-prepared future campaigns rather than permanent strategic failures.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "The Second Battle of Tarain (1192)",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In 1192, Muhammad of Ghor returned to Tarain with a substantially reorganized and, by most accounts, better-coordinated force, meeting Prithviraj's army — again reinforced by allied Rajput contingents, though historians note that Rajput coalition unity and coordination across these two successive battles is itself a matter of some scholarly debate — in a second, decisive engagement. This time, the Ghurid forces achieved overwhelming victory, employing cavalry tactics and battlefield coordination that proved decisively superior to the Rajput forces arrayed against them.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "Defeat and Capture",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Prithviraj's forces were routed at the Second Battle of Tarain, and Prithviraj himself was captured by Ghurid forces in the aftermath — a battle whose outcome proved historically decisive far beyond the immediate fate of Prithviraj and his kingdom, opening the Gangetic plain to sustained Ghurid conquest and directly enabling the establishment, within little more than a decade, of the Delhi Sultanate under Qutb al-Din Aibak, fundamentally reshaping the political trajectory of northern India for the following three centuries.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "The Question of Prithviraj's Death",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The precise circumstances of Prithviraj's death following his capture remain genuinely disputed among both historical sources and modern scholarly reconstruction. Some Persian-language chronicles describe him being reinstalled temporarily as a subordinate, tribute-paying ruler under Ghurid overlordship before eventually being executed after being accused of plotting rebellion or treachery against his new overlords; other traditions describe a more immediate execution following his capture, while later bardic and popular tradition offers a considerably more elaborate — and historically far less reliable — account of his final days.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "The Legend of the Sound-Directed Arrow",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The most famous popular account of Prithviraj's death, again drawn primarily from the Prithviraj Raso tradition, describes him being taken captive to Ghor's territory and blinded there, before ultimately being granted, along with his loyal companion Chand Bardai, a final audience or archery demonstration before Muhammad of Ghor — during which the blinded Prithviraj, guided only by Chand Bardai's carefully coded verses indicating the direction of Ghor's voice, successfully struck and killed his captor using the legendary skill of shabd-bhedi baan, or \"sound-directed arrow,\" before the two companions, by some versions of the story, died together immediately afterward, whether by their own hand or through subsequent execution.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "What the Historical Record Actually Shows",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Modern historians treat the sound-directed arrow story as almost certainly legendary rather than historical, noting both its dramatic, folkloric character consistent with heroic bardic literature more broadly, and the simple fact that Muhammad of Ghor is independently and reliably documented, through multiple contemporary Persian sources, as having survived for over a decade after the Second Battle of Tarain, continuing to campaign and rule until his own assassination in 1206 — directly contradicting the legendary account of his death at Prithviraj's hands shortly after the 1192 battle, and confirming that this particular popular story, however emotionally resonant, cannot be reconciled with the independently corroborated historical timeline.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "The Ghurid Conquest of Delhi and Ajmer",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following Prithviraj's defeat and capture, Ghurid forces under Muhammad of Ghor's command, and increasingly under his trusted general Qutb al-Din Aibak, proceeded to consolidate control over Delhi, Ajmer, and the surrounding Chahamana territory, bringing an effective end to independent Chahamana rule over the region and beginning the process of political and administrative transformation that would, within Aibak's own lifetime, culminate in the formal establishment of the Delhi Sultanate.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "Govindaraja: A Son's Brief Restoration",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Some historical accounts describe Prithviraj's son, Govindaraja, being permitted a brief period of subordinate, tribute-paying rule over a reduced Chahamana territory following his father's defeat, before this arrangement too was eventually superseded by more direct Ghurid and subsequent Sultanate administrative control — a pattern of initial tributary accommodation followed by eventual full annexation that was not unusual in the broader Ghurid and early Sultanate approach to absorbing conquered Indian territories gradually rather than always through immediate, complete administrative replacement.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "The End of Chahamana Independence",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Whatever the precise details and timeline of this transitional period, independent Chahamana political authority over Delhi and Ajmer did not survive in any meaningful form beyond the years immediately following the Second Battle of Tarain, and the dynasty that Prithviraj's ancestors had spent generations building into one of northern India's most formidable regional powers effectively ceased to exist as an independent political force, its former territory absorbed into the rapidly expanding new order the Ghurids, and shortly afterward the Delhi Sultanate, would establish across the wider region.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "Prithviraj in the Prithviraj Raso: Poetry as History",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Prithviraj Raso's enormous influence on how Prithviraj Chauhan is remembered today illustrates a broader and historically significant pattern: for many premodern Indian historical figures, the version of their life that achieves the widest and most enduring popular circulation is often a substantially later literary or bardic composition rather than contemporary historical record, and separating the genuine historical figure from the celebrated literary hero he subsequently became requires careful, ongoing scholarly work that popular memory itself rarely undertakes or, often, particularly wants to.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "Piecing Together Prithviraj's Life",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Reconstructing a reliable historical account of Prithviraj Chauhan's life requires weighing several distinct and not always easily reconcilable categories of source material: contemporary or near-contemporary Sanskrit inscriptions recording Chahamana territorial claims and administrative activity; Persian-language chronicles composed by Ghurid and early Sultanate court historians, who naturally wrote from the perspective of Prithviraj's eventual conquerors; and the much later, vastly more detailed but considerably less historically reliable Prithviraj Raso bardic tradition, which nonetheless remains the single most influential source shaping popular understanding of the man today.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 27,
+                    "title": "Prithviraj Chauhan in Later Memory",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In the centuries following his defeat, Prithviraj Chauhan came to be remembered across North Indian popular and literary tradition as a symbol of Rajput valor and, particularly from the nineteenth and twentieth centuries onward amid the rise of Indian nationalist historical consciousness, as an emblematic figure representing the end of independent Hindu political rule over Delhi before the establishment of the Delhi Sultanate — a symbolic weight that has made him a figure of considerable and, at times, contested significance in modern Indian historical memory and popular culture, including numerous literary, theatrical, and film adaptations of his story across the decades.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 28,
+                    "title": "Legacy: The Last Hindu King of Delhi",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Prithviraj Chauhan's historical legacy rests on a genuine foundation of significant twelfth-century political and military achievement — building one of northern India's most formidable regional Rajput powers, and mounting a serious, initially successful military resistance against the Ghurid invasion that would ultimately, after his defeat, reshape Indian political history for the following several centuries — even as much of his popular fame today rests on a body of later bardic legend, epitomized by the Prithviraj Raso, whose vivid, emotionally resonant stories of romance, chivalry, and tragic heroism have proven, across eight centuries of retelling, even more enduring in popular memory than the more sparsely documented, but historically verifiable, outline of his actual reign.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "king_008",
+            "title": "Maharana Pratap: The King Who Never Bowed",
+            "empire": "Mewar (Sisodia Dynasty)",
+            "category": "Kings",
+            "period": "1540-1597 CE",
+            "region": "Mewar, Rajasthan",
+            "narrator": "Meera Kulkarni",
+            "languages": [
+                "Marathi",
+                "English"
+            ],
+            "duration": "33 min",
+            "rating": 4.9,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/pratap.png",
+            "summary": "While every other great kingdom of northern India bent the knee to the Mughal throne, one Rajput king chose exile, hunger, and grass-bread over submission — and became, in the process, the most enduring symbol of defiance in Indian memory.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "Born into a Kingdom Under Siege",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Pratap Singh was born in 1540 at Kumbhalgarh fort, into the Sisodia dynasty of Mewar, a lineage of Rajput rulers who traced their ancestry back centuries and who had, by the sixteenth century, built a reputation as some of the fiercest and most stubbornly independent rulers on the entire subcontinent. He was born into difficult times. Mewar's great capital, Chittorgarh, had already suffered devastating sieges in earlier generations, most catastrophically in 1303 and again in 1535, each time ending in the grim Rajput tradition of jauhar, in which the women of the fort chose death by fire over capture, while the remaining men rode out in saffron robes for a final, deliberately fatal charge against overwhelming odds. Pratap's father, Udai Singh II, had founded a new city, Udaipur, nestled among lakes and hills that offered better natural defenses than the exposed plateau of Chittorgarh, and it was in this shifting, embattled landscape — a kingdom still proud, still powerful, but increasingly encircled by a rapidly expanding Mughal Empire to the north — that young Pratap grew up, absorbing from childhood the Sisodia clan's deep, almost sacred commitment to Mewar's independence.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "The Fall of Chittorgarh",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "In 1567, while Pratap was still a young man, the Mughal emperor Akbar personally led a massive siege against Chittorgarh, the ancestral seat of Mewar's power, determined to bring the last great independent Rajput stronghold of the region under Mughal control. Udai Singh II, on the advice of his nobles, withdrew from the fort before the siege closed in rather than risk the ruling family itself in a last stand, leaving the defense in the hands of trusted commanders while the court relocated toward the safety of the hills around Udaipur. The siege that followed was long and bloody, and it ended, as Chittorgarh's sieges so often had, in tragedy — thousands of defenders killed in a final desperate battle, and the fort's women once again performing jauhar rather than face capture. Akbar's forces took the fort, and Chittorgarh, the symbolic heart of Mewar for centuries, passed out of Sisodia hands. For Pratap, who would inherit the throne a decade later, the loss of Chittorgarh was not simply a strategic defeat but a wound to identity itself — the reclamation, or at least the avenging, of that loss would shape the entire remaining course of his life.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "A Kingdom Divided Over Submission",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "By the time Pratap succeeded his father as Maharana of Mewar in 1572, the political map of Rajasthan had shifted dramatically. Nearly every other major Rajput kingdom — most significantly Amber, ruled by the powerful Kachwaha clan — had chosen accommodation with the Mughal Empire rather than confrontation, entering into alliances frequently sealed through marriage, with Rajput nobles rising to become some of Akbar's most trusted generals and administrators within the Mughal system itself. This was, by any practical measure, a reasonable and often prosperous path: it preserved local rule, brought access to Mughal wealth and military opportunity, and avoided the devastation that resistance so often invited. Pratap, however, along with a significant faction within Mewar's own nobility, rejected this path entirely, viewing submission to any outside power, however generous the terms, as fundamentally incompatible with the honor and independence the Sisodia dynasty had defended for generations. This put him in a genuinely unusual and increasingly isolated position — not simply resisting a foreign conqueror, but standing nearly alone among his own Rajput peers, many of whom now served the very empire he refused to acknowledge.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "Akbar's Diplomatic Overtures",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Akbar, for his part, did not immediately move toward outright war with Mewar. He first sent a series of diplomatic missions to Pratap, hoping to negotiate the same kind of accommodation that had brought Amber and other Rajput kingdoms peacefully into the Mughal fold. Several of these embassies were led by prominent nobles, including Raja Man Singh of Amber himself, a Rajput commander who now served Akbar with great distinction — a fact that, in the eyes of Pratap and his supporters, made the appeals to submit all the more difficult to accept without a sense of betrayal to a shared Rajput heritage. Pratap received these envoys with courtesy but consistently refused their core proposal, unwilling to appear personally at the Mughal court or to send a son as a hostage-guarantee of loyalty, terms that other Rajput rulers had accepted as the ordinary price of alliance. Each failed negotiation narrowed the space for peace a little further, and by 1576, with diplomacy exhausted, Akbar concluded that Mewar's defiance would have to be broken by force, and dispatched a large Mughal army, under the command of none other than Raja Man Singh, toward Pratap's mountain stronghold.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "The Battle of Haldighati",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The two forces met on the eighteenth of June, 1576, at Haldighati, a narrow mountain pass in the Aravalli hills whose name — derived from the turmeric-yellow color of the surrounding soil — belied the brutal fighting about to unfold there. Pratap commanded a comparatively small force, a mix of loyal Rajput clansmen, Bhil tribal archers whose intimate knowledge of the terrain proved invaluable, and, according to enduring legend, a small contingent of Afghan soldiers under a commander named Hakim Khan Sur, fighting alongside the Rajputs against the far larger Mughal army arrayed against them. The battle was ferocious and, in purely tactical terms, ended without a clear victor — Pratap's forces inflicted heavy casualties and fought with a ferocity that Mughal chroniclers themselves acknowledged, but they were ultimately unable to break the larger Mughal army, and Pratap himself was wounded and forced to retreat deeper into the hills, saved in one especially celebrated episode by his devoted war horse, Chetak, who reportedly carried his wounded king to safety across a ravine before finally succumbing to his own battle wounds. Though the battlefield itself was, at best, an inconclusive draw, Haldighati would go on to become the single most legendary episode of Pratap's entire life, immortalized in Rajasthani ballads, paintings, and popular memory as the defining moment of Rajput resistance to Mughal power.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "Chetak: The Horse Who Became a Legend",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Few animals in Indian history are remembered with the same devotion as Chetak, Pratap's warhorse at Haldighati, whose loyalty and courage during the battle became inseparable from the legend of Pratap himself. According to the traditional accounts passed down through Rajasthani folk memory, Chetak carried Pratap directly into the thick of the fighting, at one point even rearing up to strike at the elephant carrying an opposing Mughal commander, allowing Pratap to attempt a direct strike against him in the chaos of close combat. When Pratap was wounded and the battle turned against his smaller force, it was Chetak who carried him from the field, reportedly leaping across a wide, steep ravine to escape pursuing Mughal soldiers despite having already suffered a serious wound to one of his legs during the fighting. Chetak died shortly after completing this final desperate escape, and the site where he is said to have fallen is still marked today by a memorial that draws visitors and pays quiet tribute to an animal whose loyalty became, over the following centuries, a permanent part of how Indians remember not just Pratap's own courage, but the price paid, on every level down to the animals who served him, in a resistance that never fully succeeded and never fully surrendered either.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "Years in the Wilderness",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In the years following Haldighati, Pratap's position grew increasingly desperate. Driven from much of his settled territory, he retreated deep into the rugged hills and forests of the Aravalli range, living for extended periods in conditions of genuine hardship alongside a small band of loyal followers, his family reportedly reduced at times to surviving on grass-seed bread and other meager forest food rather than the comforts befitting a reigning Maharana. Mughal pressure continued relentlessly during these years, with repeated campaigns sent to hunt down Pratap's remaining forces and pressure him toward the same submission every other major Rajput power had already accepted. Yet even at his lowest point, Pratap refused every renewed offer of accommodation, and it was during this period of extreme hardship that his defiance took on its most enduring symbolic weight — not the defiance of a king at the height of his power commanding armies and fortresses, but of a king reduced to near nothing, still refusing, out of principle alone, to bend. Later generations would remember these wilderness years, more than even the drama of Haldighati itself, as the truest measure of the man.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "Bhamashah's Fortune and a Turning Tide",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The turning point in Pratap's long, grinding resistance came through an unlikely source: Bhamashah, a former minister of Mewar and a man of considerable personal wealth, who is said to have approached Pratap during these desperate years and offered him a vast sum of accumulated treasure — wealth reportedly sufficient to fund and equip an army for years of continued campaigning — asking nothing in return but the chance to help restore his king's fortunes. Whatever the precise scale of Bhamashah's contribution, which later legend may well have amplified over generations of retelling, it marks a genuine and significant turning point in the historical record: with renewed resources, Pratap was able to rebuild and re-equip a fighting force, and began, over the following years, a sustained campaign to reclaim territory that had fallen under Mughal control or influence during the harshest years of his exile. Bhamashah's act of loyalty, choosing to pour his personal fortune into a cause that had every appearance of being lost, has itself become a celebrated episode in Rajasthani memory — a reminder that Pratap's resistance, however solitary it could feel at its lowest moments, was sustained throughout by a network of followers willing to sacrifice their own wealth, comfort, and safety for a king who offered them little beyond the cause itself.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "Reclaiming Mewar, Fortress by Fortress",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "With Bhamashah's support and a renewed army behind him, Pratap spent the final years of his active campaigning steadily reclaiming much of Mewar's territory through a patient, determined campaign of guerrilla warfare and targeted sieges, deliberately avoiding open pitched battles of the kind that had proven so costly at Haldighati and instead exploiting his intimate knowledge of the Aravalli terrain to strike Mughal garrisons and outposts where they were weakest. Over time, he succeeded in recovering a substantial portion of Mewar, including most of its western territories, and even established a new capital at Chavand, in the hills, from which he could continue to govern the reclaimed kingdom while remaining safely beyond easy Mughal reach. Notably, Chittorgarh itself — the ancestral capital whose loss had shaped so much of Pratap's determination — was never recovered during his lifetime, remaining under Mughal control even as he reclaimed much of the surrounding countryside; its recapture would remain an unfulfilled goal that Pratap carried with him to the very end of his life, a reminder that even his hard-won successes stopped short of complete restoration.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "A King Who Was Never Formally Defeated",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "What sets Pratap apart most sharply from nearly every other regional ruler of his era is a simple, striking fact: despite decades of sustained Mughal pressure, despite the loss of Chittorgarh, despite the hardship of his years in the wilderness, Pratap was never formally defeated, never signed a treaty of submission, and never appeared at the Mughal court to acknowledge Akbar's supremacy — a record matched by almost no other major ruler in Akbar's vast and largely successful project of bringing the subcontinent's regional powers under Mughal authority, whether through conquest or negotiated alliance. By the time of his death, Pratap governed a kingdom smaller and less wealthy than the Mewar his father had once ruled, but he governed it as an entirely independent Maharana, on his own terms, answering to no Mughal overlord. This distinction — not ultimate territorial triumph, but unbroken, uncompromised independence — is precisely what elevated Pratap, even within his own lifetime, to a stature among the Rajput clans that went well beyond the actual size of the kingdom he commanded.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "Death at Chavand",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Maharana Pratap died in January 1597 at his hill capital of Chavand, reportedly from injuries sustained during a hunting accident some months earlier that never fully healed, though accounts of the precise circumstances vary. He was fifty-six years old, and by the time of his death he had spent almost the entirety of his twenty-five-year reign in active resistance against the most powerful empire the subcontinent had seen since the Mauryas, without ever once bending to it. Tradition holds that even on his deathbed, Pratap made his son and successor, Amar Singh, swear an oath to continue the struggle to reclaim Chittorgarh and to never submit to Mughal authority — a vow that would, in practice, prove difficult for his successors to fully sustain against the sheer weight of continued Mughal pressure in the decades that followed, though the memory of Pratap's own unbroken defiance remained, for Mewar and for Rajasthan far more broadly, an enduring standard against which later rulers would measure themselves.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "Legacy: The Face of Rajput Resistance",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In the centuries since his death, Maharana Pratap has grown into something considerably larger than the historical record of his reign alone could account for — he stands today as perhaps the single most celebrated symbol of Rajput honor and resistance in all of Indian memory, his name invoked in folk ballads, paintings, school textbooks, and popular culture across Rajasthan and far beyond it. Unlike many celebrated rulers remembered chiefly for the scale of what they conquered or built, Pratap is remembered above all for what he refused: comfort, safety, and a secure, prosperous place within the greatest empire of his age, all rejected in favor of an independence that cost him fortresses, wealth, and years of genuine hardship in the wilderness. Statues and memorials to Pratap and to Chetak stand across Rajasthan today, and Haldighati remains a site of pilgrimage and remembrance nearly four and a half centuries after the battle fought there. Where Akbar's own legacy rests substantially on the sheer scale of the empire he built through conquest and skillful integration of former rivals, Pratap's legacy rests on the opposite achievement entirely — proof, preserved in memory long after the political map that produced it has vanished, that even the mightiest empire of the age could not compel every proud kingdom to kneel.",
+                    "audioUrl": null
+                }
+            ]
         }
     ],
     "mr": [
@@ -2146,6 +2512,372 @@
                     "duration": "५ मिनिटे",
                     "isLocked": true,
                     "content": "बिंदुसाराच्या राज्यकाळाला त्याच्या वडिलांनी साम्राज्याची केलेली नाट्यमय स्थापना किंवा त्याच्या पुत्राच्या गौरवशाली नैतिक परिवर्तनाइतके लक्ष क्वचितच मिळते, आणि ऐतिहासिक नोंदही हा असमतोल प्रतिबिंबित करते — त्याच्याच शब्दांतील कोणतेही शिलालेख टिकून नाहीत, आणि जे काही ज्ञात आहे त्यातील बरेचसे नंतरच्या, कधीकधी अविश्वसनीय परंपरेतून, दुसऱ्याच्याच कथेत रस असलेल्या लेखकांच्या स्वारस्यातून गाळून आलेले आहे. तरीही त्याच्या बळकटीकरणाची शांत दशके त्यानंतर घडलेल्या सर्व गोष्टींसाठी अत्यावश्यक होती: त्याने आपल्या वडिलांनी उभारलेले विशाल, नव्याने बांधलेले राज्य एकत्र ठेवले आणि विस्तारित केले, हेलेनिस्टिक जगाशी त्याचे मुत्सद्दी संबंध टिकवले आणि गहिरे केले, एका धोरणात्मकदृष्ट्या महत्त्वाच्या सीमावर्ती प्रदेशातील वारंवार उद्भवणारी अशांतता व्यवस्थापित केली, आणि प्रतिस्पर्धी पुत्रांच्या गजबजलेल्या यादीतून त्याने त्याला वाढवले जो मौर्य साम्राज्याला त्याच्या सर्वात मोठ्या आणि सर्वात नैतिक महत्त्वाकांक्षी उंचीपर्यंत घेऊन जाणार होता. बिंदुसाराचा खरा वारसा कदाचित इतकाच आहे: साम्राज्य पुरेसा काळ अखंड टिकले जेणेकरून ते अखेर अशोकाचे बनू शकले, हे इतके सहज गृहीत धरले जाणारे तथ्य आहे की इतिहास ते शक्य करणाऱ्या शासकाला श्रेय द्यायलाही जवळजवळ विसरला.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "King_007",
+            "title": "पृथ्वीराज चौहान: दिल्लीचा शेवटचा राजपूत राजा",
+            "empire": "चाहमान (चौहान) राजवंश",
+            "category": "राजे",
+            "period": "साधारण इ.स. ११६६-११९२",
+            "region": "अजमेर आणि दिल्ली, उत्तर भारत",
+            "narrator": "आरव देशमुख",
+            "languages": [
+                "मराठी",
+                "इंग्रजी"
+            ],
+            "duration": "६५ मिनिटे",
+            "rating": 4.7,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/prithviraj.png",
+            "summary": "प्रतिस्पर्धी राजपूत घराण्यांना एकत्र आणणारा, साम्राज्य ठरवणारी तराईनची लढाई जिंकून नंतर गमावणारा एक तरुण राजा, आणि शतकानुशतकांच्या भाटी पुनःकथनांतून इतिहासाइतकाच दंतकथेचाही विषय बनलेला व्यक्तिमत्त्व.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "अजमेरचे चाहमान: एका राजपूत राजवंशाचा उदय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "चाहमान राजवंश, जो आज सामान्यतः चौहान म्हणून ओळखला जातो, पृथ्वीराज तिसऱ्याच्या जन्मापूर्वी अनेक पिढ्यांपासून आजच्या राजस्थानातील अजमेरभोवतीच्या प्रदेशावर राज्य करत होता, हळूहळू त्याला उत्तर भारतातील अधिक महत्त्वपूर्ण राजपूत सत्तांपैकी एकात रूपांतरित करत. बाराव्या शतकाच्या मध्यापर्यंत, चाहमानांचे राजस्थानभरातील महत्त्वाच्या व्यापार व लष्करी मार्गांवर पसरलेल्या एका भरीव आणि धोरणात्मकदृष्ट्या महत्त्वाच्या प्रदेशावर नियंत्रण होते, ज्यामुळे हा राजवंश महोबाचे चंदेल, माळव्याचे परमार, आणि कनौजचे गहडवाल यांसारख्या शेजारील सत्तांचा स्वाभाविक प्रतिस्पर्धी बनला — अशी शत्रुत्वे जी पृथ्वीराजच्या स्वतःच्या राज्यकाळाला आणि प्रतिष्ठेला मोठ्या प्रमाणात घडवणार होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "जन्म आणि प्रतीक्षेतील राज्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "पृथ्वीराज तिसऱ्याचा जन्म साधारण इ.स. ११६६ मध्ये (स्रोतांनुसार तारखा काहीशा वेगळ्या आहेत) राज्य करणाऱ्या चाहमान कुटुंबात झाला, सर्वसाधारणपणे राजा सोमेश्वर आणि राणी कर्पूरादेवी यांचा पुत्र म्हणून ओळखला जातो. त्याच्या सुरुवातीच्या बालपणाचे तपशील समकालीन स्रोतांत खऱ्या ऐतिहासिक अचूकतेने दस्तऐवजीकृत नाहीत, आणि त्याच्या संगोपनाबद्दल लोकपरंपरा जे आठवते त्यातील बरेचसे — युद्ध, राज्यशास्त्र, आणि कलांतील त्याच्या शिक्षणाची विस्तृत वर्णने यांसह — मुख्यतः पृथ्वीराज रासोमधून येते, एक कितीतरी नंतरचे भाटी महाकाव्य ज्याची वैयक्तिक चरित्रात्मक तपशिलासाठीची ऐतिहासिक विश्वासार्हता आधुनिक इतिहासकार खऱ्या सावधगिरीने हाताळतात, तरीही ते आज त्याची लोकप्रिय प्रतिमा घडवणारा एकच सर्वात प्रभावशाली स्रोत राहते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "एका तरुण राजाचा राज्याभिषेक",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "पृथ्वीराज तिसरा अजूनही बराच तरुण असतानाच चाहमान सिंहासनावर आरूढ झाला, सर्वसाधारणपणे साधारण इ.स. ११७८ मध्ये ठेवले जाते, आपले वडील सोमेश्वर यांच्या मृत्युनंतर — अनेक परंपरा त्याच्या आई कर्पूरादेवी आणि सक्षम मंत्र्यांच्या देखरेखीखालील कारभारीपणाचा एक काळ वर्णन करतात, सिंहासनावरील त्याच्या सुरुवातीच्या वर्षांत, वयात आल्यावर त्याने खरा स्वतंत्र अधिकार वापरण्यास सुरुवात करण्याआधी. एका तरुण राजाने स्वतःचे वैयक्तिक नियंत्रण ठामपणे मांडण्याआधी सुरुवातीला कारभाऱ्यांमार्फत राज्य करण्याची ही पद्धत त्या काळासाठी असामान्य नव्हती, पण याचा अर्थ असा होता की एक सक्षम आणि महत्त्वाकांक्षी शासक म्हणून पृथ्वीराजची प्रतिष्ठा अखेर त्याच्या सिंहासनासोबत निष्क्रियपणे वारशाने न मिळता त्याच्याच प्रौढ कृतींतून उभारावी लागणार होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "दिल्ली आणि अजमेर: दुहेरी वारसा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "अजमेरभोवती केंद्रित मुख्य चाहमान प्रदेशाव्यतिरिक्त, पृथ्वीराज दिल्लीवरही (त्यावेळी सर्वसाधारणपणे धिल्लिका म्हटले जाई) नियंत्रण मिळवते झाले, कथितरीत्या आपल्या आईच्या बाजूकडून त्या नगरावर पूर्वी राज्य केलेल्या तोमर राजवंशाशी संबंधित एका नातेवाईकाकडून वारशाने मिळालेले — ज्यामुळे पृथ्वीराजला एकाच वेळी उत्तर भारतातील दोन सर्वात धोरणात्मकदृष्ट्या महत्त्वाच्या नागरी केंद्रांवर नियंत्रण मिळाले. हा एकत्रित प्रादेशिक आधार, त्या काळातील एकाच राजपूत शासकासाठी असामान्यपणे बळकट, पृथ्वीराजला तो पूर्ण प्रौढत्वाला पोहोचेपर्यंत उत्तर भारतातील सर्वात दुर्जेय प्रादेशिक सत्तांपैकी एक बनवत होता, आणि नंतर त्याला वायव्येकडून उतरणाऱ्या घुरी आक्रमणांविरुद्ध राजपूत प्रतिकाराचे स्वाभाविक केंद्रबिंदू बनवणार होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "एक राजपूत संघ उभारणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "पृथ्वीराजचा राज्यकाळ शेजारील राजपूत प्रदेशांच्या एका विस्तृत जाळ्यावर चाहमान अधिकार आणि प्रभाव विस्तारण्याच्या उद्देशाने केलेल्या सातत्यपूर्ण लष्करी हालचालींनी वैशिष्ट्यीकृत होता, थेट विजय, बळजबरीने शरणागती, आणि बदलत्या युत्यांच्या संयोगातून — त्या काळातील राजपूत शासकांत सामान्य असलेली एक पद्धत, ज्यांच्यासाठी सहकारी राजपूत राज्यांविरुद्धचे युद्ध, प्रत्यक्षात, अखेर ऐतिहासिकदृष्ट्या कितीतरी अधिक निर्णायक सिद्ध होणाऱ्या घुरींसारख्या बाह्य सत्तांविरुद्धच्या संघर्षाइतकेच वारंवार आणि परिणामकारक होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "महोबाच्या चंदेलांशी युद्ध",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराजच्या सर्वात महत्त्वपूर्ण लष्करी मोहिमांपैकी एक म्हणजे आजच्या उत्तर प्रदेशातील महोबाच्या चंदेल राज्याविरुद्धचे त्याचे युद्ध, एक संघर्ष जो नंतरच्या राजपूत भाटी व लोकपरंपरेत, नेहमी कठोर ऐतिहासिक अचूकतेने नसले तरी, जिवंतपणे स्मरणात राहतो — असे युद्ध जे पृथ्वीराजचा प्रभाव आणि प्रतिष्ठा त्याच्या मुख्य अजमेर-दिल्ली प्रदेशाच्या बरेच पलीकडे विस्तारित करणाऱ्या एका खऱ्या चाहमान विजयात परिणत झाले, आणि जे मागे त्या युगातील सर्वात चिरस्थायी लोक-वीरगाथीय वारशांपैकी एक सोडून गेले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "आल्हा आणि उदल: दंतकथेतील योद्धे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "महोबा मोहीम उत्तर भारतीय मौखिक व लोकपरंपरेत दोन दंतकथीय चंदेल योद्धे, आल्हा आणि उदल, यांच्याशी जवळून संबंधित आहे, ज्यांचे पृथ्वीराजच्या सैन्यांविरुद्ध महोबाचे संरक्षण करण्याचे पराक्रम एका प्रचंड लोकप्रिय लोकमहाकाव्याचा, आल्हा-खंडाचा, विषय बनले, जे आजही उत्तर भारताच्या काही भागांत गायले आणि सादर केले जाते. पृथ्वीराज रासोच्या खुद्द पृथ्वीराजबद्दलच्या हाताळणीप्रमाणेच, इतिहासकार सर्वसाधारणपणे आल्हा-खंडाला शतकानुशतके पुनःकथनात लक्षणीयरीत्या वाढलेले आणि विकसित झालेले लोकसाहित्याचे एक काम मानतात, खऱ्या ऐतिहासिक संघर्षाच्या एका गाभ्याला भरीव नंतरच्या दंतकथीय अलंकारासह मिसळत, ज्यामुळे ते त्या काळातील लोकस्मृतीचे एक मौल्यवान झरोका बनते जरी त्याचे विशिष्ट कथानकीय तपशील विश्वासार्ह इतिहास म्हणून मानता येत नसले तरी.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "कनौजशी शत्रुत्व: पृथ्वीराज आणि जयचंद",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "सहकारी भारतीय शासकांतील पृथ्वीराजचे सर्वात परिणामकारक शत्रुत्व कनौजच्या शक्तिशाली राज्याचा शासक, गहडवाल राजवंशाचा जयचंद (जयचंद्र) याच्याशी होते — असे शत्रुत्व जे नंतरची परंपरा, विशेषतः पृथ्वीराज रासो, गहन वैयक्तिक व परिणामकारक असे मांडणार होती, सामान्य प्रादेशिक स्पर्धेच्याही बरेच पुढे जाऊन एका रोमँटिक शत्रुत्व व विश्वासघाताच्या कथानकात विस्तारत जे पुढील शतकांसाठी पृथ्वीराजचा लोकप्रिय वारसा घडवणार होते, त्याचा पडताळणीयोग्य ऐतिहासिक तथ्यातील नेमका आधार काहीही असो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "संयुक्ताची आख्यायिका",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "लोकपरंपरेत पृथ्वीराज आणि जयचंद यांना जोडणारा सर्वात सुप्रसिद्ध प्रसंग म्हणजे संयुक्ता (सयोगिता) याची कहाणी, जयचंदची कन्या, जी पृथ्वीराज रासोनुसार पृथ्वीराजच्या प्रेमात पडली आणि, पृथ्वीराजला वगळून त्याचा सार्वजनिक अपमान करण्याच्या उद्देशाने रचलेल्या आपल्या वडिलांच्या इच्छेला आणि एका रंगमंचीय सार्वजनिक समारंभाला धिक्कारून, तो तिला पळवून नेण्यासाठी आल्यावर त्याच्यासोबत पळून गेली — एक नाट्यमय रोमँटिक कथानक जे पृथ्वीराजबद्दलच्या लोकप्रिय भारतीय स्मृतीत खोलवर रुजले आहे, अगणित नंतरच्या पुनःकथनांत, कवितांत, आणि नाट्यरूपांत अमर झालेले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "पृथ्वीराज रासोपासून इतिहास वेगळा करणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "आधुनिक इतिहासकार संयुक्ता-पलायनाची कथा, पृथ्वीराज रासोतील इतर बऱ्याच समृद्धपणे तपशीलवार वैयक्तिक व रोमँटिक कथानकीय सामग्रीसह, सत्यापित इतिहास म्हणून बऱ्याच साशंकतेने हाताळतात, कारण हा ग्रंथ त्याच्या सध्या टिकून राहिलेल्या स्वरूपात आता विद्वानांनी सर्वसाधारणपणे पृथ्वीराजच्या प्रत्यक्ष हयातीहून शतकांनंतरचा दिनांकित केला आहे, आणि वेगवेगळ्या पिढ्यांच्या भाटी सादरकर्त्यांनी आणि प्रतिलिपिकारांनी केलेल्या भरीव नंतरच्या साहित्यिक विस्तार, अलंकार, आणि अगदी महत्त्वपूर्ण नंतरच्या प्रक्षेपाचेही स्पष्ट पुरावे दाखवतो. याचा अर्थ चाहमान आणि गहडवाल राजवंशांतील मूळ शत्रुत्व स्वतः काल्पनिक होते असे नाही — अजमेर-दिल्ली आणि कनौज यांच्यातील प्रादेशिक राजकीय स्पर्धा स्वतंत्रपणे प्रशंसनीय आहे आणि राजपूत आंतर-राज्य शत्रुत्वाच्या व्यापक पद्धतीशी सुसंगत आहे — पण त्याभोवती उभारलेले विशिष्ट, जिवंतपणे तपशीलवार रोमँटिक कथानक सत्यापित समकालीन ऐतिहासिक नोंदीपेक्षा गौरवशाली नंतरच्या साहित्याच्या क्षेत्राशी अधिक योग्यरीत्या संबंधित आहे.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "चंद बरदाई: कवी आणि दरबारी इतिवृत्तकार",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराज रासो पारंपरिकपणे चंद बरदाई याला श्रेय दिले जाते, ग्रंथाच्याच परंपरेत पृथ्वीराजचा जवळचा मित्र, दरबारी कवी, आणि त्याच्या शेवटच्या बंदिवासाच्या दिवसांतील अखेरचा सोबती म्हणून वर्णित — जरी, ग्रंथाच्या व्यापक ऐतिहासिकतेप्रमाणेच, विद्वान वादग्रस्त आहेत की अनेक शतकांत सलग पुनःकथन आणि विस्तारातून वाढलेल्या या विशाल टिकून राहिलेल्या महाकाव्याचा किती भाग पृथ्वीराजच्याच दरबाराच्या खऱ्या समकालीन जवळिकीत काम करणाऱ्या एका एकल मूळ लेखकापर्यंत विश्वासार्हपणे शोधता येतो, विरुद्ध किती भाग एक कितीतरी नंतरच्या, संमिश्र भाटी परंपरेचे प्रतिनिधित्व करतो जी केवळ नाममात्र चंद बरदाईला तिचा संस्थापक, दंतकथीय लेखक-व्यक्तिमत्त्व म्हणून श्रेय देते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "घुरी धोका उदयास येतो",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "बाराव्या शतकाच्या उत्तरार्धापर्यंत, आजच्या अफगाणिस्तानात केंद्रित घुरी सल्तनतीचा शासक मुहम्मद घोरी, याने भारतीय उपखंडात पूर्वेकडील विस्ताराची एक सातत्यपूर्ण मोहीम सुरू केली होती, आधीच्या मोहिमांतून मुलतान, सिंध, आणि पंजाब प्रदेशावर नियंत्रण सुरक्षित केल्यावर पृथ्वीराजच्या नियंत्रणाखालील श्रीमंत आणि धोरणात्मकदृष्ट्या महत्त्वाच्या दिल्ली-अजमेर प्रदेशाकडे लक्ष वळवण्याआधी — दोन्ही शासकांना अशा एका अंतिम टक्करीच्या मार्गावर आणत जी केवळ त्यांच्या स्वतःच्या वैयक्तिक राज्यकाळांसाठीच नव्हे तर संपूर्णपणे उत्तर भारताच्या त्यानंतरच्या राजकीय इतिहासासाठीही निर्णायक सिद्ध होणार होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "मुहम्मद घोरीच्या सुरुवातीच्या मोहिमा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "मुहम्मद घोरीचा पृथ्वीराजच्या प्रदेशाकडील दृष्टिकोन त्याने भारतात इतरत्र आधीच्या मोहिमांतून प्रस्थापित केलेल्या एका व्यापक पद्धतीचे अनुसरण करत होता — प्रादेशिक प्रतिकाराची ताकद व एकसंधता तपासणाऱ्या चाचणी-लष्करी मोहिमा, अनेकदा त्याच्या प्रगतीच्या मार्गात भेटलेल्या असंख्य स्वतंत्र भारतीय राज्यांतील शत्रुत्वे आणि समन्वयाच्या अभावाचा फायदा घेत, असा धोरणात्मक दृष्टिकोन जो अखेर पृथ्वीराजने एकत्रित केलेल्या, जरी नेहमी पूर्णपणे एकसंध नसलेल्या, राजपूत प्रतिकाराला सामोरे गेल्यावर निर्णायक सिद्ध होणार होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "तराईनची पहिली लढाई (११९१)",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "इ.स. ११९१ मध्ये, मुहम्मद घोरीच्या सैन्याने पृथ्वीराजच्या सैन्याला, कथितरीत्या मित्र राजपूत शासकांच्या एका भरीव युतीने बळकट केलेल्या, आजच्या हरियाणाजवळील तराईन (ज्याला तरावडीही म्हटले जाते) येथे भेटले. या पहिल्या झुंजीत, पृथ्वीराजच्या सैन्याने एक खरा आणि महत्त्वपूर्ण विजय मिळवला, कथितरीत्या लढाईत खुद्द मुहम्मद घोरीला जखमी करत आणि घुरींना माघार घेण्यास भाग पाडत — एक लढाई जी, त्यावेळी, घुरी धोक्याविरुद्ध राजपूत लष्करी सामर्थ्याची पुष्टी करणारी आणि पृथ्वीराजचे दिल्ली व आसपासच्या प्रदेशावरील नियंत्रण किमान तात्पुरते सुरक्षित करणारी वाटली.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "विजय आणि एक भवितव्य-निर्णायक दया",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "नंतरची परंपरा, पृथ्वीराज रासो आणि त्यानंतरच्या भाटी पुनःकथनावर लक्षणीयरीत्या आधारित, पृथ्वीराजने तराईनच्या पहिल्या लढाईनंतर जखमी मुहम्मद घोरीला बंदी बनवल्याचे आणि नंतर, आदर्शीकृत राजपूत योद्धा-संहितांशी सुसंगत अशा एका शौर्यपूर्ण दयेच्या कृतीत, आपल्या पराभूत प्रतिस्पर्ध्याला फाशी देण्याऐवजी सोडून दिल्याचे वर्णन करते — असा निर्णय ज्याला नंतरच्या भारतीय राष्ट्रवादी व लोकप्रिय पुनःकथनांनी वारंवार एक घातक, जवळजवळ दुःखद निर्णयक्षमतेची चूक म्हणून वैशिष्ट्यीकृत केले आहे, कारण घोरी एका वर्षातच अधिक चांगली तयारी करून आणि अखेर विजयी होऊन परतणार होता. इतिहासकार नोंदवतात की या विशिष्ट पकड-आणि-सोडणे प्रसंगाचा ऐतिहासिक आधार लढाईच्या मूळ निकालाहूनच खूपच कमी निश्चित आहे, आणि याला निश्चितपणे स्थापित तथ्य म्हणून हाताळण्याविरुद्ध सावध करतात, त्याऐवजी एक आकर्षक, नैतिकदृष्ट्या प्रतिध्वनित करणारा कथानकीय घटक म्हणून जो नंतरच्या परंपरेने ऐतिहासिक विजयाशी जोडला.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "घोरीचा परतावा: सूडाची तयारी",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "इ.स. ११९१ मधील आपल्या पराभवानंतर आणि माघारीनंतर, मुहम्मद घोरीने पुढील वर्ष आपले लष्करी बल पद्धतशीरपणे पुनर्संघटित आणि बळकट करण्यात घालवले, मागील वर्षीचा अडथळा उलटवण्याचा निर्धार बाळगत — त्याच्या व्यापक भारतीय विजय-मोहिमेला वैशिष्ट्यीकृत करणाऱ्या त्याच सततच्या, धीराच्या धोरणात्मक दृष्टिकोनाचे प्रतिबिंब, ज्यात वैयक्तिक रणांगणीय पराभव कायमचे धोरणात्मक अपयश म्हणून नव्हे तर नव्या आणि अधिक चांगली तयारी असलेल्या भावी मोहिमांतून सुधारावयाचे तात्पुरते अडथळे म्हणून हाताळले जात.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "तराईनची दुसरी लढाई (११९२)",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "इ.स. ११९२ मध्ये, मुहम्मद घोरी एका लक्षणीयरीत्या पुनर्संघटित आणि बहुतांश वृत्तांतांनुसार अधिक चांगल्या समन्वयित सैन्यासह तराईनला परतला, पृथ्वीराजच्या सैन्याला भेटत — पुन्हा मित्र राजपूत तुकड्यांनी बळकट केलेल्या, जरी इतिहासकार नोंदवतात की या दोन सलग लढायांत राजपूत युतीची एकता व समन्वय स्वतःच काही शैक्षणिक वादाचा विषय आहे — एका दुसऱ्या, निर्णायक झुंजीत. यावेळी, घुरी सैन्याने, त्यांच्यासमोरील राजपूत सैन्यांहून निर्णायकपणे श्रेष्ठ सिद्ध झालेले घोडदळ डावपेच आणि रणांगणीय समन्वय वापरत, प्रचंड विजय मिळवला.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "पराभव आणि अटक",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "तराईनच्या दुसऱ्या लढाईत पृथ्वीराजच्या सैन्याला पळवून लावले गेले, आणि त्यानंतर खुद्द पृथ्वीराजला घुरी सैन्याने पकडले — असे युद्ध ज्याचा परिणाम पृथ्वीराज आणि त्याच्या राज्याच्या तात्काळ भवितव्याहून खूपच पुढे जाऊन ऐतिहासिकदृष्ट्या निर्णायक सिद्ध झाला, गंगेचे मैदान सततच्या घुरी विजयासाठी खुले करत आणि एका दशकाहूनही कमी काळात कुतुबुद्दीन ऐबकच्या नेतृत्वाखाली दिल्ली सल्तनतीच्या स्थापनेला थेट सक्षम करत, पुढील तीन शतकांसाठी उत्तर भारताचा राजकीय मार्ग मूलभूतपणे पुनर्घडवत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "पृथ्वीराजच्या मृत्युचा प्रश्न",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "अटकेनंतर पृथ्वीराजच्या मृत्युची नेमकी परिस्थिती ऐतिहासिक स्रोत आणि आधुनिक शैक्षणिक पुनर्रचना या दोन्हींत खरोखरच वादग्रस्त राहते. काही पर्शियन-भाषिक इतिवृत्ते त्याला घुरी अधिपत्याखाली तात्पुरते एक अधीनस्थ, खंडणीदार शासक म्हणून पुनर्स्थापित केल्याचे वर्णन करतात, अखेर त्याच्या नव्या स्वामींविरुद्ध बंडाचा किंवा विश्वासघाताचा कट रचल्याचा आरोप झाल्यावर फाशी दिली गेली; इतर परंपरा त्याच्या अटकेनंतर अधिक तात्काळ फाशीचे वर्णन करतात, तर नंतरची भाटी व लोकपरंपरा त्याच्या शेवटच्या दिवसांचे एक बरेच अधिक विस्तृत — आणि ऐतिहासिकदृष्ट्या बरेच कमी विश्वासार्ह — वृत्तांत पुरवते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "शब्दभेदी बाणाची आख्यायिका",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराजच्या मृत्युचे सर्वात प्रसिद्ध लोकप्रिय वृत्तांत, पुन्हा मुख्यतः पृथ्वीराज रासो परंपरेतून घेतलेले, त्याला घोरीच्या प्रदेशात बंदी बनवून तिथे आंधळे केल्याचे वर्णन करते, अखेर, त्याचा निष्ठावान सोबती चंद बरदाई यांच्यासह, मुहम्मद घोरीसमोर एक अंतिम दरबार किंवा धनुर्विद्या-प्रदर्शन दिले गेले — ज्यादरम्यान आंधळा झालेला पृथ्वीराज, केवळ घोरीच्या आवाजाची दिशा दर्शवणाऱ्या चंद बरदाईंच्या काळजीपूर्वक सांकेतिक श्लोकांच्या मार्गदर्शनाने, शब्द-भेदी बाण, किंवा 'आवाजाच्या दिशेने सोडलेला बाण,' या दंतकथीय कौशल्याचा वापर करून आपल्या बंदीकर्त्याला यशस्वीरीत्या मारून ठार करतो, त्यानंतर दोघे सोबती, कथेच्या काही आवृत्त्यांनुसार, स्वतःच्याच हाताने किंवा त्यानंतरच्या फाशीद्वारे, लगेच एकत्र मरण पावले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "ऐतिहासिक नोंद प्रत्यक्षात काय दाखवते",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "आधुनिक इतिहासकार शब्द-भेदी बाणाच्या कथेला ऐतिहासिक ऐवजी जवळजवळ निश्चितपणे दंतकथीय मानतात, तिचे वीरगाथीय भाटी साहित्याशी व्यापकपणे सुसंगत असे नाट्यमय, लोककथात्मक स्वरूप आणि ही साधी वस्तुस्थिती दोन्ही नोंदवत की मुहम्मद घोरी, अनेक समकालीन पर्शियन स्रोतांतून स्वतंत्रपणे आणि विश्वसनीयरीत्या दस्तऐवजीकृत आहे की तराईनच्या दुसऱ्या लढाईनंतर एक दशकाहूनही अधिक काळ जिवंत राहिला, इ.स. १२०६ मधील स्वतःच्या हत्येपर्यंत मोहीम व राज्य करत राहिला — जे इ.स. ११९२ च्या लढाईनंतर लगेच पृथ्वीराजच्या हातून त्याच्या मृत्युच्या दंतकथीय वृत्तांताला थेट खोडून काढते, आणि पुष्टी करते की हे विशिष्ट लोकप्रिय कथानक, ते भावनिकदृष्ट्या कितीही प्रतिध्वनित करणारे असो, स्वतंत्रपणे पुष्टीकृत ऐतिहासिक कालक्रमाशी जुळवता येत नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "दिल्ली आणि अजमेरचा घुरी विजय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराजचा पराभव आणि अटकेनंतर, मुहम्मद घोरीच्या आदेशाखालील आणि वाढत्या प्रमाणात त्याचा विश्वासू सेनापती कुतुबुद्दीन ऐबकच्या आदेशाखालील घुरी सैन्याने दिल्ली, अजमेर, आणि आसपासच्या चाहमान प्रदेशावर नियंत्रण बळकट करण्याची प्रक्रिया पुढे नेली, त्या प्रदेशावरील स्वतंत्र चाहमान शासनाला प्रभावीरीत्या संपवत आणि राजकीय व प्रशासकीय परिवर्तनाची प्रक्रिया सुरू करत जी, ऐबकच्याच हयातीत, दिल्ली सल्तनतीच्या औपचारिक स्थापनेत परिणत होणार होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "गोविंदराज: एका पुत्राची संक्षिप्त पुनर्स्थापना",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "काही ऐतिहासिक वृत्तांते पृथ्वीराजचा पुत्र, गोविंदराज, याला आपल्या वडिलांच्या पराभवानंतर एका संकुचित चाहमान प्रदेशावर अधीनस्थ, खंडणीदार शासनाच्या एका संक्षिप्त कालावधीची परवानगी दिली गेल्याचे वर्णन करतात, अखेर ही व्यवस्थाही अधिक थेट घुरी आणि त्यानंतरच्या सल्तनती प्रशासकीय नियंत्रणाने बदलली जाण्याआधी — सुरुवातीच्या खंडणीदार सामावून घेण्यानंतर अखेर पूर्ण विलीनीकरणाची ही पद्धत व्यापक घुरी आणि सुरुवातीच्या सल्तनतीच्या जिंकलेल्या भारतीय प्रदेशांना नेहमी तात्काळ, संपूर्ण प्रशासकीय बदलाद्वारे नव्हे तर हळूहळू आत्मसात करण्याच्या दृष्टिकोनात असामान्य नव्हती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "चाहमान स्वातंत्र्याचा अंत",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "या संक्रमणकालीन काळाचे नेमके तपशील आणि कालक्रम काहीही असो, दिल्ली व अजमेरवरील स्वतंत्र चाहमान राजकीय अधिकार तराईनच्या दुसऱ्या लढाईनंतर लगेचच्या वर्षांपलीकडे कोणत्याही अर्थपूर्ण स्वरूपात टिकला नाही, आणि पृथ्वीराजच्या पूर्वजांनी अनेक पिढ्या घालवून उत्तर भारतातील सर्वात दुर्जेय प्रादेशिक सत्तांपैकी एकात रूपांतरित केलेला राजवंश प्रभावीरीत्या एक स्वतंत्र राजकीय शक्ती म्हणून अस्तित्वात राहणे थांबला, त्याचा पूर्वीचा प्रदेश घुरी, आणि लवकरच नंतर दिल्ली सल्तनत, व्यापक प्रदेशभर स्थापन करणार असलेल्या वेगाने विस्तारणाऱ्या नव्या व्यवस्थेत विलीन झाला.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "पृथ्वीराज रासोतील पृथ्वीराज: इतिहास म्हणून काव्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराज रासोचा आज पृथ्वीराज चौहान कसा स्मरणात राहतो यावरील प्रचंड प्रभाव एक व्यापक आणि ऐतिहासिकदृष्ट्या महत्त्वपूर्ण पद्धत दाखवतो: अनेक आधुनिकतापूर्व भारतीय ऐतिहासिक व्यक्तिमत्त्वांसाठी, त्यांच्या आयुष्याची जी आवृत्ती सर्वात व्यापक आणि सर्वात चिरस्थायी लोकप्रिय प्रसार साध्य करते ती अनेकदा समकालीन ऐतिहासिक नोंदीऐवजी बरीच नंतरची साहित्यिक किंवा भाटी रचना असते, आणि खऱ्या ऐतिहासिक व्यक्तिमत्त्वाला तो नंतर बनलेल्या गौरवशाली साहित्यिक नायकापासून वेगळे करण्यासाठी काळजीपूर्वक, सतत सुरू असलेले शैक्षणिक कार्य आवश्यक असते जे लोकस्मृती स्वतः क्वचितच हाती घेते किंवा, अनेकदा, विशेषतः हाती घेऊ इच्छित नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "पृथ्वीराजचे आयुष्य जुळवत आणणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराज चौहानच्या आयुष्याचे एक विश्वासार्ह ऐतिहासिक वृत्तांत पुनर्रचित करण्यासाठी अनेक वेगळ्या आणि नेहमी सहजपणे जुळवता न येणाऱ्या स्रोत-सामग्रीच्या श्रेणींचे मूल्यमापन करावे लागते: चाहमान प्रादेशिक दावे आणि प्रशासकीय कार्य नोंदवणारे समकालीन किंवा जवळ-समकालीन संस्कृत शिलालेख; घुरी आणि सुरुवातीच्या सल्तनती दरबारी इतिहासकारांनी रचलेले पर्शियन-भाषिक इतिवृत्ते, जे स्वाभाविकपणे पृथ्वीराजच्या अखेरच्या विजेत्यांच्या दृष्टिकोनातून लिहिले गेले; आणि कितीतरी नंतरची, प्रचंड अधिक तपशीलवार पण बरीच कमी ऐतिहासिकदृष्ट्या विश्वासार्ह पृथ्वीराज रासो भाटी परंपरा, जी तरीही आजही या माणसाबद्दलच्या लोकप्रिय समजाला घडवणारा एकच सर्वात प्रभावशाली स्रोत राहते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 27,
+                    "title": "नंतरच्या स्मृतीतील पृथ्वीराज चौहान",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "आपल्या पराभवानंतरच्या शतकांत, पृथ्वीराज चौहान उत्तर भारतीय लोकप्रिय व साहित्यिक परंपरेभर राजपूत शौर्याचे प्रतीक म्हणून, आणि विशेषतः एकोणिसाव्या व विसाव्या शतकांपासून भारतीय राष्ट्रवादी ऐतिहासिक जाणिवेच्या उदयादरम्यान, दिल्ली सल्तनतीच्या स्थापनेपूर्वी दिल्लीवरील स्वतंत्र हिंदू राजकीय शासनाचा अंत दर्शवणारे एक प्रतीकात्मक व्यक्तिमत्त्व म्हणून स्मरणात राहू लागले — असे प्रतीकात्मक वजन ज्याने त्याला आधुनिक भारतीय ऐतिहासिक स्मृती आणि लोकप्रिय संस्कृतीत, अनेक दशकांतील त्याच्या कथेच्या असंख्य साहित्यिक, नाट्य, आणि चित्रपट रूपांतरांसह, एक भरीव आणि, कधीकधी, वादग्रस्त महत्त्वाचे व्यक्तिमत्त्व बनवले आहे.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 28,
+                    "title": "वारसा: दिल्लीचा शेवटचा हिंदू राजा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पृथ्वीराज चौहानचा ऐतिहासिक वारसा बाराव्या शतकातील खऱ्या महत्त्वपूर्ण राजकीय व लष्करी उपलब्धीच्या एका खऱ्या पायावर टिकून आहे — उत्तर भारतातील सर्वात दुर्जेय प्रादेशिक राजपूत सत्तांपैकी एक उभारणे, आणि घुरी आक्रमणाविरुद्ध एक गंभीर, सुरुवातीला यशस्वी लष्करी प्रतिकार उभा करणे जो, त्याच्या पराभवानंतर, अखेर पुढील अनेक शतकांसाठी भारतीय राजकीय इतिहासाला पुनर्घडवणार होता — तरीही आज त्याची बहुतांश लोकप्रिय ख्याती नंतरच्या भाटी दंतकथेच्या एका संग्रहावर टिकून आहे, पृथ्वीराज रासोने प्रतिनिधित्व केलेल्या, ज्याच्या रोमान्स, शौर्य, आणि दुःखद वीरतेच्या जिवंत, भावनिकदृष्ट्या प्रतिध्वनित करणाऱ्या कथा, आठ शतकांच्या पुनःकथनांत, त्याच्या प्रत्यक्ष राज्यकाळाच्या अधिक तुटपुंज्यापणे दस्तऐवजीकृत, पण ऐतिहासिकदृष्ट्या पडताळणीयोग्य, रूपरेषेहूनही लोकस्मृतीत अधिक चिरस्थायी सिद्ध झाल्या आहेत.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "king_008",
+            "title": "महाराणा प्रताप: कधीही न झुकलेला राजा",
+            "empire": "मेवाड (सिसोदिया राजवंश)",
+            "category": "राजे",
+            "period": "इ.स. १५४०-१५९७",
+            "region": "मेवाड, राजस्थान",
+            "narrator": "मीरा कुलकर्णी",
+            "languages": [
+                "मराठी",
+                "इंग्रजी"
+            ],
+            "duration": "३३ मिनिटे",
+            "rating": 4.9,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/pratap.png",
+            "summary": "उत्तर भारतातील प्रत्येक महान राज्य मुघल सिंहासनासमोर नतमस्तक होत असताना, एका राजपूत राजाने शरणागतीपेक्षा वनवास, उपासमार, आणि गवताची भाकरी निवडली — आणि याच प्रक्रियेत भारतीय स्मृतीतील अवज्ञेचे सर्वात चिरस्थायी प्रतीक बनला.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "वेढलेल्या राज्यात जन्म",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "प्रतापसिंहांचा जन्म इ.स. १५४० मध्ये कुंभलगड किल्ल्यावर झाला, मेवाडच्या सिसोदिया राजवंशात, एक असा राजपूत शासकीय वंश ज्याचे मूळ शतकानुशतके मागे जाते आणि जो सोळाव्या शतकापर्यंत संपूर्ण उपखंडातील सर्वात निर्धारित आणि हट्टाने स्वतंत्र शासकांपैकी एक अशी प्रतिष्ठा बनवून बसला होता. त्यांचा जन्म कठीण काळात झाला. मेवाडची महान राजधानी, चित्तोडगड, आधीच्या पिढ्यांत विनाशकारी वेढ्यांना सामोरी गेली होती, सर्वात विनाशकारी इ.स. १३०३ मध्ये आणि पुन्हा इ.स. १५३५ मध्ये, प्रत्येक वेळी जोहरच्या भीषण राजपूत परंपरेत संपणारी, ज्यात किल्ल्यातील स्त्रिया पकडले जाण्यापेक्षा अग्नीत मृत्यू निवडत, तर उरलेले पुरुष केशरी वस्त्रे परिधान करून प्रचंड विरोधात एका अंतिम, जाणीवपूर्वक घातक हल्ल्यासाठी बाहेर पडत. प्रतापांचे वडील, उदयसिंह दुसरे, यांनी सरोवरे व टेकड्यांत वसलेले उदयपूर हे नवे नगर स्थापन केले होते, जे चित्तोडगडच्या उघड्या पठारापेक्षा चांगले नैसर्गिक संरक्षण देत असे, आणि याच बदलत्या, संघर्षमय भूदृश्यात — एक अजूनही अभिमानी, अजूनही शक्तिशाली, पण उत्तरेकडून वेगाने विस्तारणाऱ्या मुघल साम्राज्याने वाढत्या प्रमाणात वेढलेले राज्य — तरुण प्रताप वाढले, बालपणापासूनच सिसोदिया कुळाची मेवाडच्या स्वातंत्र्याप्रती असलेली खोल, जवळजवळ पवित्र बांधिलकी आत्मसात करत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "चित्तोडगडचा पाडाव",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "इ.स. १५६७ मध्ये, प्रताप अजूनही तरुण असतानाच, मुघल सम्राट अकबराने मेवाडच्या सत्तेचे पूर्वजांचे केंद्र, चित्तोडगडावर वैयक्तिकरीत्या एक प्रचंड वेढा घातला, प्रदेशातील शेवटच्या महान स्वतंत्र राजपूत बालेकिल्ल्याला मुघल नियंत्रणाखाली आणण्याचा निर्धार बाळगत. उदयसिंह दुसरे, आपल्या सरदारांच्या सल्ल्यानुसार, वेढा पूर्ण बंद होण्याआधी शासकीय कुटुंबालाच एका अंतिम झुंजीत धोक्यात घालण्याऐवजी किल्ल्यातून बाहेर पडले, विश्वासू सेनापतींच्या हाती संरक्षण सोपवत तर दरबार उदयपूरभोवतीच्या टेकड्यांच्या सुरक्षिततेकडे स्थलांतरित झाला. त्यानंतरचा वेढा दीर्घ आणि रक्तरंजित होता, आणि तो, चित्तोडगडच्या वेढ्यांत अनेकदा घडले तसे, शोकांतिकेत संपला — हजारो रक्षक एका अंतिम हताश लढाईत मारले गेले, आणि किल्ल्यातील स्त्रियांनी पकडले जाण्यापेक्षा पुन्हा एकदा जोहर केले. अकबराच्या सैन्याने किल्ला ताब्यात घेतला, आणि चित्तोडगड, शतकानुशतके मेवाडचे प्रतीकात्मक हृदय, सिसोदिया हातांतून निसटले. दहा वर्षांनंतर सिंहासन वारशाने घेणाऱ्या प्रतापांसाठी, चित्तोडगडचे गमावणे केवळ एक धोरणात्मक पराभव नव्हता तर खुद्द अस्मितेवरील एक जखम होती — त्या नुकसानाचा पुनर्ताबा, किंवा किमान त्याचा सूड, त्यांच्या उर्वरित आयुष्याचा संपूर्ण मार्ग घडवणार होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "शरणागतीवरून विभागलेले राज्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "इ.स. १५७२ मध्ये प्रताप आपल्या वडिलांनंतर मेवाडचे महाराणा बनले तोपर्यंत, राजस्थानचा राजकीय नकाशा नाट्यमयपणे बदलला होता. जवळजवळ प्रत्येक इतर मोठ्या राजपूत राज्याने — सर्वात महत्त्वाचे म्हणजे शक्तिशाली कछवाहा कुळाने शासित आंबेर — संघर्षाऐवजी मुघल साम्राज्याशी समझोता निवडला होता, अनेकदा विवाहांतून सील केलेल्या युत्यांत प्रवेश करत, राजपूत सरदार खुद्द मुघल व्यवस्थेतच अकबराचे सर्वात विश्वासू सेनापती व प्रशासक बनत. हा, कोणत्याही व्यावहारिक मापाने, एक वाजवी आणि अनेकदा समृद्ध मार्ग होता: त्याने स्थानिक शासन जतन केले, मुघल संपत्ती व लष्करी संधीपर्यंत प्रवेश आणला, आणि प्रतिकाराने नेहमी आमंत्रित केलेला विनाश टाळला. मात्र, प्रताप, मेवाडच्याच सरदारवर्गातील एका महत्त्वपूर्ण गटासह, हा मार्ग पूर्णपणे नाकारला, कोणत्याही बाह्य सत्तेला शरण जाणे, अटी कितीही उदार असोत, सिसोदिया राजवंशाने पिढ्यानपिढ्या रक्षण केलेल्या सन्मान व स्वातंत्र्याशी मूलभूतपणे विसंगत मानत. यामुळे ते एका खरोखर असामान्य आणि वाढत्या प्रमाणात एकाकी स्थितीत आले — केवळ एका परकीय विजेत्याला विरोध करत नव्हे, तर आपल्याच राजपूत समकालीनांत जवळजवळ एकटे उभे राहत, ज्यांच्यापैकी अनेक आता ते साम्राज्य ज्याला मानण्यास त्यांनी नकार दिला त्याचीच सेवा करत होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "अकबराचे मुत्सद्दी प्रयत्न",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "अकबराने, आपल्या बाजूने, मेवाडशी लगेच थेट युद्धाकडे वळला नाही. त्याने प्रथम प्रतापांकडे मुत्सद्दी शिष्टमंडळांची एक मालिका पाठवली, आंबेर आणि इतर राजपूत राज्यांना शांततेने मुघल कोंडाळ्यात आणलेल्या त्याच प्रकारच्या समझोत्यावर वाटाघाटी करण्याच्या आशेने. यांपैकी अनेक शिष्टमंडळांचे नेतृत्व प्रमुख सरदारांनी केले, ज्यात खुद्द आंबेरचा राजा मानसिंह यांचा समावेश आहे, एक राजपूत सेनापती जो आता अकबराची मोठ्या वैशिष्ट्याने सेवा करत होता — ही वस्तुस्थिती, प्रताप आणि त्यांच्या समर्थकांच्या नजरेत, शरणागतीच्या आवाहनांना एका सामायिक राजपूत वारशाशी विश्वासघाताच्या भावनेविना स्वीकारणे आणखीनच कठीण बनवत होती. प्रतापांनी या दूतांना सौजन्याने स्वीकारले पण त्यांच्या मुख्य प्रस्तावाला सातत्याने नकार दिला, मुघल दरबारात वैयक्तिकरीत्या हजर राहण्यास किंवा निष्ठेच्या बंधकीय हमीदाखल एका पुत्राला पाठवण्यास तयार नव्हते, अशा अटी ज्या इतर राजपूत शासकांनी युतीची सामान्य किंमत म्हणून स्वीकारल्या होत्या. प्रत्येक अयशस्वी वाटाघाटीने शांततेसाठी उरलेली जागा आणखी अरुंद केली, आणि इ.स. १५७६ पर्यंत, मुत्सद्देगिरी संपुष्टात आल्यावर, अकबराने निष्कर्ष काढला की मेवाडची अवज्ञा बळाने मोडावी लागेल, आणि खुद्द राजा मानसिंहच्याच नेतृत्वाखाली एक मोठे मुघल सैन्य प्रतापांच्या पर्वतीय बालेकिल्ल्याकडे पाठवले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "हळदीघाटीची लढाई",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "दोन्ही सैन्ये १८ जून १५७६ रोजी हळदीघाटी येथे भेटली, अरवली टेकड्यांतील एक अरुंद पर्वतीय खिंड ज्याचे नाव — आसपासच्या मातीच्या हळदी-पिवळ्या रंगावरून आलेले — तिथे उलगडणाऱ्या क्रूर लढाईशी विसंगत भासत होते. प्रतापांनी एक तुलनेने लहान सैन्य आज्ञापित केले, निष्ठावान राजपूत कुळबांधव, भिल्ल जमातिक धनुर्धारी ज्यांचे भूप्रदेशाबद्दलचे जवळचे ज्ञान अमूल्य सिद्ध झाले, आणि, चिरस्थायी दंतकथेनुसार, हकीम खान सूर नावाच्या सेनापतीखालील अफगाण सैनिकांची एक लहान तुकडी, राजपूतांबरोबर त्यांच्यासमोरील कितीतरी मोठ्या मुघल सैन्याविरुद्ध लढत. लढाई तीव्र होती आणि, निव्वळ रणनीतिक दृष्टीने, कोणताही स्पष्ट विजेता न ठरता संपली — प्रतापांच्या सैन्याने भारी जीवितहानी घडवली आणि मुघल इतिवृत्तकारांनीही मान्य केलेल्या तीव्रतेने लढले, पण ते अखेर मोठ्या मुघल सैन्याला भारी पडू शकले नाहीत, आणि प्रताप स्वतः जखमी झाले आणि टेकड्यांत खोलवर माघार घ्यावी लागली, एका विशेष गाजलेल्या प्रसंगात आपल्या समर्पित युद्धघोड्याने, चेतक, वाचवले, ज्याने कथितरीत्या आपल्या जखमी राजाला एका दरीपलीकडे सुरक्षिततेत नेले शेवटी स्वतःच्या युद्ध-जखमांना बळी पडण्याआधी. रणांगण स्वतः, चांगल्या प्रकारे पाहिल्यास, एक अनिर्णित बरोबरी होती तरी, हळदीघाटी प्रतापांच्या संपूर्ण आयुष्यातील एकच सर्वात दंतकथीय प्रसंग बनणार होती, राजस्थानी पोवाडे, चित्रे, आणि लोकस्मृतीत मुघल सत्तेविरुद्धच्या राजपूत प्रतिकाराचा निर्णायक क्षण म्हणून अमर झालेली.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "चेतक: दंतकथा बनलेला घोडा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "भारतीय इतिहासात फार कमी प्राणी हळदीघाटीतील प्रतापांच्या युद्धघोड्याइतक्या भक्तीने स्मरणात राहतात, चेतक, ज्याची लढाईदरम्यानची निष्ठा व धैर्य खुद्द प्रतापांच्या दंतकथेपासून अविभाज्य बनली. राजस्थानी लोकस्मृतीतून पुढे आलेल्या पारंपरिक वृत्तांतांनुसार, चेतकने प्रतापांना थेट लढाईच्या घनदाटीत नेले, एका क्षणी विरोधी मुघल सेनापतीला वाहून नेणाऱ्या हत्तीवर हल्ला करण्यासाठी दोन पायांवर उभे राहून, प्रतापांना नजीकच्या लढाईच्या गोंधळात त्याच्यावर थेट प्रहार करण्याचा प्रयत्न करण्यास सक्षम करत. जेव्हा प्रताप जखमी झाले आणि लढाई त्यांच्या लहान सैन्याविरुद्ध वळली, तेव्हा चेतकनेच त्यांना रणांगणातून नेले, कथितरीत्या पाठलाग करणाऱ्या मुघल सैनिकांपासून बचावण्यासाठी एका रुंद, तीव्र दरीपलीकडे उडी मारत, तरी लढाईदरम्यान त्याच्या एका पायाला आधीच गंभीर जखम झाली होती. हा अंतिम हताश सुटका पूर्ण केल्यावर लवकरच चेतक मरण पावला, आणि तो जिथे पडला असे मानले जाते ते स्थळ आजही एका स्मारकाने चिन्हांकित आहे जे पर्यटकांना आकर्षित करते आणि अशा प्राण्याला शांतपणे श्रद्धांजली वाहते ज्याची निष्ठा, पुढील शतकांत, भारतीय केवळ प्रतापांचेच धैर्य नव्हे तर त्यांची सेवा करणाऱ्या प्राण्यांपर्यंत प्रत्येक स्तरावर मोजलेल्या किमतीचेही स्मरण कसे करतात याचा कायमचा भाग बनली, अशा प्रतिकारात जो कधीच पूर्णपणे यशस्वी झाला नाही आणि कधीच पूर्णपणे शरणही गेला नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "वनवासातील वर्षे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "हळदीघाटीनंतरच्या वर्षांत, प्रतापांची स्थिती वाढत्या प्रमाणात हताश होत गेली. आपल्या बहुतांश स्थिरावलेल्या प्रदेशातून हुसकावले गेल्यावर, ते अरवली पर्वतरांगेतील खडबडीत टेकड्या व जंगलांत खोलवर माघारले, निष्ठावान अनुयायांच्या एका लहान गटासह खऱ्या अर्थाने कठीण परिस्थितीत दीर्घकाळ जगत, त्यांचे कुटुंब कथितरीत्या राज्य करणाऱ्या महाराणाला शोभणाऱ्या सुखसोयींऐवजी कधीकधी गवत-बीजाच्या भाकरीवर आणि जंगलातील इतर तुटपुंज्या अन्नावर जगण्यापर्यंत खाली उतरले. या वर्षांत मुघल दबाव अखंडपणे सुरू राहिला, प्रतापांच्या उरलेल्या सैन्याचा शोध घेण्यासाठी आणि इतर प्रत्येक मोठ्या राजपूत सत्तेने आधीच स्वीकारलेल्या त्याच शरणागतीकडे त्यांना ढकलण्यासाठी वारंवार मोहिमा पाठवल्या गेल्या. तरीही आपल्या सर्वात कनिष्ठ बिंदूवरही, प्रतापांनी समझोत्याची प्रत्येक नवी ऑफर नाकारली, आणि याच अत्यंत कठीण काळातच त्यांची अवज्ञा तिचे सर्वात चिरस्थायी प्रतीकात्मक वजन धारण करू लागली — सैन्ये व किल्ले आज्ञापित करणाऱ्या सत्तेच्या शिखरावरील राजाची अवज्ञा नव्हे, तर जवळजवळ काहीच न उरलेल्या, तरीही केवळ तत्त्वाखातर, झुकण्यास नकार देत राहणाऱ्या राजाची. नंतरच्या पिढ्या खुद्द हळदीघाटीच्या नाट्यापेक्षाही या वनवासातील वर्षांना माणसाच्या खऱ्या मापाची कसोटी म्हणून स्मरणात ठेवणार होत्या.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "भामाशहाची संपत्ती आणि बदलणारे भाग्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "प्रतापांच्या दीर्घ, झिजवणाऱ्या प्रतिकारातील वळणबिंदू एका अनपेक्षित स्रोतातून आला: भामाशहा, मेवाडचा एक माजी मंत्री आणि भरीव वैयक्तिक संपत्ती असलेला माणूस, ज्याने या हताश वर्षांत प्रतापांकडे जाऊन त्यांना जमा केलेल्या खजिन्याची एक विशाल रक्कम देऊ केली असे म्हटले जाते — कथितरीत्या पुढील वर्षांच्या सतत मोहिमांसाठी एक सैन्य निधीबद्ध व सुसज्ज करण्याइतकी संपत्ती — बदल्यात केवळ आपल्या राजाचे भाग्य पुनर्स्थापित करण्यास मदत करण्याची संधी मागत. भामाशहाच्या योगदानाचे नेमके प्रमाण काहीही असो, जे पिढ्यानपिढ्यांच्या पुनःकथनांत नंतरच्या दंतकथेने चांगलेच वाढवले असू शकते, तो ऐतिहासिक नोंदीतील एक खरा आणि महत्त्वपूर्ण वळणबिंदू चिन्हांकित करतो: नव्याने मिळालेल्या साधनसंपत्तीसह, प्रताप एक लढाऊ सैन्य पुनर्उभारण्यास व पुनःसुसज्ज करण्यास सक्षम झाले, आणि पुढील वर्षांत, त्यांच्या हद्दपारीच्या सर्वात कठोर वर्षांत मुघल नियंत्रण किंवा प्रभावाखाली गेलेला प्रदेश परत मिळवण्याची एक सातत्यपूर्ण मोहीम सुरू केली. भामाशहाची निष्ठेची कृती, गमावल्याचे सर्व दिसणाऱ्या एका उद्दिष्टात आपली वैयक्तिक संपत्ती ओतण्याची निवड, स्वतःच राजस्थानी स्मृतीत एक गौरवशाली प्रसंग बनली आहे — एक आठवण की प्रतापांचा प्रतिकार, त्यांच्या सर्वात कनिष्ठ क्षणी कितीही एकाकी वाटला तरी, आपली स्वतःची संपत्ती, सुखसोय, आणि सुरक्षितता एका राजासाठी त्यागण्यास तयार असलेल्या अनुयायांच्या एका जाळ्याने संपूर्णभर टिकवला गेला ज्याने त्यांना उद्दिष्टापलीकडे फारसे काही देऊ केले नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "मेवाड पुन्हा मिळवणे, किल्ला-किल्ल्याने",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "भामाशहाच्या पाठिंब्याने आणि नव्याने उभारलेल्या सैन्यासह, प्रतापांनी आपल्या सक्रिय मोहिमेची शेवटची वर्षे हळदीघाटीत इतकी महागडी सिद्ध झालेल्या प्रकारच्या उघड्या ठराविक लढायांना जाणीवपूर्वक टाळत, गनिमी युद्ध आणि लक्ष्यित वेढ्यांच्या धीराच्या, निर्धारित मोहिमेतून मेवाडचा बराचसा प्रदेश सातत्याने पुन्हा मिळवण्यात घालवली, त्याऐवजी अरवली भूप्रदेशाच्या आपल्या जवळच्या ज्ञानाचा वापर करत मुघल चौक्या व ठाणी सर्वात कमकुवत असतील तिथे धडकत. काळानुसार, त्यांनी मेवाडचा एक भरीव भाग परत मिळवण्यात यश मिळवले, त्याच्या बहुतांश पश्चिमी प्रदेशांसह, आणि अगदी टेकड्यांत छावंड येथे एक नवी राजधानी स्थापन केली, जिथून ते सुरक्षितपणे सोप्या मुघल पोहोचीबाहेर राहत परत मिळवलेल्या राज्यावर राज्य करणे चालू ठेवू शकत. उल्लेखनीय म्हणजे, खुद्द चित्तोडगड — ज्याच्या गमावण्याने प्रतापांच्या निर्धाराचा बराचसा भाग घडवला होता ती पूर्वजांची राजधानी — त्यांच्या हयातीत कधीच परत मिळवली गेली नाही, ते आसपासच्या बहुतांश ग्रामप्रदेश परत मिळवत असतानाही मुघल नियंत्रणाखालीच राहिली; तिचा पुनर्ताबा प्रतापांनी त्यांच्या आयुष्याच्या शेवटपर्यंत बाळगलेले एक अपूर्ण उद्दिष्ट राहणार होते, हे स्मरण करून देत की त्यांचे कष्टाने मिळवलेले यशही संपूर्ण पुनर्स्थापनेच्या आधीच थांबले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "औपचारिकपणे कधीच पराभूत न झालेला राजा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "जी गोष्ट प्रतापांना त्यांच्या काळातील जवळजवळ प्रत्येक इतर प्रादेशिक शासकाहून सर्वात तीव्रपणे वेगळे करते ती एक साधी, ठळक वस्तुस्थिती आहे: दशकांच्या सातत्यपूर्ण मुघल दबावानंतरही, चित्तोडगडचे नुकसान होऊनही, वनवासातील वर्षांच्या कष्टानंतरही, प्रताप कधीच औपचारिकपणे पराभूत झाले नाहीत, कधीच शरणागतीच्या तहावर स्वाक्षरी केली नाही, आणि अकबराचे सर्वोच्चत्व मान्य करण्यासाठी कधीच मुघल दरबारात हजर झाले नाहीत — असा विक्रम जो उपखंडाच्या प्रादेशिक सत्तांना विजय किंवा वाटाघाटी झालेल्या युतीद्वारे मुघल अधिकाराखाली आणण्याच्या अकबराच्या विशाल आणि बहुतांशी यशस्वी प्रकल्पात जवळजवळ कोणत्याही इतर मोठ्या शासकाने जुळवला नाही. त्यांच्या मृत्युपर्यंत, प्रताप त्यांच्या वडिलांनी एकेकाळी राज्य केलेल्या मेवाडपेक्षा लहान आणि कमी श्रीमंत राज्यावर राज्य करत होते, पण ते त्यावर एक संपूर्णपणे स्वतंत्र महाराणा म्हणून, आपल्याच अटींवर, कोणत्याही मुघल स्वामीला उत्तरदायी न राहता राज्य करत होते. हा फरक — अखेरचा प्रादेशिक विजय नव्हे, तर अखंड, तडजोडविरहित स्वातंत्र्य — हेच नेमके आहे जे प्रतापांना, त्यांच्याच हयातीतही, त्यांनी आज्ञापित केलेल्या राज्याच्या प्रत्यक्ष आकाराच्याही बरेच पलीकडे राजपूत कुळांत एक प्रतिष्ठा देऊन उंचावले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "छावंड येथे मृत्यू",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "महाराणा प्रताप जानेवारी १५९७ मध्ये आपल्या टेकडी-राजधानी छावंड येथे मरण पावले, कथितरीत्या काही महिन्यांपूर्वी झालेल्या एका शिकार-अपघातातील जखमांमुळे ज्या कधीच पूर्णपणे बऱ्या झाल्या नाहीत, जरी नेमक्या परिस्थितीच्या वृत्तांतांत फरक आहे. ते छप्पन्न वर्षांचे होते, आणि त्यांच्या मृत्युपर्यंत त्यांनी आपल्या पंचवीस वर्षांच्या राज्यकाळाचा जवळजवळ संपूर्ण काळ मौर्यांनंतर उपखंडाने पाहिलेल्या सर्वात शक्तिशाली साम्राज्याविरुद्ध सक्रिय प्रतिकारात घालवला होता, त्याच्यासमोर एकदाही न झुकता. परंपरा मानते की आपल्या मृत्युशय्येवरही, प्रतापांनी आपला पुत्र व उत्तराधिकारी, अमरसिंह, याला चित्तोडगड परत मिळवण्याचा संघर्ष चालू ठेवण्याची आणि मुघल अधिकाराला कधीही शरण न जाण्याची शपथ घेण्यास लावले — अशी शपथ जी, व्यवहारात, पुढील दशकांतील सततच्या मुघल दबावाच्या निव्वळ ओझ्याविरुद्ध त्यांच्या उत्तराधिकाऱ्यांना पूर्णपणे टिकवणे कठीण सिद्ध होणार होती, जरी प्रतापांच्या स्वतःच्या अखंड अवज्ञेची स्मृती, मेवाडसाठी आणि व्यापकपणे राजस्थानसाठी, एक चिरस्थायी मापदंड राहिली ज्याविरुद्ध नंतरचे शासक स्वतःला तोलणार होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "वारसा: राजपूत प्रतिकाराचा चेहरा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "त्यांच्या मृत्युनंतरच्या शतकांत, महाराणा प्रताप त्यांच्या राज्यकाळाच्या ऐतिहासिक नोंदीहून एकट्याने स्पष्ट करता येण्यापेक्षा कितीतरी मोठे काहीतरी बनले आहेत — ते आज संपूर्ण भारतीय स्मृतीत कदाचित राजपूत सन्मान व प्रतिकाराचे एकच सर्वात गौरवशाली प्रतीक म्हणून उभे आहेत, त्यांचे नाव राजस्थानभर आणि त्यापलीकडे लोकपोवाडे, चित्रे, शालेय पाठ्यपुस्तके, आणि लोकप्रिय संस्कृतीत आवाहित केले जाते. त्यांनी जिंकलेल्या किंवा बांधलेल्या गोष्टींच्या प्रमाणासाठी प्रामुख्याने स्मरणात राहणाऱ्या अनेक गौरवशाली शासकांच्या विपरीत, प्रताप सर्वात महत्त्वाचे म्हणजे त्यांनी काय नाकारले यासाठी स्मरणात राहतात: सुखसोय, सुरक्षितता, आणि त्यांच्या काळातील सर्वात मोठ्या साम्राज्यात एक सुरक्षित, समृद्ध स्थान, हे सर्व वनवासातील किल्ले, संपत्ती, आणि खऱ्या कष्टाच्या वर्षांची किंमत मोजून एका स्वातंत्र्याच्या बाजूने नाकारले गेले. प्रताप आणि चेतक यांची स्मारके व पुतळे आज राजस्थानभर उभी आहेत, आणि हळदीघाटी तिथे लढल्या गेलेल्या लढाईनंतर जवळजवळ साडेचार शतकांनंतरही यात्रा व स्मरणाचे एक स्थळ राहते. जिथे अकबराचा स्वतःचा वारसा मोठ्या प्रमाणात त्याने विजय आणि माजी प्रतिस्पर्ध्यांच्या कुशल एकीकरणातून उभारलेल्या साम्राज्याच्या निव्वळ प्रमाणावर टिकून आहे, तिथे प्रतापांचा वारसा पूर्णपणे विरुद्ध उपलब्धीवर टिकून आहे — एक पुरावा, तो निर्माण करणारा राजकीय नकाशा नाहीसा झाल्यानंतरही स्मृतीत जतन केलेला, की त्या काळातील सर्वात शक्तिशाली साम्राज्यही प्रत्येक अभिमानी राज्याला गुडघे टेकायला भाग पाडू शकले नाही.",
                     "audioUrl": null
                 }
             ]

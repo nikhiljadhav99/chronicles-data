@@ -1169,6 +1169,436 @@
           "audioUrl": null
         }
       ]
+    },
+    {
+      "id": "empaire_007",
+      "title": "The Nanda Dynasty: The Empire Before the Mauryas",
+      "empire": "Nanda Empire",
+      "category": "Dynasties",
+      "period": "c. 345-322 BCE",
+      "region": "Magadha and the Gangetic Plain",
+      "narrator": "Meera Kulkarni",
+      "languages": [
+        "Marathi",
+        "English"
+      ],
+      "duration": "52 min",
+      "rating": 4.5,
+      "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/nanda.png",
+      "summary": "A low-born king who called himself 'sole sovereign,' an army so vast its reputation alone turned back Alexander the Great, and the humiliated scholar who swore to bring the whole wealthy, resented dynasty down.",
+      "isPremium": false,
+      "isNew": true,
+      "isKing": false,
+      "progress": null,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Magadha Before the Nandas",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "By the fifth century BCE, the kingdom of Magadha, centered in the fertile Gangetic plain of what is now Bihar, had already begun emerging as the most powerful state among the many kingdoms and tribal republics of northern India — a rise driven under earlier rulers of the Haryanka and Shishunaga dynasties, most notably the ambitious and often ruthless King Ajatashatru, who expanded Magadhan territory through sustained warfare against neighboring powers including the Licchavi confederacy of Vaishali. It was this already-formidable, expanding regional power that the Nanda dynasty would inherit and dramatically extend further, transforming Magadha from merely the strongest of several rival kingdoms into something approaching the first genuinely pan-Gangetic empire in Indian history.",
+          "audioUrl": null
+        },
+        {
+          "number": 2,
+          "title": "Mahapadma Nanda: An Unlikely Founder",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "The Nanda dynasty's founder, Mahapadma Nanda, is described in the Puranas — later Hindu texts compiling dynastic genealogies and traditions — in terms that emphasize his unconventional and, by the standards of the era's rigid social hierarchy, genuinely startling rise: several accounts describe him as the son of a Shudra mother, born outside the traditional Kshatriya warrior lineage from which Indian kings were expected to descend, making him, in the language of the Puranas themselves, effectively the first king of explicitly non-Kshatriya origin to rule so powerful a kingdom. Modern historians treat the specific caste details of these accounts with some caution, since they were recorded generations later by Brahmanical sources with their own clear investment in emphasizing the irregularity of Nanda rule, but the underlying claim — that Mahapadma Nanda rose from outside the traditional ruling lineage — is treated as broadly credible and historically significant.",
+          "audioUrl": null
+        },
+        {
+          "number": 3,
+          "title": "The Nanda Conquest of Magadha's Rivals",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Puranic tradition describes Mahapadma Nanda as effectively eliminating the remaining independent Kshatriya ruling lineages across northern India, earning the title \"Ekarat,\" or \"sole sovereign,\" a description suggesting a genuinely unprecedented degree of centralized political consolidation achieved during his reign. Whether this represents literal, complete conquest of every rival kingdom or a somewhat exaggerated later characterization of Mahapadma's undeniably significant territorial expansion is difficult to establish with precision given the limited and often symbolically-charged nature of the surviving sources, but the consistent thread across multiple traditions is that Nanda power represented a dramatic escalation beyond what any single Gangetic kingdom had previously achieved.",
+          "audioUrl": null
+        },
+        {
+          "number": 4,
+          "title": "Building an Empire",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "By most scholarly reconstructions, Nanda territory at its height extended across the core Gangetic plain and may have reached, at least in some tributary or military capacity, as far as Kalinga on the eastern coast — a claim partly supported by a much later inscription, the Hathigumpha inscription of the Kalingan king Kharavela, which references an irrigation canal originally built during Nanda rule centuries earlier, offering rare independent, if indirect, confirmation of Nanda administrative reach into the region. This would make the Nanda realm, however its exact borders are reconstructed, the largest and most centrally organized Indian kingdom that had yet existed, directly anticipating the even larger Mauryan empire that would shortly succeed it.",
+          "audioUrl": null
+        },
+        {
+          "number": 5,
+          "title": "The Wealth of the Nandas",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Across nearly every surviving source — Greek, Puranic, and later Buddhist and Jain accounts alike — the Nanda dynasty is consistently remembered for its extraordinary accumulated wealth, with later tradition describing vast treasuries built up through what contemporary and subsequent accounts describe as an unusually intensive and systematic approach to taxation and revenue collection. Some later legendary accounts go so far as to describe fantastical sums of buried Nanda treasure, a folkloric embellishment that, whatever its literal truth, reflects just how deeply the association between the Nanda dynasty and immense concentrated wealth had embedded itself in Indian historical memory even centuries after the dynasty's fall.",
+          "audioUrl": null
+        },
+        {
+          "number": 6,
+          "title": "A Reputation for Greed",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "This same wealth, however, appears to have come at a real cost to Nanda popularity: multiple later sources, including the Sanskrit political drama Mudrarakshasa composed some centuries after the dynasty's fall, and various Buddhist and Jain texts, consistently portray the Nanda kings, and particularly the dynasty's final ruler, as widely resented for heavy taxation and, in the Brahmanical sources especially, for what was framed as an inappropriate assertion of royal authority by rulers considered to be of insufficiently elevated social origin. Historians generally read this consistent negative portrayal across otherwise quite different textual traditions as reflecting some genuine historical basis for real unpopularity, even while cautioning that these same sources had their own clear narrative and ideological motivations for emphasizing Nanda misrule, not least because doing so helped justify and legitimize the dynasty that violently replaced them.",
+          "audioUrl": null
+        },
+        {
+          "number": 7,
+          "title": "The Nanda Army: A Colossus",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Greek and Roman sources describing India at the time of Alexander the Great's invasion — writing about the Nanda kingdom from outside, based on secondhand reports reaching Alexander's camp — describe a Nanda military force of almost unimaginable scale: figures cited include roughly 200,000 infantry, tens of thousands of cavalry, thousands of war chariots, and several thousand war elephants. Modern historians treat these specific numbers with considerable skepticism, as ancient armies were routinely and dramatically exaggerated in both friendly and hostile accounts, but even allowing for significant inflation, the consistent Greek characterization of the Nanda army as vastly larger and more formidable than anything Alexander's forces had yet encountered in India appears to reflect a genuine and widely recognized military reality of the era.",
+          "audioUrl": null
+        },
+        {
+          "number": 8,
+          "title": "Alexander at the Beas River",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "In 326 BCE, having already fought a hard-won battle against King Porus along the Jhelum river in Punjab, Alexander the Great's exhausted army reached the banks of the Beas (Hyphasis) river and received detailed reports of the massive Nanda force reportedly awaiting them further east in the Gangetic heartland. Faced with this daunting prospect, after years of continuous campaigning far from home, Alexander's own war-weary troops effectively mutinied, refusing to advance any further into India regardless of their commander's own evident wishes to press onward toward the Ganges.",
+          "audioUrl": null
+        },
+        {
+          "number": 9,
+          "title": "Why Alexander Turned Back",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Alexander's decision to finally turn back from the Beas, after failing to persuade his own soldiers to continue eastward despite reportedly sulking in his tent for several days in protest, meant that his famous Indian campaign never actually resulted in direct military confrontation with the Nanda Empire itself — a genuinely significant historical near-miss, since a clash between Alexander's battle-hardened Macedonian army and the reportedly massive Nanda military machine would have been one of the most consequential encounters in ancient world history, had it occurred. Instead, the mere reputation and scale of Nanda military power, transmitted through secondhand reports reaching a fatigued and increasingly mutinous Macedonian camp, proved sufficient to help turn back the greatest conqueror of the ancient world without a single battle being fought between the two sides.",
+          "audioUrl": null
+        },
+        {
+          "number": 10,
+          "title": "Dhana Nanda: The Last Nanda King",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The final ruler of the Nanda dynasty is generally identified, through a combination of Puranic king-lists and Greek accounts referring to a contemporary Gangetic ruler under names like \"Agrammes\" or \"Xandrames,\" as Dhana Nanda — a name that later Sanskrit tradition also associates, through wordplay on \"dhana,\" meaning wealth, with the dynasty's enduring reputation for immense riches. Reconciling the exact identity, chronology, and relationship between this final Nanda ruler and the dynasty's founder Mahapadma Nanda across the different, sometimes contradictory Puranic, Buddhist, Jain, and Greek source traditions remains a genuinely unresolved and actively debated question among historians of the period.",
+          "audioUrl": null
+        },
+        {
+          "number": 11,
+          "title": "Chanakya's Humiliation",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "According to a widely repeated later tradition, the Brahmin scholar Chanakya, who would go on to become the chief architect of Chandragupta Maurya's rise, was personally humiliated at the Nanda court — some versions describe him being publicly insulted or physically removed from a royal banquet on account of his appearance or manner — and swore a personal oath to bring about the dynasty's downfall in response. Historians cannot verify this specific episode independently, and it may represent later dramatic embellishment designed to personalize and add narrative motivation to what was, in reality, likely a broader and more complex political and military campaign, but the tradition remains one of the most enduring and frequently retold elements of the entire Nanda-to-Maurya transition story.",
+          "audioUrl": null
+        },
+        {
+          "number": 12,
+          "title": "The Rise of a Challenger",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Whatever the precise origins of Chanakya's personal motivation, he found in the young Chandragupta — himself of disputed and still-debated background, as later, equally uncertain traditions describe — a capable and ambitious partner for the campaign against Nanda rule. Together, according to the most widely repeated version of events, they began building the alliances, military resources, and strategic groundwork that would, over a period of years, gradually erode Nanda authority from its foundations, exploiting what multiple sources agree was genuine popular resentment against Dhana Nanda's rule to attract support for their rebellion.",
+          "audioUrl": null
+        },
+        {
+          "number": 13,
+          "title": "War Against the Nandas",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The military campaign against Dhana Nanda, as later tradition describes it, was not a single decisive battle but a gradual, multi-year process of attrition — early attempts reportedly ended in setback and failure, according to legendary accounts, including a famous story of Chandragupta learning strategic patience from observing a child eating from the edges of a hot dish rather than its center, and drawing from it the lesson of attacking an enemy's outlying territories before striking directly at its fortified core. Whatever the precise historical accuracy of such stories, Chandragupta and Chanakya eventually assembled sufficient military strength, reportedly including support from frontier allies in the northwest, to move decisively against the Nanda capital itself.",
+          "audioUrl": null
+        },
+        {
+          "number": 14,
+          "title": "The Fall of the Nandas",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Around 322–321 BCE, Chandragupta's forces overwhelmed the remaining Nanda resistance and seized Pataliputra, the Nanda capital, bringing the dynasty's roughly quarter-century of rule to an end and installing Chandragupta as the founder of what would become the far larger and more historically celebrated Mauryan Empire. The transition from Nanda to Mauryan rule thus represents one of the more thoroughly mythologized regime changes in ancient Indian history, remembered less for precise military detail than for the dramatic narrative arc — an unpopular, wealthy dynasty toppled by a humiliated scholar and his soldier-protégé — that later Indian tradition would tell and retell for centuries afterward.",
+          "audioUrl": null
+        },
+        {
+          "number": 15,
+          "title": "What Became of the Nanda Family",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Later tradition offers conflicting accounts of Dhana Nanda's own fate and that of his family following the Mauryan conquest: some versions describe him killed outright, others describe a negotiated exile allowing him to leave Pataliputra with a portion of his legendary wealth and personal belongings rather than face execution. The genuine uncertainty surrounding even this most basic biographical detail of the dynasty's final ruler is characteristic of how thinly and inconsistently documented Nanda history remains compared to the far better attested Mauryan dynasty that immediately succeeded it and, in the process, had every interest in shaping how its unpopular predecessor would be remembered.",
+          "audioUrl": null
+        },
+        {
+          "number": 16,
+          "title": "Piecing Together Nanda History",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Reconstructing Nanda history requires navigating an unusually fragmented and sometimes contradictory body of evidence: Puranic king-lists compiled centuries after the dynasty's fall, which disagree among themselves on the names, number, and sequence of Nanda rulers; Buddhist and Jain textual traditions, each shaped by their own religious and narrative interests; the Sanskrit drama Mudrarakshasa, a work of literature rather than strict historical record composed long after the events it depicts; and fragmentary Greek and Roman accounts describing the kingdom Alexander's forces heard about but never actually encountered directly in battle. No surviving Nanda inscription in the dynasty's own words has yet been definitively identified, meaning that, unlike the Mauryan emperor Ashoka who followed just two generations later, the Nandas left behind no primary source in their own voice — everything known about them comes through the perspective, and often the hostility, of others.",
+          "audioUrl": null
+        },
+        {
+          "number": 17,
+          "title": "The Nanda Dynasty in Later Tradition",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The Nanda dynasty's afterlife in Indian literary and cultural memory has, somewhat paradoxically, proven more durable and vivid than the historical record of its actual reign, thanks largely to the enduring popularity of the Mudrarakshasa, a Sanskrit political drama centered on Chanakya's scheming campaign to overthrow Nanda rule and install Chandragupta on the throne, which has been performed, adapted, and referenced across Indian literature and, in more recent centuries, film and television for generations — meaning most popular understanding of the Nandas today comes not from the dynasty's own actions but from a much later work of dramatic literature composed by their conquerors' cultural and political heirs.",
+          "audioUrl": null
+        },
+        {
+          "number": 18,
+          "title": "Legacy: Setting the Stage for Empire",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Whatever the precise, genuinely uncertain details of individual reigns and events, the Nanda dynasty's broader historical significance is not seriously disputed: it was the Nandas who first transformed Magadha from merely the strongest regional Gangetic kingdom into something approaching a genuine pan-northern-Indian empire, assembling the administrative reach, concentrated wealth, and — by every surviving account — the sheer scale of military organization that Chandragupta Maurya would inherit, seize, and ultimately build upon to create an even larger empire. In this sense, the Nanda dynasty's most enduring legacy may be one it never intended to leave: proving, through its own dramatic rise and fall, that a Gangetic-based empire spanning much of northern India was achievable at all — a demonstration the Mauryas, and Chandragupta in particular, absorbed and then dramatically surpassed.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "empaire_008",
+      "title": "The Haryanka Dynasty: Magadha's First Empire-Builders",
+      "empire": "Haryanka Empire",
+      "category": "Dynasties",
+      "period": "c. 544-413 BCE",
+      "region": "Magadha and the Gangetic Plain",
+      "narrator": "Meera Kulkarni",
+      "languages": [
+        "Marathi",
+        "English"
+      ],
+      "duration": "74 min",
+      "rating": 4.6,
+      "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Haryanka.png",
+      "summary": "A king who married his way to power and sheltered the Buddha, a son who imprisoned his own father and dissolved a republic through years of patient sabotage, and the fortress town by the Ganges that would one day become an empire's capital.",
+      "isPremium": false,
+      "isNew": true,
+      "isKing": false,
+      "progress": null,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "The World Before Magadha's Rise",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "In the sixth century BCE, the Gangetic plain was divided among what later Buddhist and Jain texts describe as sixteen major states, or Mahajanapadas — a mix of monarchies and tribal republics ranging from Kosala and Avanti to the Vajji confederacy centered around Vaishali. Among these, Magadha, in what is now southern Bihar, was initially just one competitive power among several, its early rulers known only in fragmentary later tradition. It was under the Haryanka dynasty, beginning in the sixth century BCE, that Magadha first began the sustained rise that would, within roughly two centuries and across three successive dynasties, transform it from a regional kingdom into the seat of the largest empire the ancient Indian subcontinent had yet seen.",
+          "audioUrl": null
+        },
+        {
+          "number": 2,
+          "title": "Bimbisara: A King Comes of Age",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Bimbisara, the Haryanka dynasty's most celebrated founder-figure, is generally placed on the Magadhan throne sometime in the mid-to-late sixth century BCE, though as with most rulers of this early period, precise dates vary considerably across different scholarly reconstructions and ancient source traditions. Unlike many of his royal contemporaries, Bimbisara is unusually well documented for a ruler of his era, appearing prominently in both the Buddhist Pali Canon and Jain textual tradition as a contemporary, patron, and — in different accounts — devoted follower of both Gautama Buddha and the Jain teacher Mahavira, giving historians an unusually rich, if still religiously filtered, body of evidence for his reign.",
+          "audioUrl": null
+        },
+        {
+          "number": 3,
+          "title": "Marriage as Strategy: The Kosala Alliance",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Bimbisara pursued territorial expansion as much through calculated marriage alliance as through outright conquest, a strategy that would recur throughout early Magadhan history. His marriage to a sister of King Prasenajit of Kosala, one of the era's other major powers, reportedly came with a village in the Kashi region as dowry — a small but symbolically significant territorial gain that also secured Magadha a valuable diplomatic relationship with a neighboring power considerably larger and more established at the time than Bimbisara's own kingdom.",
+          "audioUrl": null
+        },
+        {
+          "number": 4,
+          "title": "Further Alliances: Vaishali and Madra",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Bimbisara further extended his network of strategic marriages by taking as wife Chellana, a princess connected to the Licchavi nobility of Vaishali — the very confederacy his own son would later spend years at war attempting to conquer outright — as well as a wife from the Madra kingdom in the northwest. Taken together, these alliances gave Bimbisara diplomatic connections stretching across a remarkably wide swath of the political landscape of northern India, illustrating a ruler evidently as comfortable building power through kinship networks as through the sword.",
+          "audioUrl": null
+        },
+        {
+          "number": 5,
+          "title": "The Conquest of Anga",
+          "duration": "5 min",
+          "isLocked": false,
+          "content": "Bimbisara's most significant outright military achievement was the conquest of the neighboring kingdom of Anga, to Magadha's east, defeating its king Brahmadatta and annexing the territory directly into Magadhan control — a conquest that gave Bimbisara access to Anga's capital, Champa, an important riverine trading center on the Ganges. This annexation of Anga is generally regarded by historians as the first major step in Magadha's transformation from a regional kingdom among equals into a genuinely expansionist power, setting a precedent of territorial absorption that both Bimbisara's own successors and the later Nanda and Mauryan dynasties would pursue on an ever-larger scale.",
+          "audioUrl": null
+        },
+        {
+          "number": 6,
+          "title": "Bimbisara's Capital at Rajagriha",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Bimbisara ruled from Rajagriha (also called Girivraja), a naturally fortified city in the hill country of southern Bihar, encircled by five hills that provided formidable natural defense — a strategically sound choice of capital for a kingdom still establishing its dominance among more established regional rivals. Rajagriha would remain closely associated with early Buddhist history in particular, serving as a frequent site of the Buddha's own teaching activity during Bimbisara's reign and, later, as the location of the First Buddhist Council convened after the Buddha's death.",
+          "audioUrl": null
+        },
+        {
+          "number": 7,
+          "title": "A King Among Ascetics: Bimbisara and the Buddha",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Buddhist tradition describes Bimbisara as one of the Buddha's earliest and most significant royal patrons, having reportedly met the future Buddha years before his enlightenment, while the young ascetic was still wandering as a seeker, and having offered him a position at the Magadhan court — an offer the future Buddha declined, but one that established a relationship of mutual respect that would deepen considerably after the Buddha's enlightenment, when Bimbisara became a committed lay follower and one of the new movement's most important early institutional supporters.",
+          "audioUrl": null
+        },
+        {
+          "number": 8,
+          "title": "The Gift of Venuvana",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Among Bimbisara's most historically significant acts of religious patronage was his donation of the Venuvana, or Bamboo Grove, near Rajagriha, to the Buddha and his growing community of monks — traditionally regarded as the first formal monastery, or vihara, donated to the Buddhist sangha, and a site that would remain closely associated with the Buddha's teaching activity for years afterward. This gift established an early and influential precedent of royal patronage for Buddhist institutions that later rulers, most famously Ashoka roughly two centuries afterward, would follow and dramatically expand upon.",
+          "audioUrl": null
+        },
+        {
+          "number": 9,
+          "title": "Bimbisara and Jain Tradition",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Jain textual tradition preserves its own, largely parallel account of Bimbisara — referred to in some Jain sources as Shrenika — describing him as a devoted lay follower of Mahavira, the Jain tirthankara whose teachings were spreading through the same region and roughly the same period as the Buddha's. That Bimbisara appears as a significant royal patron in both Buddhist and Jain tradition, rather than being claimed exclusively by either, reflects the genuinely pluralistic religious environment of Magadha during this pivotal era in Indian religious history, when multiple new ascetic and philosophical movements were emerging and actively competing for royal favor and lay support.",
+          "audioUrl": null
+        },
+        {
+          "number": 10,
+          "title": "Bimbisara's Administration",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Later Buddhist textual sources describe Bimbisara as having organized his kingdom's administration with genuine sophistication for the era, including village-level officials responsible for local governance and tax collection, and a functioning system of royal justice — details that, while filtered through religious texts more interested in the king's piety than his bureaucratic innovations, nonetheless suggest a ruler credited by contemporary tradition with meaningful administrative achievement alongside his military and diplomatic successes, laying early institutional groundwork that later Magadhan dynasties would build upon considerably further.",
+          "audioUrl": null
+        },
+        {
+          "number": 11,
+          "title": "Ajatashatru: A Son's Ambition",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Bimbisara's son and successor, Ajatashatru, is remembered in Buddhist tradition as an ambitious and impatient prince, unwilling to wait for his father's natural death to claim the Magadhan throne — a portrait shaped significantly by the Buddhist Pali Canon's own narrative interests, since Ajatashatru's story in these texts is closely interwoven with that of Devadatta, the Buddha's own cousin and rival within the early monastic community, whose personal ambitions and conflict with the Buddha the Pali sources present as directly entangled with Ajatashatru's own path to power.",
+          "audioUrl": null
+        },
+        {
+          "number": 12,
+          "title": "Devadatta's Conspiracy",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "According to the Pali Canon, Devadatta, having failed in his own attempts to gain leadership of the Buddhist monastic community and turned bitterly against the Buddha, allied himself with the ambitious young Ajatashatru, reportedly encouraging the prince to imprison his own father and seize the Magadhan throne, while Devadatta pursued parallel and ultimately unsuccessful schemes against the Buddha's own life and authority. Modern historians treat the specific details of this conspiracy with appropriate caution, since it survives primarily through a Buddhist source with clear narrative interest in portraying Devadatta as a villainous foil to the Buddha's own virtue, but the broader claim of Ajatashatru's forceful, premature seizure of power from his father is treated as substantially credible.",
+          "audioUrl": null
+        },
+        {
+          "number": 13,
+          "title": "The Death of Bimbisara",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Buddhist tradition describes Bimbisara's death, following his imprisonment by Ajatashatru, in genuinely tragic terms — accounts vary between describing a slow death by intentional starvation and neglect in captivity, and other versions describing more direct violence, but the consistent thread across the tradition is that Bimbisara, once a great and pious king, died as a prisoner of his own son, a fate later Buddhist commentary frequently uses as a cautionary example of the corrupting nature of political ambition even within an otherwise devoutly religious royal household.",
+          "audioUrl": null
+        },
+        {
+          "number": 14,
+          "title": "Ajatashatru Takes the Throne",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Having secured the Magadhan throne through his father's imprisonment and death, Ajatashatru, who is generally placed on the throne sometime around the last decade of the sixth century or early fifth century BCE, proved to be an even more aggressively expansionist ruler than his father, pursuing sustained military campaigns against both of Magadha's most significant neighboring powers — the kingdom of Kosala to the northwest, and the Vajji confederacy centered on Vaishali to the north — over the course of a reign lasting several decades.",
+          "audioUrl": null
+        },
+        {
+          "number": 15,
+          "title": "War with Kosala",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Ajatashatru's early reign was marked by prolonged warfare against Kosala, ruled by his own maternal uncle, King Prasenajit — the same Kosala royal family whose earlier marriage alliance with Bimbisara had once been a source of diplomatic strength for Magadha, now instead the site of open, sustained military conflict between nephew and uncle. Buddhist textual accounts describe several major engagements between the two kingdoms with fortunes shifting back and forth, before the conflict eventually resolved through a combination of continued warfare and diplomatic accommodation, with Kashi — the same territory that had originally come to Magadha as Bimbisara's marriage dowry — becoming a central point of contention throughout.",
+          "audioUrl": null
+        },
+        {
+          "number": 16,
+          "title": "The Annexation of Kashi",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Ajatashatru's war with Kosala ultimately resulted in the permanent annexation of Kashi into Magadhan territory, resolving the ambiguous status the region had held since Bimbisara's original marriage settlement and marking a significant, lasting territorial gain for Magadha at Kosala's direct expense. This annexation reflects a broader pattern that would recur throughout early Magadhan expansion: gains initially secured through peaceful diplomatic and marital arrangement under one generation of rulers frequently became, under more aggressive successors, the basis for direct military annexation and permanent territorial absorption.",
+          "audioUrl": null
+        },
+        {
+          "number": 17,
+          "title": "The Vajji Confederacy: A Different Kind of Rival",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Unlike Kosala, a conventional hereditary monarchy, the Vajji confederacy centered on Vaishali — home to the Licchavi clan, among others, and notably also the birthplace of the Jain teacher Mahavira — operated as a republican confederation governed through collective assembly and consultation among its constituent clans, a genuinely different political structure than the monarchies Magadha had previously confronted. This structural difference would prove directly relevant to how Ajatashatru ultimately succeeded in subduing a rival power that could not simply be defeated by removing a single ruling king, since Vajji strength rested explicitly on the unity and cooperation of its multiple constituent clans rather than on any single vulnerable center of authority.",
+          "audioUrl": null
+        },
+        {
+          "number": 18,
+          "title": "Vassakara's Deception",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Recognizing that the Vajji confederacy's collective strength lay precisely in its internal unity, Ajatashatru reportedly dispatched his minister Vassakara (Varshakara) on an extended, elaborately staged mission designed to sow discord among the Vajji's constituent clans — pretending to have fallen out with Ajatashatru and defected to Vaishali, gradually working, over a period of years according to tradition, to plant suspicion and rivalry among Vajji leaders who had previously governed through close cooperation and consensus. This strategy of prolonged political subversion, rather than immediate military assault, reflects a level of patient strategic calculation that later Indian political theory, particularly the Arthashastra tradition, would formalize into explicit doctrine regarding the value of sowing division among a united rival confederation before attempting conquest.",
+          "audioUrl": null
+        },
+        {
+          "number": 19,
+          "title": "The Buddha's Teaching on Unity",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The Pali Canon preserves a well-known episode in which Ajatashatru, before launching his campaign against Vaishali, sent Vassakara to consult the Buddha on the prospects for a successful conquest of the Vajji — to which the Buddha responded indirectly, describing to his own monastic community the conditions that kept the Vajji confederacy strong: frequent assembly, unity in decision-making, respect for tradition and elders, and protection of women and sacred sites — implicitly signaling that so long as the Vajji maintained this internal cohesion, they could not easily be conquered, a teaching Vassakara reportedly understood and reported back as confirming exactly the strategy of internal division Ajatashatru was already pursuing.",
+          "audioUrl": null
+        },
+        {
+          "number": 20,
+          "title": "New Weapons of War",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Buddhist tradition credits Ajatashatru's campaign against Vaishali with the development or deployment of unusual and innovative military technology, including a device called the mahashilakantaka, generally understood as some form of large stone-throwing siege weapon, and the rathamusala, a war chariot fitted with a mace or scythe-like weapon designed for use against massed infantry formations. Whatever the precise technical accuracy of these later textual descriptions, they reflect a consistent tradition of Ajatashatru's reign being remembered for genuine military innovation in siege warfare, appropriate to the extended, difficult campaign required to finally overcome the Vajji confederacy's combination of political unity and, likely, formidable fortified defenses around Vaishali itself.",
+          "audioUrl": null
+        },
+        {
+          "number": 21,
+          "title": "The Fall of Vaishali",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Combining Vassakara's years-long campaign of internal subversion with sustained military pressure and, according to tradition, genuine technological innovation in siege capability, Ajatashatru eventually succeeded in conquering Vaishali and dissolving the Vajji confederacy's independent political existence — a victory achieved only after considerably more prolonged effort than his father's more straightforward conquest of Anga had required, reflecting the genuinely greater strategic challenge a united republican confederation posed compared to a conventional single-ruler monarchy.",
+          "audioUrl": null
+        },
+        {
+          "number": 22,
+          "title": "Ajatashatru and the Buddha: From Rivalry to Reverence",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Despite his earlier association with Devadatta's conspiracy against both his own father and the Buddha's authority, Ajatashatru is described in Buddhist tradition as eventually becoming a genuinely devoted, if guilt-burdened, follower of the Buddha in his own right — the Pali Canon's Samaññaphala Sutta records an extended dialogue in which Ajatashatru visits the Buddha, confesses his patricide, and receives teaching on the nature and consequences of such an act, a passage later Buddhist commentary treats as illustrating both the severity of Ajatashatru's karmic burden and the possibility of genuine spiritual reflection and change even for a ruler who had committed so serious a crime.",
+          "audioUrl": null
+        },
+        {
+          "number": 23,
+          "title": "The First Buddhist Council",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Following the Buddha's death, traditionally dated to around 483 BCE though this remains subject to ongoing scholarly debate, Ajatashatru is credited with sponsoring and providing royal patronage for the First Buddhist Council, convened at Rajagriha to formally recite and preserve the Buddha's teachings before they could be lost or corrupted through the natural process of oral transmission across generations of monks. This council, whatever its precise historical details, represents a foundational moment in the preservation of Buddhist teaching, and Ajatashatru's sponsorship of it — regardless of his earlier troubled history — cemented his place in Buddhist historical memory as a significant, if morally complicated, royal patron of the tradition.",
+          "audioUrl": null
+        },
+        {
+          "number": 24,
+          "title": "Ajatashatru's Later Years and Death",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Ajatashatru's reign, by most reconstructions lasting several decades into the early fifth century BCE, is not documented in detail for its final years with the same narrative richness Buddhist sources provide for its earlier, more dramatic episodes. Later tradition, notably, describes Ajatashatru's own death as following a pattern disturbingly similar to his father's — killed, according to some accounts, by his own son and successor, Udayin, in what would represent a second consecutive generation of patricide within the same ruling dynasty, though as with much of this period's history, the precise details and even the reliability of this specific claim remain subjects of some scholarly caution.",
+          "audioUrl": null
+        },
+        {
+          "number": 25,
+          "title": "Udayin and the Founding of Pataliputra",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Ajatashatru's son and successor, Udayin (also called Udayabhadra), is most significantly remembered for founding a new fortified settlement at the strategic confluence of the Ganges and Son rivers — a site initially developed primarily as a defensive fort to help guard against the northern Vajji territories Ajatashatru had only recently subdued, but one that would, under this same name of Pataliputra, go on to become the capital of the subsequent Nanda, Mauryan, and eventually Gupta empires, making Udayin's foundational choice of location one of the most consequentially significant, if individually under-documented, decisions of the entire Haryanka period.",
+          "audioUrl": null
+        },
+        {
+          "number": 26,
+          "title": "A Pattern of Patricide",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Buddhist tradition describes a genuinely disturbing recurring pattern across the Haryanka dynasty's final generations: after Ajatashatru's own reported killing of his father Bimbisara, several of his own successors are similarly described as having come to power through the killing of their own royal fathers in turn — a cycle of dynastic parricide that later tradition presents as an increasingly troubling and destabilizing feature of Haryanka royal succession, whatever the precise historical accuracy of each individual claimed instance across sources composed generations after the events they describe.",
+          "audioUrl": null
+        },
+        {
+          "number": 27,
+          "title": "The Dynasty's Final Kings",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The Haryanka dynasty's final rulers following Udayin are documented only thinly and inconsistently across the available textual traditions, generally listed in later Puranic and Buddhist king-lists with little accompanying narrative detail beyond their names and, in several cases, the continued unsettling pattern of violent succession — a marked contrast to the comparatively rich documentation available for the dynasty's founding figures, Bimbisara and Ajatashatru, and a reminder of how unevenly historical memory and religious textual interest were distributed even within a single ruling dynasty's own multi-generational history.",
+          "audioUrl": null
+        },
+        {
+          "number": 28,
+          "title": "The Shishunaga Transition",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "According to later tradition, the Haryanka dynasty's repeated pattern of violent, parricidal succession eventually provoked genuine popular unrest, and the dynasty was ultimately displaced around the early fifth century BCE by Shishunaga, reportedly a minister or official who rose to power with popular support explicitly framed, in some accounts, as a corrective response to the disorder and moral corruption the Haryanka dynasty's final generations had come to represent — founding the Shishunaga dynasty that would itself rule Magadha for several further generations before being displaced in turn by the Nanda dynasty.",
+          "audioUrl": null
+        },
+        {
+          "number": 29,
+          "title": "Piecing Together Haryanka History",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "Haryanka dynasty history is reconstructed primarily through Buddhist Pali textual sources and, to a lesser extent, Jain textual tradition — both religious literatures with their own clear narrative interests in portraying Bimbisara and Ajatashatru's reigns through the specific lens of each ruler's relationship to the Buddha or Mahavira, rather than as neutral political history composed for its own sake. This gives Haryanka-era history an unusual character compared to some other ancient Indian dynasties: considerably richer in narrative detail and specific episode than the more sparsely documented Nanda dynasty that followed it, yet still fundamentally filtered through religious rather than straightforwardly political or administrative source material, requiring careful separation of genuine historical substance from each tradition's didactic and doctrinal purposes.",
+          "audioUrl": null
+        },
+        {
+          "number": 30,
+          "title": "Legacy: The Kingdom That Became an Empire",
+          "duration": "5 min",
+          "isLocked": true,
+          "content": "The Haryanka dynasty's cumulative achievement — Bimbisara's marriage-alliance diplomacy and conquest of Anga, Ajatashatru's defeat of Kosala and dissolution of the powerful Vajji confederacy, and Udayin's foundational choice of the site that would become Pataliputra — collectively transformed Magadha from one competitive power among the sixteen Mahajanapadas into the clear dominant force in the Gangetic plain, a position of primacy the subsequent Shishunaga, Nanda, and ultimately Mauryan dynasties would inherit and build upon rather than have to establish from nothing. In this sense, the Haryanka dynasty's true legacy lies less in its own dramatic and often troubled internal history than in having first proven, through two generations of genuinely capable and ambitious kingship, that Magadhan dominance over the wider Gangetic world was achievable at all.",
+          "audioUrl": null
+        }
+      ]
     }
   ],
   "mr": [
@@ -2338,6 +2768,436 @@
           "duration": "५ मिनिटे",
           "isLocked": true,
           "content": "दिल्ली सल्तनतीची सव्वातीन शतके क्वचितच शांततामय होती आणि कधीच पूर्णपणे सुरक्षित नव्हती — त्या कालावधीत पाच राजवंश उदयास आले आणि लोप पावले, मंगोल सैन्यांनी वारंवार सिंहासनाला धोका दिला, तैमूरच्या आक्रमणाने संपूर्ण प्रकल्प तो प्रत्यक्षात संपण्याच्या एक शतक आधीच जवळजवळ संपवला, आणि अंतर्गत विखुरणे हे एक अधूनमधून येणारे संकट नव्हे तर एक सततचा, वारंवार येणारा दबाव होता. आणि तरीही, नेमक्या याच दीर्घ गोंधळामुळे, सल्तनतीने मागे एक कायमचा आणि अपरिवर्तनीयपणे बदललेला उपखंड सोडला. तिने चिरस्थायी प्रशासकीय संरचना, एक पर्शियन-प्रभावित दरबारी संस्कृती, आणि एक स्थापत्यशास्त्रीय भाषा सादर केली जिला नंतर आलेले मुघल शून्यातून शोधण्याऐवजी वारशाने घेणार होते आणि परिष्कृत करणार होते, आग्रा, फतेहपूर सिक्री, आणि अखेर ताजमहाल पिढ्यांपूर्वी सल्तनतीच्या राजवंशांनी घातलेल्या पायांवर उभारत. तिने इस्लामला उपखंडाच्या धार्मिक व सांस्कृतिक ताण्याबाण्यांचा एक कायमचा आणि खोलवर रुजलेला भाग म्हणून प्रस्थापित केले, त्याचबरोबर संमिश्रित सुफी परंपरा, भारतीय-इस्लामिक कला व स्थापत्यकला, आणि स्तरित हिंदू-मुस्लिम राजकीय व सामाजिक संबंधही निर्माण केले जे पुढील शतके दक्षिण आशियाई जीवनाच्या मोठ्या भागाला व्याख्यायित करत राहणार होते. मौर्य ज्याप्रमाणे उपखंड प्रथम एकसंध करण्यासाठी आणि गुप्त ज्याप्रमाणे विज्ञान व कलेच्या सुवर्णकाळासाठी स्मरणात राहतात, त्याचप्रमाणे दिल्ली सल्तनत, सर्वात महत्त्वाचे म्हणजे, अस्थिरतेतूनही टिकून राहण्यासाठी स्मरणात राहते — पाच अगदी वेगवेगळे राजवंश, एक वादग्रस्त सिंहासन, आणि तीनशे वर्षांहून अधिक काळ ज्यात भारतीय सभ्यतेचा आकारच कायमचा आणि अपरिवर्तनीयपणे पुन्हा घडवला गेला.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "empaire_007",
+      "title": "नंद राजवंश: मौर्यांपूर्वीचे साम्राज्य",
+      "empire": "नंद साम्राज्य",
+      "category": "साम्राज्ये",
+      "period": "साधारण इ.स.पू. ३४५-३२२",
+      "region": "मगध आणि गंगेचे मैदान",
+      "narrator": "मीरा कुलकर्णी",
+      "languages": [
+        "मराठी",
+        "इंग्रजी"
+      ],
+      "duration": "५२ मिनिटे",
+      "rating": 4.5,
+      "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/nanda.png",
+      "summary": "स्वतःला 'एकमेव सार्वभौम' म्हणवणारा एक नीच-कुळातील राजा, ज्याच्या केवळ ख्यातीनेच खुद्द अलेक्झांडर द ग्रेटला मागे परतवले असे इतके विशाल सैन्य, आणि संपूर्ण श्रीमंत, तिरस्कारित राजवंशाला उलथवण्याची शपथ घेणारा अपमानित विद्वान.",
+      "isPremium": false,
+      "isNew": true,
+      "isKing": false,
+      "progress": null,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "नंदांपूर्वीचे मगध",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "इ.स.पू. पाचव्या शतकापर्यंत, आजच्या बिहारमधील सुपीक गंगेच्या मैदानात केंद्रित असलेले मगध राज्य आधीच उत्तर भारतातील अनेक राज्ये आणि जमातिक गणराज्यांतील सर्वात शक्तिशाली राज्य म्हणून उदयास येऊ लागले होते — हा उदय हर्यंक आणि शिशुनाग राजवंशांच्या आधीच्या शासकांच्या, विशेषतः महत्त्वाकांक्षी आणि अनेकदा निर्दय राजा अजातशत्रू याच्या, नेतृत्वाखाली घडला, ज्याने वैशालीच्या लिच्छवी संघासह शेजारील सत्तांविरुद्ध सातत्यपूर्ण युद्धातून मगधाचा प्रदेश विस्तारित केला. हीच आधीच दुर्जेय, विस्तारणारी प्रादेशिक सत्ता नंद राजवंश वारशाने घेणार होता आणि नाट्यमयपणे आणखी पुढे विस्तारणार होता, मगधाला केवळ अनेक प्रतिस्पर्धी राज्यांतील सर्वात बलवान राज्यातून भारतीय इतिहासातील पहिल्या खऱ्या अर्थाने संपूर्ण-गंगातटीय साम्राज्याच्या जवळ जाणाऱ्या काहीतरीत रूपांतरित करत.",
+          "audioUrl": null
+        },
+        {
+          "number": 2,
+          "title": "महापद्म नंद: एक अनपेक्षित संस्थापक",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "नंद राजवंशाचा संस्थापक, महापद्म नंद, याचे वर्णन पुराणांत — राजवंशीय वंशावळी आणि परंपरा संकलित करणारे नंतरचे हिंदू ग्रंथ — अशा शब्दांत केले जाते जे त्याच्या अपारंपरिक आणि त्या काळातील कठोर सामाजिक उतरंडीच्या मानकांनुसार खरोखरच धक्कादायक उदयावर भर देतात: अनेक वृत्तांत त्याला एका शूद्र आईचा पुत्र म्हणून वर्णितात, भारतीय राजांना ज्यातून वंशपरंपरागत असणे अपेक्षित होते त्या पारंपरिक क्षत्रिय योद्धा-वंशाबाहेर जन्मलेला, ज्यामुळे तो, खुद्द पुराणांच्याच भाषेत, इतक्या शक्तिशाली राज्यावर राज्य करणारा स्पष्टपणे बिगर-क्षत्रिय मूळ असलेला पहिला राजा ठरतो. आधुनिक इतिहासकार या वृत्तांतांतील विशिष्ट जाती-तपशिलांकडे काहीशा सावधगिरीने पाहतात, कारण ते पिढ्यानंतर नंद शासनाच्या अनियमिततेवर भर देण्यात स्पष्ट स्वारस्य असलेल्या ब्राह्मणी स्रोतांनी नोंदवले होते, पण मूळ दावा — की महापद्म नंद पारंपरिक शासकीय वंशाबाहेरून उदयास आला — व्यापकपणे विश्वासार्ह आणि ऐतिहासिकदृष्ट्या महत्त्वपूर्ण मानला जातो.",
+          "audioUrl": null
+        },
+        {
+          "number": 3,
+          "title": "मगधाच्या प्रतिस्पर्ध्यांवर नंदांचा विजय",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "पौराणिक परंपरा महापद्म नंदाचे वर्णन उत्तर भारतभरातील उरलेल्या स्वतंत्र क्षत्रिय शासकीय वंशांना प्रभावीरीत्या नष्ट करणारा असे करते, 'एकराट,' किंवा 'एकमेव सार्वभौम,' ही पदवी मिळवत, असे वर्णन जे त्याच्या राज्यकाळात साध्य झालेल्या खरोखरच अभूतपूर्व प्रमाणाच्या केंद्रीकृत राजकीय बळकटीकरणाला सुचवते. हे प्रत्येक प्रतिस्पर्धी राज्याच्या शब्दशः, संपूर्ण विजयाचे प्रतिनिधित्व करते की महापद्माच्या निर्विवादपणे महत्त्वपूर्ण प्रादेशिक विस्ताराचे काहीसे अतिशयोक्त नंतरचे वर्णन आहे, हे टिकून राहिलेल्या स्रोतांच्या मर्यादित आणि अनेकदा प्रतीकात्मकदृष्ट्या भारित स्वरूपामुळे अचूकपणे स्थापित करणे कठीण आहे, पण अनेक परंपरांतील सातत्यपूर्ण धागा हा आहे की नंद सत्तेने कोणत्याही एका गंगातटीय राज्याने याआधी साध्य केलेल्यापेक्षा एक नाट्यमय वाढ दर्शवली.",
+          "audioUrl": null
+        },
+        {
+          "number": 4,
+          "title": "साम्राज्य उभारणे",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "बहुतांश शैक्षणिक पुनर्रचनांनुसार, नंद प्रदेश आपल्या शिखरावर मुख्य गंगातटीय मैदानभर पसरला होता आणि कदाचित, किमान काही खंडणीदार किंवा लष्करी क्षमतेत, पूर्व किनारपट्टीवरील कलिंगापर्यंत पोहोचला असावा — हा दावा अंशतः कलिंगचा राजा खारवेल याच्या हाथीगुम्फा शिलालेखाने समर्थित आहे, जो शतकांपूर्वी नंद शासनादरम्यान मूळतः बांधलेल्या एका सिंचन कालव्याचा संदर्भ देतो, त्या प्रदेशात नंद प्रशासकीय पोहोचाची दुर्मीळ स्वतंत्र, जरी अप्रत्यक्ष, पुष्टी पुरवत. यामुळे नंद राज्य, त्याच्या नेमक्या सीमा कशाही पुनर्रचित केल्या तरी, तोपर्यंत अस्तित्वात असलेले सर्वात मोठे आणि सर्वात केंद्रीयरीत्या संघटित भारतीय राज्य ठरते, त्याच्यानंतर लवकरच येणाऱ्या त्याहूनही मोठ्या मौर्य साम्राज्याची थेट पूर्वसूचना देत.",
+          "audioUrl": null
+        },
+        {
+          "number": 5,
+          "title": "नंदांची संपत्ती",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "जवळजवळ प्रत्येक टिकून राहिलेल्या स्रोतात — ग्रीक, पौराणिक, आणि नंतरचे बौद्ध व जैन वृत्तांत सारखेच — नंद राजवंश त्याच्या विलक्षण संचित संपत्तीसाठी सातत्याने स्मरणात राहतो, नंतरची परंपरा समकालीन आणि नंतरचे वृत्तांत करआकारणी आणि महसूल-संकलनाच्या असामान्यपणे तीव्र आणि पद्धतशीर दृष्टिकोनातून उभारल्या गेलेल्या विशाल खजिन्यांचे वर्णन करते. काही नंतरचे आख्यायिक वृत्तांत तर पुरलेल्या नंद संपत्तीच्या विलक्षण रकमांचे वर्णन करण्यापर्यंत जातात, एक लोककथात्मक अलंकार जो, त्याचे शब्दशः सत्य काहीही असो, नंद राजवंश आणि प्रचंड केंद्रित संपत्ती यांच्यातील संबंध राजवंशाच्या पतनानंतर शतकांनंतरही भारतीय ऐतिहासिक स्मृतीत किती खोलवर रुजला होता हे प्रतिबिंबित करतो.",
+          "audioUrl": null
+        },
+        {
+          "number": 6,
+          "title": "लोभाची प्रतिष्ठा",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "मात्र हीच संपत्ती नंद लोकप्रियतेला एक खरी किंमत देऊन आली असे दिसते: राजवंशाच्या पतनानंतर काही शतकांनी रचलेले संस्कृत राजकीय नाटक मुद्राराक्षस यासह अनेक नंतरचे स्रोत, आणि विविध बौद्ध व जैन ग्रंथ, सातत्याने नंद राजांना, आणि विशेषतः राजवंशाच्या शेवटच्या शासकाला, भारी करआकारणीसाठी आणि, विशेषतः ब्राह्मणी स्रोतांत, अपुरा उच्च सामाजिक मूळ असलेल्या शासकांकडून राजेशाही अधिकाराच्या अयोग्य दाव्यासाठी व्यापकपणे तिरस्कारित म्हणून चित्रित करतात. इतिहासकार सर्वसाधारणपणे अन्यथा बऱ्याच वेगळ्या साहित्यिक परंपरांतील या सातत्यपूर्ण नकारात्मक चित्रणाला खऱ्या ऐतिहासिक अलोकप्रियतेच्या काही खऱ्या आधाराचे प्रतिबिंब म्हणून वाचतात, तरी हेही सावध करतात की याच स्रोतांना नंद कुशासनावर भर देण्याचे स्वतःचे स्पष्ट कथानक आणि वैचारिक हेतू होते, विशेषतः कारण असे केल्याने त्यांना हिंसकपणे बदलणाऱ्या राजवंशाला न्याय्य आणि वैध ठरवण्यास मदत झाली.",
+          "audioUrl": null
+        },
+        {
+          "number": 7,
+          "title": "नंद सैन्य: एक महाकाय शक्ती",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "अलेक्झांडर द ग्रेटच्या आक्रमणाच्या काळातील भारताचे वर्णन करणारे ग्रीक आणि रोमन स्रोत — अलेक्झांडरच्या छावणीपर्यंत पोहोचलेल्या दुसऱ्या हातच्या अहवालांवर आधारित, बाहेरून नंद राज्याबद्दल लिहित — जवळजवळ अकल्पनीय प्रमाणाचे नंद लष्करी बळ वर्णन करतात: उद्धृत आकड्यांत साधारण दोन लाख पायदळ, हजारो घोडदळ, हजारो युद्धरथ, आणि अनेक हजार युद्धहत्तींचा समावेश आहे. आधुनिक इतिहासकार या विशिष्ट आकड्यांकडे बरीच साशंकता बाळगतात, कारण प्राचीन सैन्ये मैत्रीपूर्ण आणि शत्रुत्वपूर्ण दोन्ही वृत्तांतांत नित्याने आणि नाट्यमयपणे अतिशयोक्त केली जात, पण लक्षणीय अतिशयोक्तीला वाव देऊनही, नंद सैन्याचे अलेक्झांडरच्या सैन्यांना भारतात याआधी सामोरे आलेल्या कोणत्याही गोष्टीहून प्रचंड मोठे आणि अधिक दुर्जेय असल्याचे सातत्यपूर्ण ग्रीक वर्णन त्या काळातील एक खरी आणि व्यापकपणे मान्यताप्राप्त लष्करी वास्तविकता प्रतिबिंबित करते असे दिसते.",
+          "audioUrl": null
+        },
+        {
+          "number": 8,
+          "title": "बियास नदीवरील अलेक्झांडर",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "इ.स.पू. ३२६ मध्ये, पंजाबातील झेलम नदीलगत राजा पोरस याच्याविरुद्ध आधीच एक कष्टाने जिंकलेली लढाई लढल्यानंतर, अलेक्झांडर द ग्रेटचे थकलेले सैन्य बियास (हायफेसिस) नदीच्या काठावर पोहोचले आणि गंगातटीय मध्यवर्ती प्रदेशात पुढे त्यांची वाट पाहत असल्याचे कथितरीत्या सांगितले जाणाऱ्या प्रचंड नंद सैन्याचे तपशीलवार अहवाल मिळाले. या भयावह शक्यतेला सामोरे जाताना, घरापासून दूर वर्षानुवर्षांच्या सतत मोहिमेनंतर, अलेक्झांडरच्या स्वतःच्या युद्ध-थकल्या सैन्याने प्रभावीरीत्या बंड केले, आपल्या सेनापतीच्या गंगेकडे पुढे रेटण्याच्या स्पष्ट इच्छेला न जुमानता भारतात पुढे कूच करण्यास नकार दिला.",
+          "audioUrl": null
+        },
+        {
+          "number": 9,
+          "title": "अलेक्झांडर मागे का फिरला",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "आपल्याच सैनिकांना पुढे पूर्वेकडे जाण्यास राजी करण्यात अपयशी ठरल्यावर, कथितरीत्या निषेधार्थ आपल्या तंबूत काही दिवस रुसून बसल्यानंतर, बियासहून अखेर मागे फिरण्याच्या अलेक्झांडरच्या निर्णयाचा अर्थ असा होतो की त्याची प्रसिद्ध भारतीय मोहीम खुद्द नंद साम्राज्याशी प्रत्यक्ष लष्करी संघर्षात कधीच परिणत झाली नाही — खरोखरच एक महत्त्वपूर्ण ऐतिहासिक थोडक्यात-चुकलेली घटना, कारण अलेक्झांडरच्या युद्ध-कठोर मॅसिडोनियन सैन्याची आणि कथितरीत्या प्रचंड नंद लष्करी यंत्रणेची झुंज, जर ती घडली असती, तर प्राचीन जागतिक इतिहासातील सर्वात परिणामकारक भेटींपैकी एक ठरली असती. त्याऐवजी, थकलेल्या आणि वाढत्या प्रमाणात बंडखोर मॅसिडोनियन छावणीपर्यंत पोहोचलेल्या दुसऱ्या हातच्या अहवालांतून प्रसारित झालेली केवळ नंद लष्करी सत्तेची ख्याती आणि प्रमाण, दोन्ही बाजूंत एकही लढाई न लढता प्राचीन जगातील सर्वात मोठ्या विजेत्याला मागे परतवण्यास पुरेशी सिद्ध झाली.",
+          "audioUrl": null
+        },
+        {
+          "number": 10,
+          "title": "धनानंद: शेवटचा नंद राजा",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंद राजवंशाचा शेवटचा शासक सर्वसाधारणपणे, पौराणिक राजयादी आणि 'अग्रामेस' किंवा 'झांड्रामेस' यांसारख्या नावांनी एका समकालीन गंगातटीय शासकाचा उल्लेख करणाऱ्या ग्रीक वृत्तांतांच्या संयोगातून, धनानंद म्हणून ओळखला जातो — असे नाव जे नंतरची संस्कृत परंपराही 'धन,' म्हणजे संपत्ती, या शब्दावरील शब्दक्रीडेतून, राजवंशाच्या प्रचंड संपत्तीच्या चिरस्थायी प्रतिष्ठेशी जोडते. या शेवटच्या नंद शासकाची आणि राजवंशाचा संस्थापक महापद्म नंद याची नेमकी ओळख, कालक्रम, आणि परस्परसंबंध वेगवेगळ्या, कधीकधी परस्परविरोधी पौराणिक, बौद्ध, जैन, आणि ग्रीक स्रोत-परंपरांत जुळवत आणणे हा त्या काळातील इतिहासकारांत खरोखरच एक न सुटलेला आणि सक्रियपणे वादग्रस्त प्रश्न राहतो.",
+          "audioUrl": null
+        },
+        {
+          "number": 11,
+          "title": "कौटिल्याचा अपमान",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "एका व्यापकपणे पुनरावृत्त झालेल्या नंतरच्या परंपरेनुसार, ब्राह्मण विद्वान कौटिल्य, जो पुढे चंद्रगुप्त मौर्याच्या उदयाचा मुख्य शिल्पकार बनणार होता, याचा नंद दरबारात वैयक्तिकरीत्या अपमान झाला — काही आवृत्त्या त्याच्या दिसण्यावरून किंवा वागण्यावरून त्याचा सार्वजनिक अपमान झाल्याचे किंवा त्याला एका राजेशाही मेजवानीतून शारीरिकरीत्या हुसकावून लावल्याचे वर्णन करतात — आणि प्रतिसादादाखल राजवंशाचा पाडाव घडवून आणण्याची वैयक्तिक शपथ घेतली. इतिहासकार हा विशिष्ट प्रसंग स्वतंत्रपणे पडताळू शकत नाहीत, आणि तो प्रत्यक्षात कदाचित एका व्यापक आणि अधिक गुंतागुंतीच्या राजकीय व लष्करी मोहिमेला वैयक्तिक स्वरूप आणि कथानकीय प्रेरणा देण्यासाठी रचलेला नंतरचा नाट्यमय अलंकार असू शकतो, पण ही परंपरा संपूर्ण नंद-ते-मौर्य संक्रमण कथेतील सर्वात चिरस्थायी आणि वारंवार पुनःकथित केल्या जाणाऱ्या घटकांपैकी एक राहते.",
+          "audioUrl": null
+        },
+        {
+          "number": 12,
+          "title": "एका आव्हानकर्त्याचा उदय",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "कौटिल्याच्या वैयक्तिक प्रेरणेचे नेमके मूळ काहीही असो, त्याला तरुण चंद्रगुप्तात — जो स्वतः, नंतरच्या, तितक्याच अनिश्चित परंपरांनुसार, वादग्रस्त आणि अजूनही चर्चेत असलेल्या पार्श्वभूमीचा होता — नंद शासनाविरुद्धच्या मोहिमेसाठी एक सक्षम आणि महत्त्वाकांक्षी भागीदार सापडला. एकत्रितपणे, घटनांच्या सर्वात व्यापकपणे पुनरावृत्त झालेल्या आवृत्तीनुसार, त्यांनी युत्या, लष्करी साधनसंपत्ती, आणि धोरणात्मक पायाभरणी उभारण्यास सुरुवात केली जी, वर्षानुवर्षांच्या कालावधीत, नंद अधिकाराला त्याच्या पायांपासूनच हळूहळू झिजवणार होती, धनानंदच्या शासनाविरुद्ध अनेक स्रोत ज्यावर सहमत आहेत अशा खऱ्या लोकतिरस्काराचा वापर करून आपल्या बंडासाठी पाठिंबा आकर्षित करत.",
+          "audioUrl": null
+        },
+        {
+          "number": 13,
+          "title": "नंदांविरुद्ध युद्ध",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "धनानंदविरुद्धची लष्करी मोहीम, नंतरची परंपरा वर्णन करते त्याप्रमाणे, एकच निर्णायक लढाई नव्हती तर एक हळूहळू, अनेक वर्षे चाललेली झिजण्याची प्रक्रिया होती — सुरुवातीचे प्रयत्न कथितरीत्या अडथळे व अपयशात संपले, आख्यायिक वृत्तांतांनुसार, ज्यात चंद्रगुप्ताने एका मुलाला गरम थाळीच्या मध्यभागाऐवजी कडांतून खाताना पाहून धोरणात्मक धीर शिकल्याची प्रसिद्ध कथा समाविष्ट आहे, आणि त्यातून शत्रूच्या तटबंदीयुक्त गाभ्यावर थेट हल्ला करण्याआधी त्याच्या बाह्य प्रदेशांवर हल्ला करण्याचा धडा काढला. अशा कथांची नेमकी ऐतिहासिक अचूकता काहीही असो, चंद्रगुप्त आणि कौटिल्याने अखेर पुरेसे लष्करी बळ जमवले, कथितरीत्या वायव्येकडील सीमावर्ती मित्रांच्या पाठिंब्यासह, खुद्द नंद राजधानीविरुद्ध निर्णायकपणे हालचाल करण्यासाठी.",
+          "audioUrl": null
+        },
+        {
+          "number": 14,
+          "title": "नंदांचा पाडाव",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "साधारण इ.स.पू. ३२२-३२१ मध्ये, चंद्रगुप्ताच्या सैन्याने उरलेल्या नंद प्रतिकाराला भारी पडून नंद राजधानी पाटलीपुत्र ताब्यात घेतले, राजवंशाच्या साधारण पाव-शतक राज्यकाळाला संपवत आणि चंद्रगुप्ताला त्या साम्राज्याचा संस्थापक म्हणून प्रस्थापित करत जे पुढे कितीतरी मोठे आणि ऐतिहासिकदृष्ट्या कितीतरी अधिक गौरवशाली मौर्य साम्राज्य बनणार होते. नंद-ते-मौर्य शासनातील हे संक्रमण अशाप्रकारे प्राचीन भारतीय इतिहासातील सर्वात संपूर्णपणे दंतकथीकृत सत्तापरिवर्तनांपैकी एकाचे प्रतिनिधित्व करते, नेमक्या लष्करी तपशिलांसाठी नव्हे तर नाट्यमय कथानकीय आराखड्यासाठी स्मरणात राहणारे — एक अलोकप्रिय, श्रीमंत राजवंश एका अपमानित विद्वानाने आणि त्याच्या सैनिक-शिष्याने उलथवला — जी नंतरची भारतीय परंपरा शतकानुशतके सांगत आणि पुनःसांगत राहिली.",
+          "audioUrl": null
+        },
+        {
+          "number": 15,
+          "title": "नंद कुटुंबाचे काय झाले",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंतरची परंपरा मौर्य विजयानंतर धनानंदच्या स्वतःच्या भवितव्याबद्दल आणि त्याच्या कुटुंबाबद्दल परस्परविरोधी वृत्तांत देते: काही आवृत्त्या त्याला थेट ठार केल्याचे वर्णन करतात, तर इतर एका वाटाघाटीतून झालेल्या हद्दपारीचे वर्णन करतात ज्यामुळे त्याला फाशीला सामोरे जाण्याऐवजी आपल्या दंतकथीय संपत्तीचा एक भाग आणि वैयक्तिक वस्तूंसह पाटलीपुत्र सोडण्याची परवानगी मिळाली. राजवंशाच्या शेवटच्या शासकाच्या या सर्वात मूलभूत चरित्रात्मक तपशिलाभोवतीही असलेली खरी अनिश्चितता, त्याच्या लगेच नंतर आलेल्या आणि या प्रक्रियेत आपल्या अलोकप्रिय पूर्वसुरीला कसे स्मरणात ठेवले जाईल हे घडवण्यात प्रत्येक स्वारस्य असलेल्या, कितीतरी चांगल्या प्रकारे प्रमाणित मौर्य राजवंशाच्या तुलनेत नंद इतिहास किती तोकडा आणि विसंगतपणे दस्तऐवजीकृत राहतो याचे वैशिष्ट्यपूर्ण उदाहरण आहे.",
+          "audioUrl": null
+        },
+        {
+          "number": 16,
+          "title": "नंद इतिहास जुळवत आणणे",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंद इतिहासाची पुनर्रचना करण्यासाठी एका असामान्यपणे विखुरलेल्या आणि कधीकधी परस्परविरोधी पुराव्यांच्या संचातून मार्ग काढावा लागतो: राजवंशाच्या पतनानंतर शतकांनी संकलित केलेल्या पौराणिक राजयादी, ज्या नंद शासकांची नावे, संख्या, आणि क्रम याबद्दल स्वतःतच असहमत आहेत; बौद्ध आणि जैन साहित्यिक परंपरा, प्रत्येक आपापल्या धार्मिक व कथानकीय स्वारस्यांनी घडलेली; संस्कृत नाटक मुद्राराक्षस, जे कठोर ऐतिहासिक नोंदीऐवजी एक साहित्यकृती आहे, जे त्यात चित्रित घटनांनंतर बराच काळ रचले गेले; आणि अलेक्झांडरच्या सैन्यांना ज्याबद्दल ऐकिवात होते पण प्रत्यक्ष लढाईत कधीच थेट सामोरे न आलेल्या राज्याचे वर्णन करणारे तुकड्या-तुकड्यांतील ग्रीक व रोमन वृत्तांत. राजवंशाच्या स्वतःच्या शब्दांतील कोणताही टिकून राहिलेला नंद शिलालेख अद्याप निश्चितपणे ओळखला गेलेला नाही, याचा अर्थ असा की, केवळ दोन पिढ्यांनंतर आलेल्या मौर्य सम्राट अशोकाच्या विपरीत, नंदांनी आपल्याच आवाजातील कोणताही मूळ स्रोत मागे सोडला नाही — त्यांच्याबद्दल जे काही ज्ञात आहे ते इतरांच्या दृष्टिकोनातून, आणि अनेकदा त्यांच्या शत्रुत्वातून, येते.",
+          "audioUrl": null
+        },
+        {
+          "number": 17,
+          "title": "नंतरच्या परंपरेतील नंद राजवंश",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंद राजवंशाचे भारतीय साहित्यिक व सांस्कृतिक स्मृतीतील उत्तरजीवन, काहीसे विरोधाभासीरीत्या, त्याच्या प्रत्यक्ष राज्यकाळाच्या ऐतिहासिक नोंदीहून अधिक टिकाऊ आणि जिवंत सिद्ध झाले आहे, मुख्यतः मुद्राराक्षसच्या चिरस्थायी लोकप्रियतेमुळे, एक संस्कृत राजकीय नाटक जे नंद शासन उलथवण्याच्या आणि चंद्रगुप्ताला सिंहासनावर बसवण्याच्या कौटिल्याच्या कारस्थानी मोहिमेभोवती केंद्रित आहे, जे पिढ्यानपिढ्या भारतीय साहित्यभर आणि, अलीकडील शतकांत, चित्रपट व दूरचित्रवाणीतही सादर केले गेले, रुपांतरित केले गेले, आणि संदर्भित केले गेले — याचा अर्थ आज नंदांबद्दलची बहुतांश लोकप्रिय समज राजवंशाच्या स्वतःच्या कृतींतून नव्हे तर त्यांना जिंकणाऱ्यांच्या सांस्कृतिक व राजकीय वारसांनी रचलेल्या एका कितीतरी नंतरच्या नाट्यसाहित्यकृतीतून येते.",
+          "audioUrl": null
+        },
+        {
+          "number": 18,
+          "title": "वारसा: साम्राज्यासाठी रंगमंच तयार करणे",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "वैयक्तिक राज्यकाळ आणि घटनांचे नेमके, खरोखरच अनिश्चित तपशील काहीही असोत, नंद राजवंशाचे व्यापक ऐतिहासिक महत्त्व गांभीर्याने वादग्रस्त नाही: नंदांनीच प्रथम मगधाला केवळ सर्वात बलवान प्रादेशिक गंगातटीय राज्यातून एका खऱ्या अर्थाने संपूर्ण-उत्तर-भारतीय साम्राज्याच्या जवळ जाणाऱ्या काहीतरीत रूपांतरित केले, प्रशासकीय पोहोच, केंद्रित संपत्ती, आणि — प्रत्येक टिकून राहिलेल्या वृत्तांतानुसार — लष्करी संघटनेचे निव्वळ प्रमाण जमा करत जे चंद्रगुप्त मौर्य वारशाने घेणार होता, हस्तगत करणार होता, आणि अखेर त्याहूनही मोठे साम्राज्य निर्माण करण्यासाठी त्यावर उभारणार होता. या अर्थाने, नंद राजवंशाचा सर्वात चिरस्थायी वारसा असा एक असू शकतो जो त्याने कधीच सोडण्याचा हेतू ठेवला नव्हता: आपल्याच नाट्यमय उदय आणि पतनातून हे सिद्ध करणे की उत्तर भारताच्या बहुतांश भागावर पसरलेले एक गंगातटीय-आधारित साम्राज्य मुळात साध्य करण्यायोग्य आहे — असे प्रात्यक्षिक जे मौर्यांनी, आणि विशेषतः चंद्रगुप्ताने, आत्मसात केले आणि नंतर नाट्यमयपणे मागे टाकले.",
+          "audioUrl": null
+        }
+      ]
+    },
+    {
+      "id": "empaire_008",
+      "title": "हर्यंक राजवंश: मगधाचे पहिले साम्राज्य-उभारक",
+      "empire": "हर्यंक साम्राज्य",
+      "category": "साम्राज्ये",
+      "period": "साधारण इ.स.पू. ५४४-४१३",
+      "region": "मगध आणि गंगेचे मैदान",
+      "narrator": "मीरा कुलकर्णी",
+      "languages": [
+        "मराठी",
+        "इंग्रजी"
+      ],
+      "duration": "७४ मिनिटे",
+      "rating": 4.6,
+      "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Haryanka.png",
+      "summary": "विवाहांतून सत्ता मिळवणारा आणि बुद्धांना आश्रय देणारा एक राजा, आपल्याच वडिलांना बंदी बनवणारा आणि वर्षानुवर्षांच्या धीराच्या घातपातातून एक गणराज्य विसर्जित करणारा पुत्र, आणि गंगेकाठचे ते किल्लेवजा नगर जे एके दिवशी एका साम्राज्याची राजधानी बनणार होते.",
+      "isPremium": false,
+      "isNew": true,
+      "isKing": false,
+      "progress": null,
+      "chapters": [
+        {
+          "number": 1,
+          "title": "मगधाच्या उदयापूर्वीचे जग",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "इ.स.पू. सहाव्या शतकात, गंगेचे मैदान नंतरचे बौद्ध व जैन ग्रंथ सोळा प्रमुख राज्ये, किंवा महाजनपदे, म्हणून वर्णन करतात त्यांच्यात विभागलेले होते — कोसल आणि अवंतीपासून वैशालीभोवती केंद्रित वज्जी संघापर्यंत राजसत्ता आणि जमातिक गणराज्यांचे मिश्रण. यांच्यापैकी, आजच्या दक्षिण बिहारमधील मगध, सुरुवातीला अनेकांपैकी केवळ एक स्पर्धात्मक सत्ता होती, ज्याचे सुरुवातीचे शासक केवळ नंतरच्या तुकड्या-तुकड्यांतील परंपरेत ज्ञात आहेत. इ.स.पू. सहाव्या शतकात सुरू झालेल्या हर्यंक राजवंशाच्या काळातच मगधाने तो सातत्यपूर्ण उदय सुरू केला जो, साधारण दोन शतकांत आणि तीन सलग राजवंशांतून, त्याला एका प्रादेशिक राज्यातून प्राचीन भारतीय उपखंडाने आतापर्यंत पाहिलेल्या सर्वात मोठ्या साम्राज्याच्या राजधानीत रूपांतरित करणार होता.",
+          "audioUrl": null
+        },
+        {
+          "number": 2,
+          "title": "बिंबिसार: एका राजाची प्रगल्भता",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "बिंबिसार, हर्यंक राजवंशाचा सर्वात गौरवशाली संस्थापक-व्यक्तिमत्त्व, सर्वसाधारणपणे इ.स.पू. सहाव्या शतकाच्या मध्यापासून उत्तरार्धात कधीतरी मगधाच्या सिंहासनावर ठेवला जातो, जरी या सुरुवातीच्या कालखंडातील बहुतांश शासकांप्रमाणेच, नेमक्या तारखा वेगवेगळ्या शैक्षणिक पुनर्रचना आणि प्राचीन स्रोत-परंपरांत बऱ्याच वेगळ्या आहेत. आपल्या अनेक राजेशाही समकालीनांच्या विपरीत, बिंबिसार त्याच्या काळातील शासकासाठी असामान्यपणे चांगला दस्तऐवजीकृत आहे, बौद्ध पाली धर्मग्रंथ आणि जैन साहित्यिक परंपरा या दोन्हींत गौतम बुद्ध आणि जैन शिक्षक महावीर या दोघांचा समकालीन, आश्रयदाता, आणि — वेगवेगळ्या वृत्तांतांनुसार — समर्पित अनुयायी म्हणून प्रमुखपणे दिसतो, ज्यामुळे इतिहासकारांना त्याच्या राज्यकाळासाठी असामान्यपणे समृद्ध, जरी अजूनही धार्मिकदृष्ट्या गाळलेला, पुराव्यांचा संच मिळतो.",
+          "audioUrl": null
+        },
+        {
+          "number": 3,
+          "title": "रणनीती म्हणून विवाह: कोसल युती",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "बिंबिसाराने प्रादेशिक विस्तार निव्वळ विजयातूनच नव्हे तर मोजून-मापून केलेल्या विवाह युतीतूनही तितकाच पाठपुरावा केला, अशी रणनीती जी सुरुवातीच्या मगध इतिहासभर पुनरावृत्त होणार होती. त्या काळातील इतर प्रमुख सत्तांपैकी एक असलेल्या कोसलच्या राजा प्रसेनजितच्या बहिणीशी झालेला त्याचा विवाह, कथितरीत्या हुंड्यात काशी प्रदेशातील एक गाव घेऊन आला — एक लहान पण प्रतीकात्मकदृष्ट्या महत्त्वपूर्ण प्रादेशिक फायदा ज्याने मगधाला त्या काळी बिंबिसाराच्या स्वतःच्या राज्यापेक्षा कितीतरी मोठ्या आणि अधिक स्थापित असलेल्या एका शेजारील सत्तेशी एक मौल्यवान मुत्सद्दी संबंधही मिळवून दिला.",
+          "audioUrl": null
+        },
+        {
+          "number": 4,
+          "title": "आणखी युत्या: वैशाली आणि मद्र",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "बिंबिसाराने वैशालीच्या लिच्छवी सरदारवर्गाशी संबंधित एक राजकुमारी चेल्लना हिच्याशी विवाह करून आपल्या धोरणात्मक विवाहांचे जाळे आणखी विस्तारित केले — तोच संघ ज्याला त्याचा स्वतःचा पुत्र नंतर पूर्णपणे जिंकण्याचा प्रयत्न करण्यात वर्षे युद्ध घालवणार होता — तसेच वायव्येकडील मद्र राज्यातूनही एक पत्नी घेतली. एकत्रितपणे पाहता, या युत्यांनी बिंबिसाराला उत्तर भारताच्या राजकीय भूदृश्याच्या एका उल्लेखनीयपणे विस्तृत पट्ट्यावर पसरलेले मुत्सद्दी संबंध दिले, तलवारीतूनच तितकीच सहजपणे नात्यागोत्यांच्या जाळ्यातूनही सत्ता उभारणारा एक स्पष्टपणे कुशल शासक दाखवत.",
+          "audioUrl": null
+        },
+        {
+          "number": 5,
+          "title": "अंगाचा विजय",
+          "duration": "५ मिनिटे",
+          "isLocked": false,
+          "content": "बिंबिसाराची सर्वात महत्त्वपूर्ण निव्वळ लष्करी उपलब्धी म्हणजे मगधाच्या पूर्वेकडील शेजारील अंग राज्याचा विजय, त्याचा राजा ब्रह्मदत्त याला पराभूत करून आणि त्या प्रदेशाला थेट मगध नियंत्रणात विलीन करून — या विजयाने बिंबिसाराला अंगाची राजधानी, चंपा, गंगेवरील एक महत्त्वाचे नदीकाठचे व्यापारी केंद्र, यापर्यंत प्रवेश मिळवून दिला. अंगाचे हे विलीनीकरण इतिहासकार सर्वसाधारणपणे मगधाच्या समान-दर्जाच्या राज्यांतील एका प्रादेशिक राज्यातून खऱ्या अर्थाने विस्तारवादी सत्तेत रूपांतर होण्याची पहिली मोठी पायरी मानतात, प्रादेशिक आत्मसातीकरणाचा एक पायंडा घालत जो बिंबिसाराचे स्वतःचे उत्तराधिकारी आणि नंतरचे नंद व मौर्य राजवंश कितीतरी मोठ्या प्रमाणावर पाठपुरावा करणार होते.",
+          "audioUrl": null
+        },
+        {
+          "number": 6,
+          "title": "राजगृह येथील बिंबिसाराची राजधानी",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बिंबिसाराने राजगृह (ज्याला गिरिव्रजही म्हटले जाते) येथून राज्य केले, दक्षिण बिहारच्या डोंगराळ प्रदेशातील एक नैसर्गिकरीत्या तटबंदीयुक्त नगर, पाच टेकड्यांनी वेढलेले जे दुर्जेय नैसर्गिक संरक्षण पुरवत — अधिक स्थापित प्रादेशिक प्रतिस्पर्ध्यांत आपले वर्चस्व अजूनही प्रस्थापित करत असलेल्या राज्यासाठी एक धोरणात्मकदृष्ट्या योग्य राजधानी निवड. राजगृह विशेषतः सुरुवातीच्या बौद्ध इतिहासाशी जवळून संबंधित राहणार होते, बिंबिसाराच्या राज्यकाळात बुद्धांच्या स्वतःच्या शिकवण-कार्याचे एक वारंवार स्थळ म्हणून कार्य करत आणि, नंतर, बुद्धांच्या मृत्युनंतर बोलावलेल्या पहिल्या बौद्ध परिषदेचे स्थान म्हणून.",
+          "audioUrl": null
+        },
+        {
+          "number": 7,
+          "title": "तपस्वींमधील एक राजा: बिंबिसार आणि बुद्ध",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बौद्ध परंपरा बिंबिसाराला बुद्धांच्या सर्वात सुरुवातीच्या आणि सर्वात महत्त्वपूर्ण राजेशाही आश्रयदात्यांपैकी एक म्हणून वर्णन करते, कथितरीत्या भावी बुद्धांना त्यांच्या ज्ञानप्राप्तीच्या वर्षे आधी भेटलेले, जेव्हा तो तरुण तपस्वी अजूनही एक साधक म्हणून भटकत होता, आणि त्याला मगध दरबारात एक पद देऊ केले — भावी बुद्धांनी नाकारलेली एक ऑफर, पण जिने परस्पर आदराचे एक नाते प्रस्थापित केले जे बुद्धांच्या ज्ञानप्राप्तीनंतर बरेच गहिरे होणार होते, जेव्हा बिंबिसार एक समर्पित गृहस्थ अनुयायी आणि नव्या चळवळीच्या सर्वात महत्त्वाच्या सुरुवातीच्या संस्थात्मक समर्थकांपैकी एक बनला.",
+          "audioUrl": null
+        },
+        {
+          "number": 8,
+          "title": "वेणुवनाचे दान",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बिंबिसाराच्या ऐतिहासिकदृष्ट्या सर्वात महत्त्वपूर्ण धार्मिक आश्रय-कृत्यांपैकी एक म्हणजे राजगृहजवळील वेणुवन, किंवा बांबू वन, बुद्ध आणि त्यांच्या वाढत्या भिक्षुसमुदायाला दान करणे — पारंपरिकपणे बौद्ध संघाला दान केलेला पहिला औपचारिक मठ, किंवा विहार, मानला जातो, आणि एक स्थळ जे पुढील वर्षांत बुद्धांच्या शिकवण-कार्याशी जवळून संबंधित राहणार होते. या दानाने बौद्ध संस्थांसाठी राजेशाही आश्रयाचा एक सुरुवातीचा आणि प्रभावशाली पायंडा प्रस्थापित केला जो नंतरचे शासक, साधारण दोन शतकांनंतर सर्वात प्रसिद्धपणे अशोक, अनुसरणार होते आणि नाट्यमयपणे विस्तारित करणार होते.",
+          "audioUrl": null
+        },
+        {
+          "number": 9,
+          "title": "बिंबिसार आणि जैन परंपरा",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "जैन साहित्यिक परंपरा बिंबिसाराबद्दल आपले स्वतःचे, मोठ्या प्रमाणात समांतर वृत्तांत जतन करते — काही जैन स्रोतांत त्याला श्रेणिक म्हणून संबोधले जाते — त्याला महावीर, ज्या जैन तीर्थंकराच्या शिकवणी बुद्धांच्याच प्रदेशात आणि साधारण त्याच काळात पसरत होत्या, यांचा समर्पित गृहस्थ अनुयायी म्हणून वर्णित करत. बिंबिसार बौद्ध आणि जैन दोन्ही परंपरांत एक महत्त्वपूर्ण राजेशाही आश्रयदाता म्हणून दिसतो, केवळ कोणा एकाकडून दावा केला जात नाही, हे भारतीय धार्मिक इतिहासातील या निर्णायक युगात मगधाच्या खऱ्या अर्थाने बहुलतावादी धार्मिक वातावरणाचे प्रतिबिंब आहे, जेव्हा अनेक नवीन तपस्वी आणि तत्त्वज्ञानात्मक चळवळी उदयास येत होत्या आणि राजेशाही मर्जी व गृहस्थ पाठिंब्यासाठी सक्रियपणे स्पर्धा करत होत्या.",
+          "audioUrl": null
+        },
+        {
+          "number": 10,
+          "title": "बिंबिसाराचे प्रशासन",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंतरचे बौद्ध साहित्यिक स्रोत बिंबिसाराने त्या काळासाठी खऱ्या अर्थाने प्रगत असे आपल्या राज्याचे प्रशासन संघटित केल्याचे वर्णन करतात, ज्यात स्थानिक शासन आणि करसंकलनासाठी जबाबदार गाव-स्तरावरील अधिकारी, आणि एक कार्यरत राजेशाही न्यायव्यवस्था यांचा समावेश आहे — असे तपशील जे, राजाच्या नोकरशाही नवकल्पनांऐवजी त्याच्या धार्मिकतेत अधिक स्वारस्य असलेल्या धार्मिक ग्रंथांतून गाळलेले असले तरी, तरीही सुचवतात की समकालीन परंपरा एका शासकाला त्याच्या लष्करी व मुत्सद्दी यशांसोबतच अर्थपूर्ण प्रशासकीय उपलब्धीचेही श्रेय देते, नंतरचे मगध राजवंश कितीतरी पुढे उभारणार असलेला सुरुवातीचा संस्थात्मक पाया घालत.",
+          "audioUrl": null
+        },
+        {
+          "number": 11,
+          "title": "अजातशत्रू: एका पुत्राची महत्त्वाकांक्षा",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बिंबिसाराचा पुत्र आणि उत्तराधिकारी, अजातशत्रू, बौद्ध परंपरेत मगध सिंहासनाचा दावा करण्यासाठी आपल्या वडिलांच्या नैसर्गिक मृत्युची वाट पाहण्यास तयार नसलेला एक महत्त्वाकांक्षी आणि अधीर राजपुत्र म्हणून स्मरणात राहतो — हे चित्र बौद्ध पाली धर्मग्रंथाच्याच कथानकीय स्वारस्यांनी लक्षणीयरीत्या घडवलेले आहे, कारण या ग्रंथांतील अजातशत्रूची कहाणी देवदत्ताच्या, बुद्धांच्या स्वतःच्या चुलत भावाच्या आणि सुरुवातीच्या भिक्षुसमुदायातील प्रतिस्पर्ध्याच्या, कहाणीशी जवळून गुंतलेली आहे, ज्याच्या वैयक्तिक महत्त्वाकांक्षा आणि बुद्धांशी संघर्ष पाली स्रोत अजातशत्रूच्या स्वतःच्या सत्तेच्या मार्गाशी थेट गुंतलेले असल्याचे मांडतात.",
+          "audioUrl": null
+        },
+        {
+          "number": 12,
+          "title": "देवदत्ताचे कारस्थान",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "पाली धर्मग्रंथानुसार, देवदत्त, बौद्ध भिक्षुसमुदायाचे नेतृत्व मिळवण्याच्या आपल्याच प्रयत्नांत अपयशी ठरून आणि बुद्धांविरुद्ध कटुतेने वळून, महत्त्वाकांक्षी तरुण अजातशत्रूशी युती केली, कथितरीत्या राजपुत्राला आपल्याच वडिलांना बंदी बनवून मगध सिंहासन बळकावण्यास प्रोत्साहित करत, तर देवदत्त स्वतः बुद्धांच्याच जीवाविरुद्ध आणि अधिकाराविरुद्ध समांतर आणि अखेर अयशस्वी ठरलेले कट रचत राहिला. आधुनिक इतिहासकार या कारस्थानाच्या विशिष्ट तपशिलांकडे योग्य सावधगिरीने पाहतात, कारण ते मुख्यतः देवदत्ताला बुद्धांच्याच सद्गुणाला एक खलनायकी विरोधाभास म्हणून चित्रित करण्यात स्पष्ट कथानकीय स्वारस्य असलेल्या एका बौद्ध स्रोतातूनच टिकून आहे, पण अजातशत्रूने आपल्या वडिलांकडून बळजबरीने, अकाली सत्ता बळकावल्याचा व्यापक दावा मात्र मूलतः विश्वासार्ह मानला जातो.",
+          "audioUrl": null
+        },
+        {
+          "number": 13,
+          "title": "बिंबिसाराचा मृत्यू",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बौद्ध परंपरा अजातशत्रूने बंदी बनवल्यानंतर बिंबिसाराच्या मृत्युचे वर्णन खऱ्या अर्थाने दुःखद शब्दांत करते — वृत्तांते बंदिवासात जाणीवपूर्वक उपासमार आणि दुर्लक्षामुळे झालेला संथ मृत्यू यांत आणि अधिक थेट हिंसाचार वर्णन करणाऱ्या इतर आवृत्त्यांत बदलतात, पण परंपरेतील सातत्यपूर्ण धागा हा आहे की बिंबिसार, एकेकाळचा एक महान आणि धार्मिक राजा, आपल्याच पुत्राचा बंदी म्हणून मरण पावला, असे भवितव्य ज्याचा नंतरची बौद्ध टीका अनेकदा अन्यथा भक्तिपूर्ण धार्मिक राजघराण्यातही राजकीय महत्त्वाकांक्षेच्या भ्रष्ट करणाऱ्या स्वरूपाचे एक सावधानतेचे उदाहरण म्हणून वापर करते.",
+          "audioUrl": null
+        },
+        {
+          "number": 14,
+          "title": "अजातशत्रू सिंहासन घेतो",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "आपल्या वडिलांना बंदी बनवून व त्याच्या मृत्युद्वारे मगध सिंहासन सुरक्षित केल्यावर, अजातशत्रू, ज्याला सर्वसाधारणपणे इ.स.पू. सहाव्या शतकाच्या शेवटच्या दशकात किंवा पाचव्या शतकाच्या सुरुवातीला कधीतरी सिंहासनावर ठेवले जाते, तो आपल्या वडिलांहूनही अधिक आक्रमकपणे विस्तारवादी शासक सिद्ध झाला, अनेक दशके चाललेल्या राज्यकाळात मगधाच्या दोन्ही सर्वात महत्त्वपूर्ण शेजारील सत्तांविरुद्ध — वायव्येकडील कोसल राज्य आणि उत्तरेकडील वैशालीभोवती केंद्रित वज्जी संघ — सातत्यपूर्ण लष्करी मोहिमा राबवत.",
+          "audioUrl": null
+        },
+        {
+          "number": 15,
+          "title": "कोसलशी युद्ध",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "अजातशत्रूच्या सुरुवातीच्या राज्यकाळाला त्याच्याच मातृपक्षीय काका, राजा प्रसेनजित, याच्याविरुद्ध चाललेल्या प्रदीर्घ युद्धाने चिन्हांकित केले — तेच कोसल राजघराणे ज्याच्या बिंबिसाराशी झालेल्या आधीच्या विवाह युतीने एकेकाळी मगधासाठी मुत्सद्दी बळाचा एक स्रोत ठरली होती, आता त्याऐवजी पुतणे व काका यांच्यातील उघड, सातत्यपूर्ण लष्करी संघर्षाचे स्थळ बनली. बौद्ध साहित्यिक वृत्तांते दोन्ही राज्यांतील अनेक मोठ्या लढाया वर्णन करतात ज्यात भाग्य पुढेमागे होत राहिले, अखेर हा संघर्ष सतत युद्ध आणि मुत्सद्दी सामावून घेण्याच्या संयोगातून सुटला, काशी — मूळतः बिंबिसाराच्या विवाह-हुंड्यात मगधाकडे आलेला तोच प्रदेश — संपूर्णभर वादाचा एक मध्यवर्ती मुद्दा बनत.",
+          "audioUrl": null
+        },
+        {
+          "number": 16,
+          "title": "काशीचे विलीनीकरण",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "अजातशत्रूचे कोसलशी झालेले युद्ध अखेर काशीच्या मगध प्रदेशात कायमस्वरूपी विलीनीकरणात परिणत झाले, बिंबिसाराच्या मूळ विवाह-व्यवस्थेपासून त्या प्रदेशाला असलेला संदिग्ध दर्जा सोडवत आणि कोसलच्या थेट खर्चावर मगधासाठी एक महत्त्वपूर्ण, चिरस्थायी प्रादेशिक फायदा चिन्हांकित करत. हे विलीनीकरण सुरुवातीच्या मगध विस्तारभर पुनरावृत्त होणाऱ्या एका व्यापक पद्धतीचे प्रतिबिंब आहे: एका पिढीच्या शासकांखाली शांततामय मुत्सद्दी व वैवाहिक व्यवस्थेतून सुरुवातीला सुरक्षित केलेले फायदे अनेकदा, अधिक आक्रमक उत्तराधिकाऱ्यांखाली, थेट लष्करी विलीनीकरण आणि कायमस्वरूपी प्रादेशिक आत्मसातीकरणाचा आधार बनले.",
+          "audioUrl": null
+        },
+        {
+          "number": 17,
+          "title": "वज्जी संघ: एक वेगळ्या प्रकारचा प्रतिस्पर्धी",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "कोसलच्या विपरीत, एक पारंपरिक वंशपरंपरागत राजसत्ता, वैशालीभोवती केंद्रित वज्जी संघ — लिच्छवी कुळाचे, इतरांसह, घर आणि उल्लेखनीयपणे जैन शिक्षक महावीर यांचीही जन्मभूमी — आपल्या घटक कुळांतील सामूहिक सभा व सल्लामसलतीद्वारे शासित एक प्रजासत्ताक संघराज्य म्हणून कार्य करत होता, मगधाला याआधी सामोऱ्या गेलेल्या राजसत्तांहून खरोखरच एक वेगळी राजकीय रचना. ही संरचनात्मक भिन्नता अखेर अजातशत्रू एका अशा प्रतिस्पर्धी सत्तेला कसे वश करण्यात यशस्वी झाला याच्याशी थेट संबंधित ठरणार होती जिला केवळ एका शासक राजाला हटवून पराभूत करता येत नव्हते, कारण वज्जी सामर्थ्य स्पष्टपणे कोणत्याही एका असुरक्षित अधिकार-केंद्रावर नव्हे तर त्याच्या अनेक घटक कुळांच्या एकतेवर आणि सहकार्यावर टिकून होते.",
+          "audioUrl": null
+        },
+        {
+          "number": 18,
+          "title": "वस्सकाराचा कपट",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "वज्जी संघाची सामूहिक ताकद नेमकी त्याच्या अंतर्गत एकतेत आहे हे ओळखून, अजातशत्रूने कथितरीत्या आपला मंत्री वस्सकार (वर्षकार) याला वज्जीच्या घटक कुळांत फूट पाडण्यासाठी रचलेल्या एका विस्तारित, बारकाईने रचलेल्या मोहिमेवर पाठवले — अजातशत्रूशी वाद झाल्याचे आणि वैशालीत पक्षांतर केल्याचे ढोंग करत, हळूहळू, परंपरेनुसार वर्षानुवर्षे, आधी जवळून सहकार्य व सहमतीतून शासन करणाऱ्या वज्जी नेत्यांत संशय व शत्रुत्व रुजवत. तात्काळ लष्करी हल्ल्याऐवजी हा प्रदीर्घ राजकीय घातपाताचा धोरणात्मक अवलंब नंतरचा भारतीय राजकीय सिद्धांत, विशेषतः अर्थशास्त्र परंपरा, जिला एकसंध प्रतिस्पर्धी संघराज्यावर विजय मिळवण्याआधी त्यात फूट पाडण्याच्या मूल्याबाबत स्पष्ट सिद्धांतात औपचारिक स्वरूप देणार होता, अशा धीराच्या धोरणात्मक गणनेच्या पातळीचे प्रतिबिंब आहे.",
+          "audioUrl": null
+        },
+        {
+          "number": 19,
+          "title": "बुद्धांची एकतेवरील शिकवण",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "पाली धर्मग्रंथ एक सुप्रसिद्ध प्रसंग जतन करतो ज्यात अजातशत्रूने वैशालीविरुद्धची आपली मोहीम सुरू करण्याआधी, वज्जीवर यशस्वी विजयाच्या शक्यतांबद्दल सल्ला घेण्यासाठी वस्सकाराला बुद्धांकडे पाठवले — ज्याला बुद्धांनी अप्रत्यक्षपणे प्रतिसाद दिला, आपल्याच भिक्षुसमुदायाला वज्जी संघाला बलवान ठेवणाऱ्या परिस्थितींचे वर्णन करत: वारंवार सभा, निर्णयक्षमतेत एकता, परंपरा व वडीलधाऱ्यांचा आदर, आणि स्त्रिया व पवित्र स्थळांचे संरक्षण — अप्रत्यक्षपणे सुचवत की जोपर्यंत वज्जी हे अंतर्गत सामंजस्य राखतात, तोपर्यंत त्यांना सहजपणे जिंकता येणार नाही, अशी एक शिकवण जी वस्सकाराने कथितरीत्या समजून घेतली आणि अजातशत्रू आधीच पाठपुरावा करत असलेल्या अंतर्गत फुटीच्या रणनीतीची पुष्टी म्हणून परत नोंदवली.",
+          "audioUrl": null
+        },
+        {
+          "number": 20,
+          "title": "युद्धाची नवी शस्त्रे",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बौद्ध परंपरा वैशालीविरुद्धच्या अजातशत्रूच्या मोहिमेला असामान्य आणि नाविन्यपूर्ण लष्करी तंत्रज्ञानाच्या विकासाचे किंवा तैनातीचे श्रेय देते, ज्यात महाशिलाकंटक नावाचे एक साधन, सर्वसाधारणपणे एक प्रकारचे मोठे दगडफेकी वेढा-शस्त्र समजले जाते, आणि रथमुसल, दाट पायदळ रचनांविरुद्ध वापरासाठी रचलेले गदा किंवा विळ्यासारखे शस्त्र बसवलेला एक युद्धरथ, यांचा समावेश आहे. या नंतरच्या साहित्यिक वर्णनांची नेमकी तांत्रिक अचूकता काहीही असो, ती अजातशत्रूचा राज्यकाळ खुद्द वैशालीभोवती वज्जी संघाच्या राजकीय एकतेच्या आणि बहुधा दुर्जेय तटबंदीयुक्त संरक्षणाच्या संयोगावर अखेर मात करण्यासाठी आवश्यक असलेल्या प्रदीर्घ, कठीण मोहिमेला अनुरूप अशा वेढा-युद्धातील खऱ्या लष्करी नवकल्पनेसाठी स्मरणात राहिल्याची एक सातत्यपूर्ण परंपरा प्रतिबिंबित करतात.",
+          "audioUrl": null
+        },
+        {
+          "number": 21,
+          "title": "वैशालीचा पाडाव",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "वस्सकाराची वर्षानुवर्षे चाललेली अंतर्गत घातपाताची मोहीम सातत्यपूर्ण लष्करी दबावाशी आणि, परंपरेनुसार, वेढा-क्षमतेतील खऱ्या तांत्रिक नवकल्पनेशी जोडत, अजातशत्रू अखेर वैशाली जिंकण्यात आणि वज्जी संघाच्या स्वतंत्र राजकीय अस्तित्वाचे विसर्जन करण्यात यशस्वी झाला — एक विजय जो त्याच्या वडिलांच्या अंगावरील अधिक सरळ विजयासाठी आवश्यक असलेल्यापेक्षा कितीतरी अधिक प्रदीर्घ प्रयत्नानंतर मिळाला, एका पारंपरिक एकल-शासक राजसत्तेच्या तुलनेत एका एकसंध प्रजासत्ताक संघराज्याने उभा केलेल्या खऱ्या अर्थाने अधिक मोठ्या धोरणात्मक आव्हानाचे प्रतिबिंब उमटवत.",
+          "audioUrl": null
+        },
+        {
+          "number": 22,
+          "title": "अजातशत्रू आणि बुद्ध: शत्रुत्वापासून आदरापर्यंत",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "आपल्याच वडिलांविरुद्ध आणि बुद्धांच्या अधिकाराविरुद्धच्या देवदत्ताच्या कारस्थानाशी आपल्या आधीच्या संबंधानंतरही, अजातशत्रूचे बौद्ध परंपरेत वर्णन अखेर स्वतः खऱ्या अर्थाने समर्पित, जरी अपराधीपणाने ग्रासलेला, बुद्धांचा अनुयायी बनल्याचे केले जाते — पाली धर्मग्रंथातील सामञ्ञफल सुत्त एक विस्तारित संवाद नोंदवते ज्यात अजातशत्रू बुद्धांना भेटतो, आपल्या पितृहत्येची कबुली देतो, आणि अशा कृतीचे स्वरूप व परिणाम यावर शिकवण घेतो, असा एक उतारा ज्याला नंतरची बौद्ध टीका अजातशत्रूच्या कर्मिक ओझ्याची तीव्रता आणि इतका गंभीर गुन्हा केलेल्या शासकासाठीही खऱ्या आध्यात्मिक चिंतनाची व बदलाची शक्यता दोन्ही दर्शवणारी मानते.",
+          "audioUrl": null
+        },
+        {
+          "number": 23,
+          "title": "पहिली बौद्ध परिषद",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बुद्धांच्या मृत्युनंतर, पारंपरिकपणे साधारण इ.स.पू. ४८३ मध्ये दिनांकित जरी हे अजूनही सुरू असलेल्या शैक्षणिक वादाचा विषय राहत असले तरी, अजातशत्रूला भिक्षूंच्या पिढ्यानपिढ्यांतील मौखिक प्रसारणाच्या नैसर्गिक प्रक्रियेतून हरवण्याआधी किंवा भ्रष्ट होण्याआधी बुद्धांच्या शिकवणी औपचारिकपणे पाठ करून जतन करण्यासाठी राजगृह येथे बोलावलेल्या पहिल्या बौद्ध परिषदेसाठी आश्रय व राजेशाही पाठिंबा दिल्याचे श्रेय दिले जाते. ही परिषद, तिचे नेमके ऐतिहासिक तपशील काहीही असोत, बौद्ध शिकवणीच्या जतनातील एक मूलभूत क्षण दर्शवते, आणि अजातशत्रूचे तिचे आश्रयदातेपण — त्याचा आधीचा गोंधळलेला इतिहास काहीही असो — बौद्ध ऐतिहासिक स्मृतीत त्याचे स्थान परंपरेचा एक महत्त्वपूर्ण, जरी नैतिकदृष्ट्या गुंतागुंतीचा, राजेशाही आश्रयदाता म्हणून पक्के करते.",
+          "audioUrl": null
+        },
+        {
+          "number": 24,
+          "title": "अजातशत्रूची शेवटची वर्षे आणि मृत्यू",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "अजातशत्रूचा राज्यकाळ, बहुतांश पुनर्रचनांनुसार इ.स.पू. पाचव्या शतकाच्या सुरुवातीपर्यंत अनेक दशके टिकलेला, त्याच्या शेवटच्या वर्षांसाठी बौद्ध स्रोत त्याच्या सुरुवातीच्या, अधिक नाट्यमय प्रसंगांसाठी पुरवतात तितक्या कथानकीय समृद्धीने दस्तऐवजीकृत नाही. नंतरची परंपरा, उल्लेखनीय म्हणजे, अजातशत्रूच्या स्वतःच्या मृत्युचे वर्णन त्याच्या वडिलांच्या मृत्युसारख्याच त्रासदायकपणे साम्य असलेल्या एका पद्धतीचे अनुसरण करणारे असे करते — काही वृत्तांतांनुसार, आपल्याच पुत्र व उत्तराधिकारी, उदयिन, याने ठार केले, जे त्याच शासकीय राजवंशात सलग दुसऱ्या पिढीतील पितृहत्येचे प्रतिनिधित्व करेल, जरी या कालखंडाच्या इतिहासाच्या बहुतांश भागाप्रमाणेच, या विशिष्ट दाव्याचे नेमके तपशील आणि अगदी विश्वासार्हताही काही शैक्षणिक सावधगिरीचा विषय राहतात.",
+          "audioUrl": null
+        },
+        {
+          "number": 25,
+          "title": "उदयिन आणि पाटलीपुत्राची स्थापना",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "अजातशत्रूचा पुत्र आणि उत्तराधिकारी, उदयिन (ज्याला उदयभद्रही म्हटले जाते), सर्वात लक्षणीयरीत्या गंगा आणि सोन नद्यांच्या धोरणात्मक संगमावर एक नवी तटबंदीयुक्त वसाहत स्थापन केल्याबद्दल स्मरणात राहतो — असे स्थळ जे सुरुवातीला मुख्यतः अजातशत्रूने अलीकडेच वश केलेल्या उत्तरेकडील वज्जी प्रदेशांविरुद्ध रक्षण करण्यास मदत करण्यासाठी एक संरक्षणात्मक किल्ला म्हणून विकसित केले गेले, पण जे, याच पाटलीपुत्र या नावाने, पुढे नंतरच्या नंद, मौर्य, आणि अखेर गुप्त साम्राज्यांची राजधानी बनणार होते, ज्यामुळे उदयिनची स्थळाची पायाभरणी निवड संपूर्ण हर्यंक कालखंडातील सर्वात परिणामकारकदृष्ट्या महत्त्वपूर्ण, जरी वैयक्तिकरीत्या कमी-दस्तऐवजीकृत, निर्णयांपैकी एक बनते.",
+          "audioUrl": null
+        },
+        {
+          "number": 26,
+          "title": "पितृहत्येची एक पद्धत",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "बौद्ध परंपरा हर्यंक राजवंशाच्या शेवटच्या पिढ्यांभर एक खरोखर त्रासदायक पुनरावृत्त होणारी पद्धत वर्णन करते: अजातशत्रूने कथितरीत्या स्वतःचा पिता बिंबिसार याला ठार केल्यानंतर, त्याचे स्वतःचे अनेक उत्तराधिकारीही तशाच प्रकारे आपापल्या राजेशाही वडिलांना ठार करून सत्तेवर आल्याचे वर्णन केले जाते — राजवंशीय पितृहत्येचे एक चक्र जे नंतरची परंपरा हर्यंक राजेशाही वारसाहक्काचे वाढत्या प्रमाणात त्रासदायक व अस्थिर करणारे वैशिष्ट्य म्हणून मांडते, ज्या घटना ते वर्णन करतात त्यांच्यानंतर पिढ्यांनी रचलेल्या स्रोतांतील प्रत्येक विशिष्ट कथित प्रसंगाची नेमकी ऐतिहासिक अचूकता काहीही असो.",
+          "audioUrl": null
+        },
+        {
+          "number": 27,
+          "title": "राजवंशाचे शेवटचे राजे",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "उदयिननंतर हर्यंक राजवंशाचे शेवटचे शासक उपलब्ध साहित्यिक परंपरांत केवळ तोकडे आणि विसंगतपणे दस्तऐवजीकृत आहेत, सर्वसाधारणपणे नंतरच्या पौराणिक आणि बौद्ध राजयादींत त्यांच्या नावांपलीकडे आणि, अनेक प्रकरणांत, हिंसक वारसाहक्काच्या सुरू राहिलेल्या त्रासदायक पद्धतीपलीकडे फारसा कोणताही सोबतचा कथानकीय तपशील नसताना यादीबद्ध केले जातात — राजवंशाच्या संस्थापक व्यक्तिमत्त्वांसाठी, बिंबिसार आणि अजातशत्रू यांच्यासाठी, उपलब्ध तुलनेने समृद्ध दस्तऐवजीकरणाशी एक ठळक विरोधाभास, आणि एकाच शासकीय राजवंशाच्याच अनेक-पिढ्यांच्या इतिहासातही ऐतिहासिक स्मृती आणि धार्मिक साहित्यिक स्वारस्य किती असमानपणे वितरित झाले होते याची आठवण.",
+          "audioUrl": null
+        },
+        {
+          "number": 28,
+          "title": "शिशुनाग संक्रमण",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "नंतरच्या परंपरेनुसार, हर्यंक राजवंशाच्या हिंसक, पितृहत्याकारी वारसाहक्काच्या पुनरावृत्त पद्धतीने अखेर खरी लोकअशांतता निर्माण केली, आणि राजवंश अखेर इ.स.पू. पाचव्या शतकाच्या सुरुवातीला शिशुनाग याने विस्थापित केला, कथितरीत्या एक मंत्री किंवा अधिकारी जो हर्यंक राजवंशाच्या शेवटच्या पिढ्यांनी प्रतिनिधित्व केलेल्या अव्यवस्था आणि नैतिक भ्रष्टाचाराला काही वृत्तांतांत स्पष्टपणे एक सुधारणात्मक प्रतिसाद म्हणून मांडलेल्या लोकपाठिंब्यासह सत्तेवर आला — शिशुनाग राजवंशाची स्थापना करत जो स्वतः पुढे नंद राजवंशाने विस्थापित होण्याआधी आणखी काही पिढ्यांसाठी मगधावर राज्य करणार होता.",
+          "audioUrl": null
+        },
+        {
+          "number": 29,
+          "title": "हर्यंक इतिहास जुळवत आणणे",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "हर्यंक राजवंशाचा इतिहास मुख्यतः बौद्ध पाली साहित्यिक स्रोतांतून आणि, थोड्या कमी प्रमाणात, जैन साहित्यिक परंपरेतून पुनर्रचित केला जातो — दोन्ही धार्मिक साहित्ये ज्यांना बिंबिसार आणि अजातशत्रूच्या राज्यकाळांना प्रत्येक शासकाच्या बुद्ध किंवा महावीरशी असलेल्या संबंधाच्या विशिष्ट दृष्टिकोनातून चित्रित करण्यात स्वतःचे स्पष्ट कथानकीय स्वारस्य आहे, स्वतःसाठी रचलेल्या तटस्थ राजकीय इतिहासाऐवजी. यामुळे हर्यंक-युगीन इतिहासाला इतर काही प्राचीन भारतीय राजवंशांच्या तुलनेत एक असामान्य वैशिष्ट्य मिळते: त्यानंतर आलेल्या अधिक तुटपुंज्यापणे दस्तऐवजीकृत नंद राजवंशाहून कथानकीय तपशील व विशिष्ट प्रसंगांत बरेच अधिक समृद्ध, तरीही अजूनही मूलतः तटस्थ राजकीय किंवा प्रशासकीय स्रोत साहित्याऐवजी धार्मिकातून गाळलेले, प्रत्येक परंपरेच्या शिकवणीच्या आणि सैद्धांतिक हेतूंतून खरा ऐतिहासिक गाभा काळजीपूर्वक वेगळा करणे आवश्यक बनवत.",
+          "audioUrl": null
+        },
+        {
+          "number": 30,
+          "title": "वारसा: साम्राज्य बनलेले राज्य",
+          "duration": "५ मिनिटे",
+          "isLocked": true,
+          "content": "हर्यंक राजवंशाची एकत्रित उपलब्धी — बिंबिसाराची विवाह-युती मुत्सद्देगिरी आणि अंगाचा विजय, अजातशत्रूचा कोसलचा पराभव आणि शक्तिशाली वज्जी संघाचे विसर्जन, आणि पाटलीपुत्र बनणाऱ्या स्थळाची उदयिनची पायाभरणी निवड — यांनी एकत्रितपणे मगधाला सोळा महाजनपदांतील एका स्पर्धात्मक सत्तेतून गंगेच्या मैदानातील स्पष्टपणे प्रबळ शक्तीत रूपांतरित केले, असे प्रमुखतेचे स्थान जे त्यानंतरचे शिशुनाग, नंद, आणि अखेर मौर्य राजवंश वारशाने घेणार होते आणि त्यावर उभारणार होते, शून्यातून ते प्रस्थापित करण्याची गरज न पडता. या अर्थाने, हर्यंक राजवंशाचा खरा वारसा त्याच्या स्वतःच्या नाट्यमय आणि अनेकदा त्रासदायक अंतर्गत इतिहासात कमी आणि दोन पिढ्यांच्या खऱ्या अर्थाने सक्षम व महत्त्वाकांक्षी राजशासनातून प्रथम हे सिद्ध करण्यात अधिक आहे की व्यापक गंगातटीय जगावरील मगध वर्चस्व मुळात साध्य करण्यायोग्य होते.",
           "audioUrl": null
         }
       ]
