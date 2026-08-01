@@ -1,0 +1,18 @@
+{
+  "latest_version": "1.0.1",
+  "build_number": 2,
+  "release_notes": {
+    "en": [
+      "Welcome to BharatVerse!",
+      "Added brand new Profile screen to track reading and quiz progress.",
+      "Added dynamic app update notifications.",
+      "Optimized database sync and timeline scroll speed."
+    ],
+    "mr": [
+      "भारतव्हर्स (BharatVerse) मध्ये आपले स्वागत आहे!",
+      "वाचन आणि प्रश्नमंजुषा प्रगती ट्रॅक करण्यासाठी नवीन प्रोफाईल स्क्रीन.",
+      "अॅप अपडेट संबंधित सूचनांची सोय.",
+      "डेटाबेस सिंक आणि टाईमलाईन स्क्रोल गतीमध्ये सुधारणा."
+    ]
+  }
+}
