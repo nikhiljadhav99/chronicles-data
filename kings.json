@@ -1439,6 +1439,476 @@
                     "audioUrl": null
                 }
             ]
+        },
+        {
+            "id": "king_009",
+            "title": "Pushyamitra Shunga: The General Who Ended an Empire",
+            "empire": "Shunga Empire",
+            "category": "Kings",
+            "period": "c. 185-149 BCE",
+            "region": "Magadha and Central India",
+            "narrator": "Meera Kulkarni",
+            "languages": [
+                "Marathi",
+                "English"
+            ],
+            "duration": "62 min",
+            "rating": 4.5,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/download.webp",
+            "summary": "A Mauryan commander who struck down his own king during a troop review, revived Vedic sacrifice after decades of Buddhist-favoring rule, and left behind a reign historians still argue over — restorer or persecutor?",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "The Mauryan Empire's Long Decline",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "By the early second century BCE, roughly half a century after Ashoka's death around 232 BCE, the once-vast Mauryan Empire had contracted dramatically, its outlying provinces having drifted from central control amid a succession of weaker, shorter-reigning rulers at Pataliputra. The last Mauryan king, Brihadratha, presided over what remained of this diminished empire — a state still significant but far removed from the subcontinent-spanning power Chandragupta had founded and Ashoka had governed at its height — and it was into this context of gradual, decades-long imperial erosion that Pushyamitra Shunga, Brihadratha's own military commander, would make his fateful and historically decisive move.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "Pushyamitra Shunga: A General's Rise",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Pushyamitra Shunga served as senapati, or commander-in-chief, of the Mauryan army under Brihadratha, and belonged to the Shunga family, generally identified in later sources as Brahmins — a detail of some historical significance, since Pushyamitra's eventual rise to the throne and his associated religious policies are often read by historians as reflecting a broader shift away from the strong Buddhist associations of Ashoka's own reign and toward renewed Brahmanical royal patronage, though the precise personal religious convictions of Pushyamitra himself, as opposed to the political and symbolic uses later tradition made of his reign, remain difficult to establish with full certainty.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "The Assassination of Brihadratha",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "According to the Sanskrit writer Banabhatta, composing his account centuries later in the Harshacharita, Pushyamitra assassinated Brihadratha personally and directly, striking him down while reviewing his own troops during a formal military parade — a strikingly intimate and treacherous act, carried out by a trusted commander against the very king whose army he had been reviewing, bringing the Mauryan dynasty's roughly one-hundred-and-thirty-seven-year rule to an abrupt end around 185 BCE, or by some alternative chronological reconstructions a few years earlier.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "A New Dynasty Begins",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Following Brihadratha's assassination, Pushyamitra Shunga claimed the Magadhan throne for himself, founding the Shunga dynasty that would rule, according to Puranic king-lists, for approximately 112 years across ten successive kings — a dynasty considerably smaller in territorial reach and less historically celebrated than the Mauryan empire it replaced, but nonetheless significant as the ruling power presiding over a pivotal transitional period in ancient Indian religious, artistic, and political history.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "The Shunga Homeland and Capital",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Pushyamitra continued to rule from Pataliputra, the same Gangetic capital that had served the Mauryan dynasty before him, though Shunga territory itself appears, by most reconstructions, to have been considerably smaller than the Mauryan Empire at its height, concentrated primarily across the Gangetic heartland and central India rather than extending across the full subcontinental reach Ashoka had once commanded. The city of Vidisha, in central India, also emerged as an important secondary center of Shunga power, particularly under Pushyamitra's son and successor, reflecting the dynasty's evident strategic and administrative interest in central Indian territory beyond the traditional Magadhan core.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "Piecing Together the Shunga Chronology",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Reconstructing a precise chronology for Pushyamitra's reign and the broader Shunga dynasty depends heavily on Puranic king-lists, which provide regnal year totals for successive rulers but are not always internally consistent or easily reconciled with other available evidence, along with scattered inscriptions, coins, and the testimony of later literary works composed during or shortly after the Shunga period itself. This combination of sources allows historians to establish a broadly reliable outline of Shunga rule, generally dated from around 185 to 73 BCE across the dynasty's full ten-king span, even though precise dates for individual events within Pushyamitra's own roughly thirty-six-year reign remain subject to some ongoing scholarly adjustment.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "A Smaller Empire Than the Mauryas'",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Unlike the Mauryan Empire under Ashoka, which had extended its authority, directly or through tributary relationships, across nearly the entire Indian subcontinent, Pushyamitra's Shunga state governed a considerably more modest territory, with regions like Kalinga on the eastern coast reasserting full independence, and the empire's former northwestern territories increasingly falling under the growing influence of Indo-Greek kingdoms descended from the earlier Seleucid and Bactrian Greek presence in the region — a genuine and significant contraction of central authority that defined the practical political reality Pushyamitra governed, whatever grander imperial titles Shunga inscriptions and coinage may have continued to claim.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "The Ashvamedha: Reviving Vedic Kingship",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Pushyamitra is credited with performing the ashvamedha, or horse sacrifice, an elaborate and ancient Vedic royal ritual in which a consecrated horse was set loose to wander for a year, its path claimed as the sponsoring king's rightful territory, before being ceremonially sacrificed to affirm the king's paramount sovereignty — a ritual notably absent from the Mauryan dynasty's own royal practice, particularly during Ashoka's Buddhist-influenced reign, and one whose revival under Pushyamitra is widely read by historians as a deliberate symbolic assertion of renewed Brahmanical, Vedic-style kingship following decades of markedly different Mauryan religious orientation.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "Patanjali and the Grammarian's Witness",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "One of the most historically valuable pieces of evidence for Pushyamitra's reign comes not from a royal inscription but from a work of Sanskrit grammar: the Mahabhashya of Patanjali, a celebrated grammarian traditionally believed to have lived during Pushyamitra's own time, includes among its illustrative example sentences the phrase \"iha Pushyamitram yajayamah\" — \"here we are performing a sacrifice for Pushyamitra\" — a striking, near-contemporary textual reference that provides rare independent corroboration both of Pushyamitra's historical existence and of his performance of the very ashvamedha ritual later Puranic tradition also associates with his reign.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "Brahmanical Revival After Buddhist Patronage",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Pushyamitra's religious patronage, including his ashvamedha sacrifices, is generally understood by historians as part of a broader and genuinely significant shift in royal religious orientation following the strongly Buddhist-associated reign of Ashoka roughly half a century earlier — a partial return toward traditional Vedic and Brahmanical ritual and royal legitimation practices that Ashoka's own reign, with its emphasis on dhamma and explicit Buddhist patronage, had markedly de-emphasized, even though Ashoka himself had never persecuted Brahmanical religious practice and had, in his own inscriptions, explicitly called for tolerance and support across multiple religious traditions.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "The Question of Anti-Buddhist Persecution",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Several later Buddhist textual sources, including the Divyavadana, go considerably further than describing mere Brahmanical revival, explicitly portraying Pushyamitra as a violent persecutor of Buddhism who allegedly destroyed monasteries and stupas across his territory and offered a monetary reward for the severed head of any Buddhist monk brought to him — an extraordinarily serious charge that, if accurate, would represent one of the most significant instances of state-sponsored religious violence in early Indian history.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "Weighing the Buddhist Sources",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Modern historians treat these specific persecution claims with genuine and significant caution rather than accepting them as straightforwardly established fact, noting that they survive primarily through Buddhist textual sources composed generations after Pushyamitra's actual reign, with clear religious and narrative interest in portraying the king who ended Ashoka's Buddhist-favoring dynasty in the most negative possible terms — a pattern of hostile source characterization directly comparable to how Brahmanical Puranic sources had earlier portrayed the low-born Nanda dynasty, or how later nationalist retellings have shaped popular memory of other historical rulers. Archaeological evidence from the Shunga period, discussed further below, also complicates any simple narrative of blanket persecution, since it shows continued, active Buddhist artistic and architectural activity during precisely this same era.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "Sanchi and the Continuation of Buddhist Art",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Perhaps the strongest evidence complicating the persecution narrative comes from the great Buddhist stupa complex at Sanchi, where significant architectural expansion and elaboration — including the stone railings and gateway structures added around the original Ashokan-era stupa core — is generally dated by art historians to precisely the Shunga period, suggesting that whatever Pushyamitra's own personal religious preferences, Buddhist religious and artistic activity clearly continued, and in some respects actively flourished, at major sites during Shunga rule, a pattern difficult to fully reconcile with the more extreme persecution claims found in hostile Buddhist literary sources.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "The Greek Threat: Demetrius and the Indo-Greeks",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Pushyamitra's reign coincided with growing military pressure from Indo-Greek kingdoms descended from the earlier Greco-Bactrian presence in the northwest, with various sources associating a significant incursion into Shunga territory with rulers including Demetrius I of Bactria or, in some reconstructions, his successor Menander — Greek-descended kings whose kingdoms, established in the wake of the Seleucid Empire's earlier eastern territories, increasingly pressed into former Mauryan and now Shunga-controlled land during this period.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "The Malavikagnimitram: A Play as Historical Source",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Much of what is known about Shunga military conflict with these Indo-Greek forces comes from an unexpected source: the Malavikagnimitram, a Sanskrit court drama composed considerably later by the celebrated poet Kalidasa, centered on a romantic plot involving Pushyamitra's son Agnimitra, but which incidentally references a military campaign against Greek (\"Yavana\") forces along the Sindhu river, fought under the command of Pushyamitra's grandson Vasumitra — a reminder that, as with the Mudrarakshasa's role in preserving details of the Nanda-Maurya transition, works of Sanskrit literature composed generations after the events they describe sometimes preserve historically valuable, if not always precisely verifiable, information unavailable from any other surviving source.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "The Battle Along the Sindhu",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Malavikagnimitram describes Vasumitra successfully repelling the Greek incursion in a battle fought along the banks of the Sindhu river — likely a tributary of the Chambal in central India rather than the much larger Indus river of the same name in the northwest, according to most modern geographic reconstructions — a Shunga military success that, whatever its precise scale and strategic significance, suggests the dynasty retained real capacity to resist and repel at least some of the Indo-Greek pressure building against its territory during this period, even as the broader northwestern regions of the old Mauryan Empire continued drifting toward more permanent Indo-Greek control over the following decades.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "Vasumitra and the Younger Generation",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Vasumitra, credited in the Malavikagnimitram with commanding Shunga forces against the Greek incursion, represents the dynasty's third generation — grandson of Pushyamitra and presumably son of Agnimitra — and his prominent military role during what appears to have still been Pushyamitra's own lifetime or reign suggests a pattern, not unusual among ancient royal dynasties, of the ruling king delegating significant military command to capable younger male relatives as part of both practical governance and dynastic succession preparation.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "Agnimitra at Vidisha",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Pushyamitra's son Agnimitra served as viceroy at Vidisha in central India during his father's reign, a position of real regional authority that both reflected and reinforced Vidisha's emergence as an important secondary Shunga power center alongside Pataliputra itself. Agnimitra's eventual succession to the main Shunga throne following Pushyamitra's death represents the dynasty's continued the pattern, common among ancient Indian ruling houses, of using regional viceregal postings for royal sons as both practical administrative training and demonstrated preparation for eventual succession to central authority.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "The Kalinga Question: Kharavela's Inscription",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Hathigumpha inscription of the Kalingan king Kharavela, composed considerably after Pushyamitra's own reign, describes a Kalingan military campaign that reportedly reached as far as the Ganges river and caused a ruler referred to as \"Bahasatimita\" to flee before it — a name some historians have proposed identifying with a Shunga king, potentially Pushyamitra himself or possibly a later successor, though this identification remains genuinely debated and unresolved among specialists, given the considerable philological and chronological uncertainty involved in matching Kharavela's inscribed name against the Puranic Shunga king-list.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "Governing a Fragmenting Empire",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Whatever the precise details of individual military campaigns against Greek and possibly Kalingan pressure, the broader pattern of Pushyamitra's reign reflects a ruler managing a genuinely contracting and increasingly contested imperial inheritance rather than commanding anything resembling the secure, subcontinent-spanning authority Ashoka had once wielded — a king whose reign, for all its symbolic importance in marking the transition away from Mauryan rule, was defined as much by defensive consolidation against mounting external pressures as by any triumphant new phase of imperial expansion.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "Society and Culture Under the Shungas",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Shunga period is generally associated by historians with a broader cultural and religious atmosphere reflecting renewed Brahmanical influence at court, alongside continued and, as the Sanchi evidence demonstrates, genuinely flourishing Buddhist religious and artistic activity across much of the same territory — a pattern of religious coexistence and complexity that resists easy characterization as either a straightforward Brahmanical restoration or a period of systematic anti-Buddhist repression, and instead reflects the more layered, regionally variable religious reality that likely prevailed across Shunga-controlled territory.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "Art and Architecture: The Bharhut Stupa",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Beyond the well-known Sanchi expansions, the Buddhist stupa at Bharhut, with its extensively carved stone railings depicting scenes from Buddhist jataka tales and early narrative reliefs, is also generally dated to the Shunga period, representing some of the earliest substantial surviving examples of narrative sculpture in Indian art history — further physical evidence, alongside Sanchi, of continued and genuinely significant Buddhist artistic patronage occurring somewhere within Shunga-era India, whether directly royal-sponsored or, perhaps more likely, supported by wealthy lay Buddhist communities and merchants operating within a broader political environment the Shunga state evidently permitted to continue and flourish.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "Pushyamitra's Later Years and Death",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The final years of Pushyamitra's roughly thirty-six-year reign are not documented with significant additional narrative detail in surviving sources beyond the broad outline already established through the Puranic king-lists, Patanjali's grammatical reference, and the Malavikagnimitram's account of his grandson's military campaign — a pattern of thinning detail toward a ruler's later years that is, as with several other ancient Indian dynasties covered in similar depth, characteristic of how unevenly ancient sources typically documented different phases of even historically significant reigns.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "The Shunga Dynasty After Pushyamitra",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following Pushyamitra's death, generally placed around 149 BCE, his son Agnimitra succeeded him as the second Shunga king, continuing a dynasty that would persist for roughly another seventy-five years across eight further successive rulers, none of whom achieved comparable historical prominence or left behind evidence of comparable territorial reach to the dynasty's founder, reflecting a broader pattern of gradual, multi-generational decline not unlike that seen in the Mauryan dynasty's own final decades before Pushyamitra's own decisive intervention.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "The Fall of the Shungas",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "The Shunga dynasty's roughly 112-year rule finally ended around 73 BCE, when the last Shunga king, Devabhuti, was assassinated by his own minister, Vasudeva Kanva, who then founded the succeeding Kanva dynasty — an ending that, in its basic structural pattern of a trusted senior official violently displacing the ruling king he served, bears a notable and perhaps historically ironic resemblance to how Pushyamitra himself had originally come to power by assassinating the Mauryan king Brihadratha over a century earlier.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "Piecing Together Pushyamitra's Reign",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Reconstructing Pushyamitra Shunga's reign requires weighing an unusually varied body of evidence against one another: Puranic king-lists providing basic chronological framework; Banabhatta's much later Harshacharita describing the founding assassination; Patanjali's near-contemporary grammatical reference confirming the ashvamedha; hostile Buddhist textual sources alleging persecution; Kalidasa's Malavikagnimitram preserving military detail through the medium of court drama; and physical archaeological evidence from Sanchi and Bharhut complicating the persecution narrative these same hostile Buddhist sources advance. No source category alone provides a fully reliable or complete picture, and responsible historical reconstruction requires triangulating carefully among all of them rather than accepting any single tradition's characterization at face value.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 27,
+                    "title": "Legacy: Between Empire and Kingdom",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Pushyamitra Shunga's historical significance lies less in the territorial scale of the kingdom he governed, which never approached Mauryan dimensions at their height, than in the pivotal transitional moment his reign represents: the definitive end of Mauryan rule, a genuine and historically significant partial revival of Brahmanical Vedic royal ritual and patronage after decades of markedly different Ashokan religious policy, and a reign whose true religious character — whether marked by genuine persecution or simply reoriented patronage alongside continued Buddhist flourishing — remains one of ancient Indian history's more genuinely contested and actively debated questions, precisely because the surviving sources describing him were composed by parties with such clearly divergent stakes in how his memory would be shaped.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "king_010",
+            "title": "Dhanaji Jadhavrao: Senapati of the Maratha Empire",
+            "empire": "Maratha Empire",
+            "category": "Generals",
+            "period": "c. 1650-1708 CE",
+            "region": "Deccan, Maharashtra",
+            "narrator": "Aarav Deshmukh",
+            "languages": [
+                "Marathi",
+                "English"
+            ],
+            "duration": "58 min",
+            "rating": 4.6,
+            "coverEmoji": "DJ",
+            "summary": "The field commander who kept Maratha resistance alive through Aurangzeb's twenty-seven-year war after Sambhaji's execution, and whose single decisive choice of allegiance at Khed determined who would rule the kingdom next.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": false,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "The Long War Against Aurangzeb",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "When Emperor Aurangzeb moved his entire Mughal court and army into the Deccan in 1681, determined to crush the young Maratha state Shivaji had built and Sambhaji had inherited, he could not have anticipated that the resulting conflict would consume the rest of his own life and reign — a grinding, twenty-seven-year war that would ultimately end in Mughal exhaustion rather than Maratha surrender. It was within this extended, brutal conflict, and particularly in the desperate years following Sambhaji's execution in 1689, that Dhanaji Jadhavrao emerged as one of the two most celebrated Maratha field commanders of the entire war, alongside his contemporary and sometime rival, Santaji Ghorpade.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "Dhanaji Jadhavrao: Origins and Early Service",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Dhanaji Jadhavrao belonged to the Jadhavrao clan, a Maratha family with an established tradition of military service, and he rose through the ranks of the Maratha army during the difficult years of Sambhaji's reign, when the kingdom faced sustained pressure from Aurangzeb's advancing Mughal forces alongside continued friction with the Siddis of Janjira and Portuguese Goa. Relatively little is documented in surviving sources about Dhanaji's specific early career and rise before he emerges into clearer historical view during the desperate resistance years following Sambhaji's capture and execution, a pattern of thin early-career documentation not unusual for military commanders whose fame was earned later, in the more heavily chronicled crisis years of the war.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "The Jadhavrao Family in Maratha Service",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "The Jadhavrao family's association with Maratha military service reflected a broader pattern within the Maratha state, in which capable commanders from established martial families, rather than hereditary royal nobility alone, were entrusted with senior military command — a meritocratic tradition tracing back to Shivaji's own original approach to building Swarajya's officer corps from among the Maval region's hardy local families, and one that continued to shape how the kingdom filled its most critical military roles even as it faced the greatest external threat of its existence under Aurangzeb's sustained invasion.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "Rising Through the Ranks Under Sambhaji",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "During Sambhaji's roughly nine-year reign, the Maratha kingdom fought on multiple fronts simultaneously, and capable field commanders like Dhanaji found ample opportunity to demonstrate military skill amid the kingdom's near-constant state of war. Though detailed accounts of Dhanaji's specific engagements during this period are not extensively preserved, his later prominence during the even more demanding years following Sambhaji's death strongly suggests he had already established a solid military reputation and the trust of Maratha leadership well before the crisis that would truly define his historical legacy began.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "Sambhaji's Execution and a Kingdom in Crisis",
+                    "duration": "5 min",
+                    "isLocked": false,
+                    "content": "Sambhaji's capture at Sangameshwar in February 1689 and his subsequent brutal execution on Aurangzeb's orders left the Maratha kingdom in a genuinely precarious position — its capital under direct threat, its king dead, and his young son Shahu soon taken captive by Mughal forces. It was in the immediate aftermath of this catastrophe that Dhanaji Jadhavrao, alongside Santaji Ghorpade and other Maratha commanders, took on the essential task of ensuring the kingdom's continued military resistance did not collapse entirely in the wake of its king's death.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "Rajaram's Flight to Jinji",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "With Raigad besieged and the immediate Maratha leadership in disarray, Sambhaji's half-brother Rajaram fled south to the distant fortress of Jinji in the Carnatic region, from where he attempted to direct continued Maratha resistance from a position of relative safety, far removed from the main Mughal armies operating in the Deccan heartland. This left the day-to-day military campaign against Aurangzeb's forces largely in the hands of field commanders operating with considerable independence back in Maharashtra itself — commanders like Dhanaji Jadhavrao and Santaji Ghorpade, whose relentless, decentralized guerrilla campaigns would prove decisive in preventing Mughal forces from ever fully consolidating control over Maratha territory.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "Guerrilla War: The Maratha Response",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Rather than attempting to meet Aurangzeb's vastly larger and better-resourced Mughal army in conventional pitched battle, Maratha commanders during this period relied on the same mobile, hit-and-run tactics Shivaji had pioneered decades earlier — striking rapidly at Mughal supply lines, isolated detachments, and vulnerable encampments, then withdrawing swiftly into the Sahyadri hill country before Mughal forces could organize an effective response. This style of warfare, exhausting and demoralizing for the vastly larger occupying army even when it rarely resulted in dramatic, decisive battles, became the defining military approach of the entire post-Sambhaji resistance period, and Dhanaji Jadhavrao proved to be among its most capable and relentless practitioners.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "Dhanaji and Santaji: Two Commanders, One War",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Throughout the 1690s, Dhanaji Jadhavrao and Santaji Ghorpade emerged as the two most celebrated and feared Maratha field commanders of the entire war, each leading independent, highly mobile forces that struck repeatedly at Mughal positions across the Deccan, inflicting a steady, cumulative toll of losses, captured supplies, and damaged morale on Aurangzeb's occupying army that no single decisive battle could have achieved. Contemporary and later accounts describe both commanders as achieving genuinely remarkable individual feats of daring during this period, their reputations growing to the point that Mughal commanders reportedly came to dread encountering either of their forces in the field.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "The Raids That Humiliated an Empire",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Among the achievements credited to Maratha commanders of this period, including Dhanaji, are raids that penetrated deep into nominally secure Mughal-held territory, disrupting supply convoys, capturing valuable baggage trains, and, on occasion, striking close enough to threaten the security of Mughal encampments themselves — a pattern of sustained tactical humiliation that, cumulatively, did as much to convince Aurangzeb's own commanders that the war could not be won through conventional siege warfare alone as any single dramatic Maratha victory could have.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "Striking at the Heart of the Mughal Camp",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Tradition credits Maratha forces during this period, including under commanders like Dhanaji and Santaji, with raids audacious enough to reach the vicinity of Aurangzeb's own sprawling mobile camp — the emperor had, after all, relocated his entire court and administration into the Deccan for the duration of the war — a genuinely remarkable illustration of how thoroughly Maratha guerrilla tactics had eroded any sense of secure Mughal rear-area control, even at the very center of the empire's own wartime government, years into a campaign Aurangzeb had originally expected to conclude quickly.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "The Rivalry Between Dhanaji and Santaji",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Despite their shared success against the common Mughal enemy, Dhanaji Jadhavrao and Santaji Ghorpade developed a serious and, by most historical accounts, genuinely damaging personal and professional rivalry over questions of relative seniority and precedence within the Maratha military hierarchy — each apparently believing himself the more deserving candidate for the senior position of Senapati, or commander-in-chief, a rivalry that reportedly caused real friction within the wider Maratha war effort at a moment when unified command was arguably more important than at almost any other point in the conflict.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "The Death of Santaji Ghorpade",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Santaji Ghorpade was killed around 1696 or 1697, reportedly in a confrontation involving Nagoji Mane, another Maratha noble, in circumstances that some historical accounts connect, directly or indirectly, to the broader tensions and factional rivalries — including his rivalry with Dhanaji — that had developed within the Maratha command structure during this period. The precise causal chain behind Santaji's death remains somewhat uncertain in the historical record, but his loss removed one of the war's two most celebrated Maratha commanders at a genuinely pivotal moment in the ongoing conflict.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "Dhanaji Becomes Senapati",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following Santaji Ghorpade's death, Dhanaji Jadhavrao emerged as the Maratha military's preeminent field commander, eventually holding the formal title of Senapati and directing much of the kingdom's continued resistance against Aurangzeb's forces through the remaining years of the long war — a position of singular military authority that reflected both his own demonstrated capability and the practical reality that the rivalry which had previously divided Maratha command was now, following Santaji's death, no longer an obstacle to unified leadership.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "Continuing the War Alone",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "As sole preeminent field commander through the final years of the conflict, Dhanaji continued the same relentless pattern of mobile, harassing warfare against Mughal positions that had characterized the entire post-Sambhaji resistance, sustaining pressure on Aurangzeb's forces even as the aging emperor's own health and patience visibly declined across the war's final years, his enormous army increasingly bogged down besieging one Maratha fort after another without ever achieving the decisive, war-ending victory he had originally set out to secure.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "Tarabai's Regency and a New Chapter",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "During this period, following Rajaram's death in 1700, effective Maratha political leadership passed substantially to Tarabai, Rajaram's widow, who governed as regent for her young son and directed continued resistance with real skill and determination — and it was under this Tarabai-led phase of the war that Dhanaji Jadhavrao continued to serve as one of the Maratha state's most senior and trusted military commanders, his loyalty to the Tarabai regency during these years later making his eventual change of allegiance, discussed further below, all the more historically significant.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "The Death of Aurangzeb and a Changed War",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Aurangzeb finally died in the Deccan in 1707, at an advanced age, having spent the final decades of his reign and life pursuing a Maratha resistance he had never succeeded in extinguishing — his death fundamentally transformed the strategic situation, removing the singular imperial will that had sustained the twenty-seven-year war and opening a genuinely new and uncertain political landscape for Maratha leadership, including for commanders like Dhanaji, to navigate.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "Shahu's Release and the Succession Crisis",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following Aurangzeb's death, the Mughals released Shahu, Sambhaji's son who had been held in Mughal captivity since childhood, calculating — correctly, as it turned out — that his return would divide Maratha loyalties and create useful instability within the kingdom his father and grandfather had built. Shahu and Tarabai's regency, governing on behalf of her own son, immediately found themselves in direct competition for the Maratha throne, forcing every significant Maratha noble and commander, including Dhanaji Jadhavrao, to choose a side in what quickly became an internal civil conflict.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "Balaji Vishwanath: A New Alliance",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Among Dhanaji Jadhavrao's own subordinate officials at this time was Balaji Vishwanath, a capable Chitpavan Brahmin administrator serving in Dhanaji's own service — a relationship that would prove enormously historically consequential, since Balaji Vishwanath played a significant role in the negotiations and calculations that led Dhanaji to ultimately throw his considerable military support behind Shahu's claim rather than continuing his prior loyalty to Tarabai's regency, a decision for which Balaji Vishwanath himself would later be substantially rewarded once Shahu's cause prevailed.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "Dhanaji's Fateful Decision",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Dhanaji Jadhavrao's decision to switch his allegiance from Tarabai's regency to Shahu's claim represented one of the single most consequential individual choices of the entire Maratha succession crisis, given Dhanaji's standing as the kingdom's most senior and experienced field commander after decades of continuous service through the war against Aurangzeb — his military support lent Shahu's cause a legitimacy and practical striking power that proved decisive in the confrontation that followed.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "The Battle of Khed",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "In 1707, forces loyal to Shahu, substantially strengthened by Dhanaji Jadhavrao's experienced troops, met Tarabai's regency forces in battle near Khed, achieving a decisive victory that fundamentally shifted the balance of the succession conflict in Shahu's favor — a battle in which Dhanaji's military experience and reputation, built across nearly two decades of continuous warfare against the Mughals, proved directly transferable to the internal Maratha political struggle in a way that shaped the kingdom's leadership for a generation to come.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "Securing Shahu's Throne",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Following the victory at Khed, Shahu's position as the legitimate Chhatrapati steadily strengthened, though Tarabai and her supporters continued to resist from a rival base at Kolhapur for years afterward, eventually resulting in a lasting, formal division of Maratha royal authority between two separate lines — the senior Satara branch under Shahu, and the Kolhapur branch descended from Rajaram and Tarabai's side — a division whose origins trace directly back to the military and political consequences of Dhanaji Jadhavrao's pivotal decision at this critical juncture.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "Dhanaji as Senapati Under Shahu",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Having played so decisive a role in securing Shahu's throne, Dhanaji Jadhavrao continued to serve as Senapati under the new Chhatrapati, occupying one of the kingdom's most senior military positions during the crucial early years of Shahu's reign, as the new ruler worked to consolidate his authority across a kingdom still recovering from decades of continuous warfare against the Mughals and freshly divided by the internal succession conflict with Tarabai's rival court.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "Final Years and Death",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Dhanaji Jadhavrao died within a few years of securing Shahu's throne, generally placed around 1708 or shortly afterward, bringing to a close a military career that had spanned some of the most demanding and historically consequential decades in the entire history of the early Maratha state — from the desperate guerrilla resistance following Sambhaji's execution through to the decisive intervention that determined which branch of the Bhonsle royal family would ultimately hold primary Maratha authority going forward.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "The Jadhavrao Legacy After Dhanaji",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Dhanaji's son, Chandrasen Jadhavrao, inherited his father's position and title of Senapati, but the Jadhavrao family's central importance within Maratha military and political affairs gradually diminished in the years that followed, as the office of Peshwa — the very position Balaji Vishwanath, once Dhanaji's own subordinate, would go on to hold and transform into the kingdom's most powerful hereditary office — increasingly eclipsed the older Senapati title in practical political significance across the following decades of Maratha history.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "Piecing Together Dhanaji's Story",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Much of what is known about Dhanaji Jadhavrao's career survives through later Maratha bakhars and chronicle traditions, alongside references in Mughal court records documenting the long war against Aurangzeb, and the subsequent, better-documented political history of the Shahu-Tarabai succession crisis. As with several other Maratha commanders of this intensely chaotic period, detailed contemporary documentation of his individual campaigns and specific battlefield achievements during the 1690s guerrilla war is considerably thinner than the more fully chronicled political drama of his later, succession-deciding role — a familiar pattern in which a military figure's most decisive historical impact is sometimes better documented than the years of grinding, less individually glamorous service that first established his reputation.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "Legacy: The General Who Chose a King",
+                    "duration": "5 min",
+                    "isLocked": true,
+                    "content": "Dhanaji Jadhavrao's historical legacy rests on two distinct but connected achievements: nearly two decades as one of the Maratha kingdom's most relentless and feared field commanders during the existential war against Aurangzeb, helping ensure that Sambhaji's execution did not extinguish Maratha resistance, and, in the war's aftermath, a single pivotal political decision — his choice to back Shahu over Tarabai at the Battle of Khed — that shaped the internal structure of Maratha royal authority for generations to come and, through his own subordinate Balaji Vishwanath, helped set in motion the eventual rise of the Peshwa dynasty that would come to dominate Maratha politics for the following century.",
+                    "audioUrl": null
+                }
+            ]
         }
     ],
     "mr": [
@@ -2878,6 +3348,476 @@
                     "duration": "५ मिनिटे",
                     "isLocked": true,
                     "content": "त्यांच्या मृत्युनंतरच्या शतकांत, महाराणा प्रताप त्यांच्या राज्यकाळाच्या ऐतिहासिक नोंदीहून एकट्याने स्पष्ट करता येण्यापेक्षा कितीतरी मोठे काहीतरी बनले आहेत — ते आज संपूर्ण भारतीय स्मृतीत कदाचित राजपूत सन्मान व प्रतिकाराचे एकच सर्वात गौरवशाली प्रतीक म्हणून उभे आहेत, त्यांचे नाव राजस्थानभर आणि त्यापलीकडे लोकपोवाडे, चित्रे, शालेय पाठ्यपुस्तके, आणि लोकप्रिय संस्कृतीत आवाहित केले जाते. त्यांनी जिंकलेल्या किंवा बांधलेल्या गोष्टींच्या प्रमाणासाठी प्रामुख्याने स्मरणात राहणाऱ्या अनेक गौरवशाली शासकांच्या विपरीत, प्रताप सर्वात महत्त्वाचे म्हणजे त्यांनी काय नाकारले यासाठी स्मरणात राहतात: सुखसोय, सुरक्षितता, आणि त्यांच्या काळातील सर्वात मोठ्या साम्राज्यात एक सुरक्षित, समृद्ध स्थान, हे सर्व वनवासातील किल्ले, संपत्ती, आणि खऱ्या कष्टाच्या वर्षांची किंमत मोजून एका स्वातंत्र्याच्या बाजूने नाकारले गेले. प्रताप आणि चेतक यांची स्मारके व पुतळे आज राजस्थानभर उभी आहेत, आणि हळदीघाटी तिथे लढल्या गेलेल्या लढाईनंतर जवळजवळ साडेचार शतकांनंतरही यात्रा व स्मरणाचे एक स्थळ राहते. जिथे अकबराचा स्वतःचा वारसा मोठ्या प्रमाणात त्याने विजय आणि माजी प्रतिस्पर्ध्यांच्या कुशल एकीकरणातून उभारलेल्या साम्राज्याच्या निव्वळ प्रमाणावर टिकून आहे, तिथे प्रतापांचा वारसा पूर्णपणे विरुद्ध उपलब्धीवर टिकून आहे — एक पुरावा, तो निर्माण करणारा राजकीय नकाशा नाहीसा झाल्यानंतरही स्मृतीत जतन केलेला, की त्या काळातील सर्वात शक्तिशाली साम्राज्यही प्रत्येक अभिमानी राज्याला गुडघे टेकायला भाग पाडू शकले नाही.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "king_009",
+            "title": "पुष्यमित्र शुंग: एका साम्राज्याचा अंत करणारा सेनापती",
+            "empire": "शुंग साम्राज्य",
+            "category": "राजे",
+            "period": "साधारण इ.स.पू. १८५-१४९",
+            "region": "मगध आणि मध्य भारत",
+            "narrator": "मीरा कुलकर्णी",
+            "languages": [
+                "मराठी",
+                "इंग्रजी"
+            ],
+            "duration": "६२ मिनिटे",
+            "rating": 4.5,
+            "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/download.webp",
+            "summary": "सैन्य-पाहणीदरम्यान आपल्याच राजाला ठार करणारा मौर्य सेनापती, बौद्ध-अनुकूल शासनाच्या दशकांनंतर वैदिक यज्ञ पुनरुज्जीवित करणारा, आणि इतिहासकार आजही ज्याबद्दल वाद घालतात असा एक राज्यकाळ मागे सोडणारा — पुनर्स्थापक की छळ करणारा?",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": true,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "मौर्य साम्राज्याचा दीर्घ क्षय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "इ.स.पू. दुसऱ्या शतकाच्या सुरुवातीपर्यंत, अशोकाच्या साधारण इ.स.पू. २३२ मधील मृत्युनंतर साधारण अर्धशतकाने, एकेकाळचे विशाल मौर्य साम्राज्य नाट्यमयपणे संकुचित झाले होते, त्याचे बाह्य प्रांत पाटलीपुत्रातील कमकुवत, कमी काळ राज्य करणाऱ्या शासकांच्या मालिकेत केंद्रीय नियंत्रणापासून दुरावले होते. शेवटचा मौर्य राजा, बृहद्रथ, या संकुचित साम्राज्याच्या उरलेल्या भागावर राज्य करत होता — अजूनही महत्त्वपूर्ण पण चंद्रगुप्ताने स्थापन केलेल्या आणि अशोकाने त्याच्या शिखरावर शासित केलेल्या उपखंडव्यापी सत्तेपासून खूप दूर गेलेले राज्य — आणि याच हळूहळू, दशकानुदशके चाललेल्या साम्राज्यीय क्षयाच्या पार्श्वभूमीवर, पुष्यमित्र शुंग, बृहद्रथाचाच स्वतःचा लष्करी सेनापती, आपली भवितव्य-निर्णायक आणि ऐतिहासिकदृष्ट्या निर्णायक हालचाल करणार होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "पुष्यमित्र शुंग: एका सेनापतीचा उदय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "पुष्यमित्र शुंगाने बृहद्रथाच्या नेतृत्वाखाली मौर्य सैन्याचा सेनापती, किंवा सेनापती, म्हणून सेवा केली, आणि तो शुंग कुटुंबातील होता, ज्याला नंतरचे स्रोत सर्वसाधारणपणे ब्राह्मण म्हणून ओळखतात — काही ऐतिहासिक महत्त्वाचा एक तपशील, कारण पुष्यमित्राचा सिंहासनापर्यंतचा अखेरचा उदय आणि त्याच्याशी संबंधित धार्मिक धोरणे इतिहासकार अनेकदा अशोकाच्याच राज्यकाळाच्या तीव्र बौद्ध संबंधांपासून दूर जाणाऱ्या आणि पुनरुज्जीवित ब्राह्मणी राजेशाही आश्रयाकडे वळणाऱ्या एका व्यापक बदलाचे प्रतिबिंब म्हणून वाचतात, जरी पुष्यमित्राच्या स्वतःच्या नेमक्या वैयक्तिक धार्मिक श्रद्धा, नंतरच्या परंपरेने त्याच्या राज्यकाळाचा केलेल्या राजकीय व प्रतीकात्मक वापराच्या विरुद्ध, पूर्ण निश्चिततेने स्थापित करणे कठीण राहते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "बृहद्रथाची हत्या",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "संस्कृत लेखक बाणभट्टानुसार, जो शतकांनंतर हर्षचरितात आपले वृत्तांत रचत होता, पुष्यमित्राने बृहद्रथाची वैयक्तिकरीत्या आणि थेट हत्या केली, एका औपचारिक लष्करी संचलनादरम्यान आपल्याच सैन्याची पाहणी करत असताना त्याला ठार केले — एक धक्कादायकपणे जिवलग आणि विश्वासघातकी कृती, एका विश्वासू सेनापतीने ज्या राजाच्या सैन्याची तो पाहणी करत होता त्याच राजाविरुद्ध केलेली, मौर्य राजवंशाच्या साधारण एकशेसदतीस वर्षांच्या शासनाला साधारण इ.स.पू. १८५ मध्ये, किंवा काही पर्यायी कालक्रमीय पुनर्रचनांनुसार त्याहून काही वर्षे आधी, अचानक संपवत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "एक नवा राजवंश सुरू होतो",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "बृहद्रथाच्या हत्येनंतर, पुष्यमित्र शुंगाने मगध सिंहासन स्वतःसाठी दावा केला, शुंग राजवंशाची स्थापना करत जो, पौराणिक राजयादींनुसार, दहा सलग राजांतून साधारण ११२ वर्षे राज्य करणार होता — एक असा राजवंश जो त्याने बदलेल्या मौर्य साम्राज्यापेक्षा प्रादेशिक व्याप्तीत बराच लहान आणि ऐतिहासिकदृष्ट्या कमी गौरवशाली होता, पण तरीही प्राचीन भारतीय धार्मिक, कलात्मक, आणि राजकीय इतिहासातील एका निर्णायक संक्रमणकालीन कालखंडावर देखरेख करणारी शासकीय सत्ता म्हणून महत्त्वपूर्ण.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "शुंग मातृभूमी आणि राजधानी",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "पुष्यमित्र पाटलीपुत्रातूनच राज्य करत राहिला, त्याच गंगातटीय राजधानीतून जिने त्याच्याआधी मौर्य राजवंशाची सेवा केली होती, जरी शुंग प्रदेश स्वतः, बहुतांश पुनर्रचनांनुसार, त्याच्या शिखरावरील मौर्य साम्राज्याहून बराच लहान दिसतो, मुख्यतः गंगातटीय मध्यवर्ती प्रदेश आणि मध्य भारतभर केंद्रित, अशोकाने एकेकाळी आज्ञापित केलेल्या संपूर्ण उपखंडीय पोहोचावर विस्तारण्याऐवजी. मध्य भारतातील विदिशा नगरही शुंग सत्तेचे एक महत्त्वाचे दुय्यम केंद्र म्हणून उदयास आले, विशेषतः पुष्यमित्राचा पुत्र आणि उत्तराधिकारी याच्या काळात, राजवंशाचे पारंपरिक मगध गाभ्यापलीकडील मध्य भारतीय प्रदेशातील स्पष्ट धोरणात्मक व प्रशासकीय स्वारस्य प्रतिबिंबित करत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "शुंग कालक्रम जुळवत आणणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राच्या राज्यकाळाचा आणि व्यापक शुंग राजवंशाचा नेमका कालक्रम पुनर्रचित करणे मोठ्या प्रमाणात पौराणिक राजयादींवर अवलंबून आहे, ज्या सलग शासकांसाठी राज्यवर्षांची एकूण संख्या पुरवतात पण त्या नेहमी अंतर्गतरीत्या सुसंगत किंवा इतर उपलब्ध पुराव्यांशी सहज जुळवता येण्याजोग्या नसतात, त्याचबरोबर विखुरलेले शिलालेख, नाणी, आणि शुंग काळातच किंवा त्यानंतर लगेच रचल्या गेलेल्या नंतरच्या साहित्यकृतींच्या साक्षीसह. या स्रोतांच्या संयोगातून इतिहासकारांना शुंग शासनाची एक व्यापकपणे विश्वासार्ह रूपरेषा स्थापित करता येते, सर्वसाधारणपणे राजवंशाच्या संपूर्ण दहा-राजांच्या व्याप्तीभर साधारण इ.स.पू. १८५ ते ७३ पर्यंत दिनांकित केली जाते, जरी पुष्यमित्राच्या स्वतःच्या साधारण छत्तीस वर्षांच्या राज्यकाळातील वैयक्तिक घटनांच्या नेमक्या तारखा अजूनही काही सुरू असलेल्या शैक्षणिक समायोजनाच्या अधीन राहतात.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "मौर्यांहून लहान साम्राज्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "अशोकाच्या नेतृत्वाखालील मौर्य साम्राज्याच्या विपरीत, ज्याने आपला अधिकार, थेट किंवा खंडणीदार संबंधांतून, जवळजवळ संपूर्ण भारतीय उपखंडावर विस्तारला होता, पुष्यमित्राचे शुंग राज्य बऱ्याच माफक प्रदेशावर शासन करत होते, पूर्व किनारपट्टीवरील कलिंगासारखे प्रदेश पूर्ण स्वातंत्र्य पुन्हा ठामपणे मांडत, आणि साम्राज्याचे पूर्वीचे वायव्य प्रदेश वाढत्या प्रमाणात या प्रदेशातील आधीच्या सेल्युसिड व बॅक्ट्रियन ग्रीक उपस्थितीतून उतरलेल्या इंडो-ग्रीक राज्यांच्या प्रभावाखाली जात — केंद्रीय अधिकाराचे एक खरे आणि महत्त्वपूर्ण संकोचन जे पुष्यमित्राने शासित केलेल्या व्यावहारिक राजकीय वास्तवाला व्याख्यित करते, शुंग शिलालेख आणि नाणी कोणत्याही भव्य साम्राज्यीय पदव्यांचा दावा सुरू ठेवत असोत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "अश्वमेध: वैदिक राजशाहीचे पुनरुज्जीवन",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राला अश्वमेध, किंवा अश्व-यज्ञ, केल्याचे श्रेय दिले जाते, एक विस्तृत आणि प्राचीन वैदिक राजेशाही विधी ज्यात एका पवित्र केलेल्या घोड्याला एका वर्षासाठी मुक्तपणे भटकू दिले जात असे, त्याचा मार्ग प्रायोजक राजाचा न्याय्य प्रदेश म्हणून दावा केला जाई, राजाचे सर्वोच्च सार्वभौमत्व प्रस्थापित करण्यासाठी अखेर त्याचा विधीपूर्वक यज्ञ केला जात असे — मौर्य राजवंशाच्या स्वतःच्या राजेशाही प्रथेतून उल्लेखनीयरीत्या अनुपस्थित असलेला एक विधी, विशेषतः अशोकाच्या बौद्ध-प्रभावित राज्यकाळात, आणि ज्याचे पुष्यमित्राच्या नेतृत्वाखालील पुनरुज्जीवन इतिहासकार व्यापकपणे मौर्यांच्या स्पष्टपणे वेगळ्या धार्मिक दिशानिर्देशाच्या दशकांनंतर पुनरुज्जीवित ब्राह्मणी, वैदिक-शैलीच्या राजशाहीचे एक जाणीवपूर्वक प्रतीकात्मक ठाम प्रतिपादन म्हणून वाचतात.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "पतंजली आणि व्याकरणकाराची साक्ष",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राच्या राज्यकाळासाठी ऐतिहासिकदृष्ट्या सर्वात मौल्यवान पुराव्यांपैकी एक राजेशाही शिलालेखातून नव्हे तर संस्कृत व्याकरणाच्या एका ग्रंथातून येतो: पतंजलीचा महाभाष्य, एक गाजलेला व्याकरणकार जो पारंपरिकपणे पुष्यमित्राच्याच काळात जगला असे मानले जाते, त्याच्या उदाहरण-वाक्यांत 'इह पुष्यमित्रं याजयामः' — 'येथे आम्ही पुष्यमित्रासाठी यज्ञ करत आहोत' — हे वाक्य समाविष्ट करतो — एक धक्कादायक, जवळ-समकालीन साहित्यिक संदर्भ जो पुष्यमित्राच्या ऐतिहासिक अस्तित्वाची आणि नंतरची पौराणिक परंपराही त्याच्या राज्यकाळाशी जोडते त्याच अश्वमेध विधीच्या त्याने केलेल्या कामगिरीची दोन्हींची दुर्मीळ स्वतंत्र पुष्टी पुरवतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "बौद्ध आश्रयानंतर ब्राह्मणी पुनरुज्जीवन",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राचा धार्मिक आश्रय, त्याच्या अश्वमेध यज्ञांसह, इतिहासकार सर्वसाधारणपणे साधारण अर्धशतकापूर्वीच्या अशोकाच्या तीव्र बौद्ध-संबंधित राज्यकाळानंतरच्या राजेशाही धार्मिक दिशानिर्देशातील एक व्यापक आणि खऱ्या अर्थाने महत्त्वपूर्ण बदलाचा भाग म्हणून समजतात — पारंपरिक वैदिक व ब्राह्मणी विधी आणि राजेशाही वैधता-प्रथांकडे एक आंशिक परतावा, ज्यांना अशोकाच्याच राज्यकाळाने, धम्मावरील आपल्या भरासह आणि स्पष्ट बौद्ध आश्रयासह, लक्षणीयरीत्या दुय्यम ठरवले होते, जरी अशोकाने स्वतः कधीही ब्राह्मणी धार्मिक प्रथेचा छळ केला नव्हता आणि आपल्याच शिलालेखांत अनेक धार्मिक परंपरांत सहिष्णुता व पाठिंब्याचे स्पष्ट आवाहन केले होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "बौद्धविरोधी छळाचा प्रश्न",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "दिव्यावदानासह अनेक नंतरचे बौद्ध साहित्यिक स्रोत निव्वळ ब्राह्मणी पुनरुज्जीवनाच्या वर्णनाहून बरेच पुढे जातात, पुष्यमित्राला बौद्ध धर्माचा एक हिंसक छळ करणारा म्हणून स्पष्टपणे चित्रित करतात ज्याने कथितरीत्या आपल्या प्रदेशभरातील मठ व स्तूप नष्ट केले आणि त्याच्याकडे आणलेल्या कोणत्याही बौद्ध भिक्षूच्या कापलेल्या डोक्यासाठी एक आर्थिक बक्षीस देऊ केले — असा असामान्यपणे गंभीर आरोप जो, जर अचूक असेल, तर प्राचीन भारतीय इतिहासातील राज्य-प्रायोजित धार्मिक हिंसाचाराच्या सर्वात महत्त्वपूर्ण घटनांपैकी एकाचे प्रतिनिधित्व करेल.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "बौद्ध स्रोतांचे मूल्यमापन",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "आधुनिक इतिहासकार या विशिष्ट छळाच्या दाव्यांना सरळपणे स्थापित तथ्य म्हणून स्वीकारण्याऐवजी खरी आणि लक्षणीय सावधगिरी बाळगून हाताळतात, नोंदवत की ते मुख्यतः पुष्यमित्राच्या प्रत्यक्ष राज्यकाळानंतर पिढ्यानंतर रचलेल्या बौद्ध साहित्यिक स्रोतांतूनच टिकून आहेत, ज्यांना अशोकाच्या बौद्ध-अनुकूल राजवंशाला संपवणाऱ्या राजाला शक्य तितक्या नकारात्मक शब्दांत चित्रित करण्यात स्पष्ट धार्मिक व कथानकीय स्वारस्य होते — असा शत्रुत्वपूर्ण स्रोत-चित्रणाचा एक पॅटर्न जो ब्राह्मणी पौराणिक स्रोतांनी आधी नीच-कुळातील नंद राजवंशाला कसे चित्रित केले होते, किंवा नंतरच्या राष्ट्रवादी पुनःकथनांनी इतर ऐतिहासिक शासकांच्या लोकस्मृतीला कसे घडवले आहे याच्याशी थेट तुलनीय आहे. खाली पुढे चर्चिलेला शुंग काळातील पुरातत्त्वीय पुरावाही व्यापक छळाच्या कोणत्याही साध्या कथानकाला गुंतागुंतीचे बनवतो, कारण तो याच काळातच सुरू राहिलेल्या, सक्रिय बौद्ध कलात्मक व स्थापत्यशास्त्रीय क्रियाकलाप दाखवतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "सांची आणि बौद्ध कलेची निरंतरता",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "कदाचित छळाच्या कथानकाला सर्वात गुंतागुंतीचे बनवणारा सर्वात मजबूत पुरावा सांची येथील महान बौद्ध स्तूप संकुलातून येतो, जिथे मूळ अशोककालीन स्तूप-गाभ्याभोवती नंतर जोडलेल्या दगडी कठडे व प्रवेशद्वार संरचनांसह लक्षणीय स्थापत्यशास्त्रीय विस्तार व अलंकरण कला-इतिहासकार सर्वसाधारणपणे नेमक्या शुंग काळातच दिनांकित करतात, सुचवत की पुष्यमित्राच्या स्वतःच्या वैयक्तिक धार्मिक प्राधान्यांची पर्वा न करता, बौद्ध धार्मिक व कलात्मक क्रियाकलाप शुंग शासनादरम्यान प्रमुख स्थळांवर स्पष्टपणे सुरूच राहिला, आणि काही अर्थांनी सक्रियपणे बहरतच राहिला — असा पॅटर्न जो शत्रुत्वपूर्ण बौद्ध साहित्यिक स्रोतांतील अधिक टोकाच्या छळ-दाव्यांशी पूर्णपणे जुळवून घेणे कठीण आहे.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "ग्रीक धोका: डेमेट्रियस आणि इंडो-ग्रीक",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राचा राज्यकाळ वायव्येकडील आधीच्या ग्रीको-बॅक्ट्रियन उपस्थितीतून उतरलेल्या इंडो-ग्रीक राज्यांच्या वाढत्या लष्करी दबावाशी एकाच वेळी घडला, विविध स्रोत शुंग प्रदेशात झालेल्या एका महत्त्वपूर्ण घुसखोरीला बॅक्ट्रियाचा डेमेट्रियस पहिला किंवा, काही पुनर्रचनांनुसार, त्याचा उत्तराधिकारी मेनेंडर यांसारख्या शासकांशी जोडतात — सेल्युसिड साम्राज्याच्या आधीच्या पूर्वेकडील प्रदेशांच्या पाठोपाठ स्थापन झालेली ग्रीक-वंशीय राज्ये, ज्यांची राज्ये या काळात पूर्वीच्या मौर्य आणि आता शुंग-नियंत्रित भूमीत वाढत्या प्रमाणात घुसत होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "मालविकाग्निमित्रम्: इतिहास-स्रोत म्हणून एक नाटक",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "या इंडो-ग्रीक सैन्यांशी शुंग लष्करी संघर्षाबद्दल जे काही ज्ञात आहे त्यातील बरेचसे एका अनपेक्षित स्रोतातून येते: मालविकाग्निमित्रम्, गाजलेल्या कवी कालिदासाने बरेच नंतर रचलेले एक संस्कृत दरबारी नाटक, पुष्यमित्राचा पुत्र अग्निमित्र याच्याशी संबंधित एका रोमँटिक कथानकाभोवती केंद्रित, पण जे प्रासंगिकपणे सिंधू नदीलगत ग्रीक ('यवन') सैन्याविरुद्धच्या एका लष्करी मोहिमेचा संदर्भ देते, पुष्यमित्राचा नातू वसुमित्र याच्या नेतृत्वाखाली लढलेल्या — एक आठवण की, नंद-मौर्य संक्रमणाचे तपशील जतन करण्यात मुद्राराक्षसच्या भूमिकेप्रमाणेच, संस्कृत साहित्यकृती त्यांनी वर्णन केलेल्या घटनांच्या पिढ्यानंतर रचलेल्या असूनही कधीकधी ऐतिहासिकदृष्ट्या मौल्यवान, नेहमी अचूकपणे पडताळणीयोग्य नसली तरी, माहिती जतन करतात जी इतर कोणत्याही टिकून राहिलेल्या स्रोतातून उपलब्ध नसते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "सिंधूकाठची लढाई",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "मालविकाग्निमित्रम् वसुमित्राने सिंधू नदीच्या काठावर लढलेल्या एका लढाईत ग्रीक घुसखोरी यशस्वीरीत्या परतवल्याचे वर्णन करते — बहुतांश आधुनिक भौगोलिक पुनर्रचनांनुसार, हे बहुधा वायव्येकडील त्याच नावाच्या कितीतरी मोठ्या सिंधू नदीऐवजी मध्य भारतातील चंबळची एक उपनदी आहे — एक शुंग लष्करी यश जे, त्याचे नेमके प्रमाण व धोरणात्मक महत्त्व काहीही असो, सुचवते की राजवंशाने या काळात त्याच्या प्रदेशाविरुद्ध वाढत्या इंडो-ग्रीक दबावाच्या किमान काही भागाला प्रतिकार करण्याची व परतवण्याची खरी क्षमता राखली, जरी जुन्या मौर्य साम्राज्याचे व्यापक वायव्य प्रदेश पुढील दशकांत अधिक कायमस्वरूपी इंडो-ग्रीक नियंत्रणाकडे वाहत राहिले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "वसुमित्र आणि तरुण पिढी",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "वसुमित्र, मालविकाग्निमित्रम्मध्ये ग्रीक घुसखोरीविरुद्ध शुंग सैन्याचे नेतृत्व केल्याचे श्रेय दिलेला, राजवंशाच्या तिसऱ्या पिढीचे प्रतिनिधित्व करतो — पुष्यमित्राचा नातू आणि बहुधा अग्निमित्राचा पुत्र — आणि पुष्यमित्राच्याच हयातीत किंवा राज्यकाळात दिसणारी त्याची प्रमुख लष्करी भूमिका, प्राचीन राजशाही राजवंशांत असामान्य नसलेल्या एका पॅटर्नला सुचवते, ज्यात राज्य करणारा राजा व्यावहारिक शासन आणि राजवंशीय वारसाहक्काच्या तयारीचा भाग म्हणून सक्षम तरुण पुरुष नातेवाईकांना महत्त्वपूर्ण लष्करी आदेश सोपवत असे.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "विदिशा येथे अग्निमित्र",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राचा पुत्र अग्निमित्र आपल्या वडिलांच्या राज्यकाळात मध्य भारतातील विदिशा येथे उपराज्यपाल म्हणून सेवा करत होता, खऱ्या प्रादेशिक अधिकाराचे एक पद जे विदिशाचे खुद्द पाटलीपुत्रासोबत एक महत्त्वाचे दुय्यम शुंग सत्ताकेंद्र म्हणून उदय होणे दोन्ही प्रतिबिंबित करत होते आणि बळकट करत होते. पुष्यमित्राच्या मृत्युनंतर अग्निमित्राचा मुख्य शुंग सिंहासनापर्यंतचा अखेरचा वारसाहक्क, प्राचीन भारतीय शासकीय घराण्यांत सामान्य असलेल्या, राजपुत्रांसाठी प्रादेशिक उपराज्यपालपदाचा वापर व्यावहारिक प्रशासकीय प्रशिक्षण आणि केंद्रीय अधिकाराच्या अखेरच्या वारसाहक्कासाठीची दाखवलेली तयारी या दोन्हींसाठी करण्याच्या राजवंशाच्या सुरू असलेल्या पद्धतीचे प्रतिनिधित्व करतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "कलिंग प्रश्न: खारवेलाचा शिलालेख",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "कलिंगाचा राजा खारवेल याचा हाथीगुम्फा शिलालेख, पुष्यमित्राच्याच राज्यकाळानंतर बराच काळाने रचलेला, एक कलिंगन लष्करी मोहीम वर्णन करतो जी कथितरीत्या गंगा नदीपर्यंत पोहोचली आणि 'बहसतिमित' म्हणून संबोधलेल्या एका शासकाला तिच्यापुढे पळून जाण्यास भाग पाडले — असे नाव जे काही इतिहासकारांनी एका शुंग राजाशी, संभाव्यतः खुद्द पुष्यमित्राशी किंवा कदाचित नंतरच्या एका उत्तराधिकाऱ्याशी, ओळखण्याचा प्रस्ताव मांडला आहे, जरी खारवेलाच्या कोरलेल्या नावाला पौराणिक शुंग राजयादीशी जुळवण्यात गुंतलेल्या भरीव भाषाशास्त्रीय व कालक्रमीय अनिश्चिततेमुळे ही ओळख तज्ज्ञांत खरोखरच वादग्रस्त आणि न सुटलेली राहते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "विखुरत जाणाऱ्या साम्राज्याचे शासन",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "ग्रीक आणि शक्यतो कलिंगन दबावाविरुद्धच्या वैयक्तिक लष्करी मोहिमांचे नेमके तपशील काहीही असोत, पुष्यमित्राच्या राज्यकाळाची व्यापक पद्धत एका शासकाचे प्रतिबिंब उमटवते जो अशोकाने एकेकाळी वापरलेल्या सुरक्षित, उपखंडव्यापी अधिकारासारख्या कशाचीही आज्ञा करण्याऐवजी खऱ्या अर्थाने संकुचित होत आणि वाढत्या प्रमाणात वादग्रस्त होत असलेला साम्राज्यीय वारसा व्यवस्थापित करत होता — असा राजा ज्याचा राज्यकाळ, मौर्य शासनापासूनच्या संक्रमणाला चिन्हांकित करण्यात त्याचे सर्व प्रतीकात्मक महत्त्व असूनही, कोणत्याही विजयी नव्या साम्राज्यीय विस्ताराच्या टप्प्याइतकाच वाढत्या बाह्य दबावांविरुद्धच्या बचावात्मक बळकटीकरणाने व्याख्यित होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "शुंगांच्या काळातील समाज आणि संस्कृती",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "शुंग कालखंड इतिहासकार सर्वसाधारणपणे दरबारात पुनरुज्जीवित ब्राह्मणी प्रभाव प्रतिबिंबित करणाऱ्या एका व्यापक सांस्कृतिक व धार्मिक वातावरणाशी जोडतात, त्याचबरोबर, सांचीचा पुरावा दाखवतो त्याप्रमाणे, त्याच प्रदेशाच्या बहुतांश भागात सुरू राहिलेल्या आणि खऱ्या अर्थाने बहरणाऱ्या बौद्ध धार्मिक व कलात्मक क्रियाकलापांशीही — धार्मिक सहअस्तित्व व गुंतागुंतीचा एक पॅटर्न जो सरळपणे एकतर ब्राह्मणी पुनर्स्थापना किंवा पद्धतशीर बौद्धविरोधी दडपणुकीचा कालखंड म्हणून सहज चित्रित करण्याला प्रतिकार करतो, आणि त्याऐवजी शुंग-नियंत्रित प्रदेशभर बहुधा प्रचलित असलेल्या अधिक स्तरित, प्रादेशिकदृष्ट्या भिन्न धार्मिक वास्तविकतेचे प्रतिबिंब उमटवतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "कला व स्थापत्यकला: भरहुत स्तूप",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "सुप्रसिद्ध सांची विस्तारांपलीकडे, बौद्ध जातककथांतील प्रसंग व सुरुवातीच्या कथानकीय रिलीफ्स चित्रित करणाऱ्या विस्तृतपणे कोरलेल्या दगडी कठड्यांसह भरहुत येथील बौद्ध स्तूपही सर्वसाधारणपणे शुंग कालखंडात दिनांकित केला जातो, भारतीय कला-इतिहासातील कथानकीय शिल्पकलेच्या सर्वात जुन्या भरीव टिकून राहिलेल्या उदाहरणांपैकी काहींचे प्रतिनिधित्व करत — सांचीसह, शुंग-युगीन भारतात कुठेतरी सुरू राहिलेल्या आणि खऱ्या अर्थाने महत्त्वपूर्ण बौद्ध कलात्मक आश्रयाचा आणखी भौतिक पुरावा, मग तो थेट राजेशाही-प्रायोजित असो किंवा, कदाचित अधिक शक्य आहे, शुंग राज्याने सुरू राहू व बहरू दिलेल्या एका व्यापक राजकीय वातावरणात कार्यरत असलेल्या श्रीमंत गृहस्थ बौद्ध समुदाय व व्यापाऱ्यांनी समर्थित असो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "पुष्यमित्राची शेवटची वर्षे आणि मृत्यू",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राच्या साधारण छत्तीस वर्षांच्या राज्यकाळाची शेवटची वर्षे टिकून राहिलेल्या स्रोतांत पौराणिक राजयादी, पतंजलीचा व्याकरणात्मक संदर्भ, आणि त्याच्या नातवाच्या लष्करी मोहिमेबद्दलचे मालविकाग्निमित्रम्चे वृत्तांत यांतून आधीच स्थापित झालेल्या व्यापक रूपरेषेपलीकडे लक्षणीय अतिरिक्त कथानकीय तपशिलाने दस्तऐवजीकृत नाहीत — एका शासकाच्या नंतरच्या वर्षांकडे तपशील तोकडा होत जाण्याचा एक पॅटर्न जो, याच खोलीत हाताळलेल्या इतर अनेक प्राचीन भारतीय राजवंशांप्रमाणेच, प्राचीन स्रोतांनी ऐतिहासिकदृष्ट्या महत्त्वपूर्ण राज्यकाळांच्याही वेगवेगळ्या टप्प्यांचे किती असमानपणे दस्तऐवजीकरण केले याचे वैशिष्ट्यपूर्ण उदाहरण आहे.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "पुष्यमित्रानंतरचा शुंग राजवंश",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्राच्या मृत्युनंतर, सर्वसाधारणपणे साधारण इ.स.पू. १४९ मध्ये ठेवले जाते, त्याचा पुत्र अग्निमित्र दुसरा शुंग राजा म्हणून त्याच्यानंतर आला, एक राजवंश चालू ठेवत जो आणखी साधारण पंचाहत्तर वर्षे आठ पुढील सलग शासकांतून टिकणार होता, ज्यांच्यापैकी कोणीही राजवंशाच्या संस्थापकाशी तुलनीय ऐतिहासिक प्रमुखता साध्य केली नाही किंवा तुलनीय प्रादेशिक व्याप्तीचा पुरावा मागे सोडला नाही, पुष्यमित्राच्याच निर्णायक हस्तक्षेपापूर्वीच्या मौर्य राजवंशाच्याच शेवटच्या दशकांत दिसलेल्या हळूहळू, अनेक-पिढ्यांच्या क्षयाच्या व्यापक पॅटर्नशी साम्य नसलेला असे नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "शुंगांचा पाडाव",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "शुंग राजवंशाचे साधारण ११२ वर्षांचे शासन अखेर साधारण इ.स.पू. ७३ मध्ये संपले, जेव्हा शेवटचा शुंग राजा, देवभूती, याची त्याच्याच मंत्री, वासुदेव कण्व, याने हत्या केली, ज्याने नंतर पुढील कण्व राजवंशाची स्थापना केली — असा अंत जो, एका विश्वासू वरिष्ठ अधिकाऱ्याने आपण सेवा करत असलेल्या राज्य करणाऱ्या राजाला हिंसकपणे विस्थापित करण्याच्या आपल्या मूलभूत संरचनात्मक पॅटर्नमध्ये, पुष्यमित्र स्वतः एका शतकाहूनही आधी मौर्य राजा बृहद्रथाची हत्या करून सत्तेवर कसा आला होता याच्याशी एक उल्लेखनीय आणि कदाचित ऐतिहासिकदृष्ट्या विडंबनात्मक साम्य बाळगतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "पुष्यमित्राचा राज्यकाळ जुळवत आणणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्र शुंगाचा राज्यकाळ पुनर्रचित करण्यासाठी एकमेकांविरुद्ध एका असामान्यपणे वैविध्यपूर्ण पुराव्यांच्या संचाचे मूल्यमापन करावे लागते: मूलभूत कालक्रमीय आराखडा पुरवणाऱ्या पौराणिक राजयादी; स्थापक हत्येचे वर्णन करणारे बाणभट्टाचे कितीतरी नंतरचे हर्षचरित; अश्वमेधाची पुष्टी करणारा पतंजलीचा जवळ-समकालीन व्याकरणात्मक संदर्भ; छळाचा आरोप करणारे शत्रुत्वपूर्ण बौद्ध साहित्यिक स्रोत; दरबारी नाटकाच्या माध्यमातून लष्करी तपशील जतन करणारे कालिदासाचे मालविकाग्निमित्रम्; आणि याच शत्रुत्वपूर्ण बौद्ध स्रोतांनी मांडलेल्या छळाच्या कथानकाला गुंतागुंतीचे बनवणारा सांची व भरहुतमधील भौतिक पुरातत्त्वीय पुरावा. कोणताही एक स्रोत-प्रकार एकट्याने पूर्णपणे विश्वासार्ह किंवा संपूर्ण चित्र पुरवत नाही, आणि जबाबदार ऐतिहासिक पुनर्रचनेला कोणत्याही एका परंपरेचे चित्रण जसेच्या तसे स्वीकारण्याऐवजी त्या सर्वांतून काळजीपूर्वक त्रिकोणीकरण करावे लागते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 27,
+                    "title": "वारसा: साम्राज्य आणि राज्य यांच्यामध्ये",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "पुष्यमित्र शुंगाचे ऐतिहासिक महत्त्व त्याने शासित केलेल्या राज्याच्या प्रादेशिक प्रमाणात कमी आहे, जे कधीच त्याच्या शिखरावरील मौर्य आयामांच्या जवळपासही पोहोचले नाही, त्याहून अधिक त्याचा राज्यकाळ प्रतिनिधित्व करत असलेल्या निर्णायक संक्रमणकालीन क्षणात आहे: मौर्य शासनाचा निश्चित अंत, अशोकाच्या स्पष्टपणे वेगळ्या धार्मिक धोरणाच्या दशकांनंतर ब्राह्मणी वैदिक राजेशाही विधी व आश्रयाचे एक खरे आणि ऐतिहासिकदृष्ट्या महत्त्वपूर्ण आंशिक पुनरुज्जीवन, आणि असा एक राज्यकाळ ज्याचे खरे धार्मिक स्वरूप — मग ते खऱ्या छळाने चिन्हांकित असो किंवा सुरू राहिलेल्या बौद्ध बहरासोबतच केवळ पुनर्दिशांकित आश्रयाने — प्राचीन भारतीय इतिहासातील खऱ्या अर्थाने वादग्रस्त आणि सक्रियपणे चर्चिल्या जाणाऱ्या प्रश्नांपैकी एक राहते, नेमके यामुळेच की त्याचे वर्णन करणारे टिकून राहिलेले स्रोत त्याच्या स्मृतीला कशी घडवायची यात इतक्या स्पष्टपणे वेगळे हितसंबंध असलेल्या पक्षांनी रचले होते.",
+                    "audioUrl": null
+                }
+            ]
+        },
+        {
+            "id": "king_010",
+            "title": "धनाजी जाधवराव: मराठा साम्राज्याचे सेनापती",
+            "empire": "मराठा साम्राज्य",
+            "category": "सेनापती",
+            "period": "साधारण इ.स. १६५०-१७०८",
+            "region": "दख्खन, महाराष्ट्र",
+            "narrator": "आरव देशमुख",
+            "languages": [
+                "मराठी",
+                "इंग्रजी"
+            ],
+            "duration": "५८ मिनिटे",
+            "rating": 4.6,
+            "coverEmoji": "DJ",
+            "summary": "संभाजींच्या फाशीनंतर औरंगजेबाच्या सत्तावीस वर्षांच्या युद्धात मराठा प्रतिकार जिवंत ठेवणारा रणांगणीय सेनापती, आणि खेडवरील त्याच्या एका निर्णायक निष्ठा-निवडीने पुढे राज्यावर कोण राज्य करणार हे ठरवले.",
+            "isPremium": false,
+            "isNew": true,
+            "isKing": false,
+            "progress": null,
+            "chapters": [
+                {
+                    "number": 1,
+                    "title": "औरंगजेबाविरुद्धचे दीर्घ युद्ध",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "इ.स. १६८१ मध्ये सम्राट औरंगजेबाने आपले संपूर्ण मुघल दरबार आणि सैन्य दख्खनात हलवले, शिवाजींनी उभारलेले आणि संभाजींनी वारशाने घेतलेले तरुण मराठा राज्य चिरडून टाकण्याचा निर्धार बाळगत, तेव्हा त्याला याची कल्पना नव्हती की परिणामी संघर्ष त्याच्या स्वतःच्या उर्वरित आयुष्याचा आणि राज्यकाळाचा घास घेणार आहे — एक झिजवणारे, सत्तावीस वर्षांचे युद्ध जे अखेर मराठा शरणागतीत नव्हे तर मुघल थकव्यात संपणार होते. याच प्रदीर्घ, क्रूर संघर्षात, आणि विशेषतः इ.स. १६८९ मधील संभाजींच्या फाशीनंतरच्या हताश वर्षांत, धनाजी जाधवराव संपूर्ण युद्धातील दोन सर्वात गौरवशाली मराठा रणांगणीय सेनापतींपैकी एक म्हणून उदयास आले, आपले समकालीन आणि कधीकधी प्रतिस्पर्धी संताजी घोरपडे यांच्यासोबत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 2,
+                    "title": "धनाजी जाधवराव: मूळ आणि सुरुवातीची सेवा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "धनाजी जाधवराव जाधवराव कुळाशी संबंधित होते, लष्करी सेवेची प्रस्थापित परंपरा असलेले एक मराठा कुटुंब, आणि संभाजींच्या राज्यकाळातील कठीण वर्षांत ते मराठा सैन्यातील पदांतून वर चढले, जेव्हा राज्याला औरंगजेबाच्या पुढे सरकणाऱ्या मुघल सैन्याकडून सततच्या दबावासोबतच जंजिऱ्याच्या सिद्दींशी आणि पोर्तुगीज गोव्याशी सुरू असलेल्या घर्षणालाही तोंड द्यावे लागत होते. संभाजींची अटक व फाशीनंतरच्या हताश प्रतिकाराच्या वर्षांत ते स्पष्ट ऐतिहासिक दृष्टिकोनात उदयास येण्यापूर्वी धनाजींच्या विशिष्ट सुरुवातीच्या कारकिर्दीबद्दल आणि उदयाबद्दल टिकून राहिलेल्या स्रोतांत तुलनेने कमी दस्तऐवजीकरण झाले आहे, ज्यांची कीर्ती नंतर, युद्धाच्या अधिक जोरदार इतिवृत्तीकृत संकटकाळात कमावली गेली अशा लष्करी सेनापतींसाठी असामान्य नसलेला सुरुवातीच्या कारकिर्दीच्या तुटपुंज्या दस्तऐवजीकरणाचा एक पॅटर्न.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 3,
+                    "title": "मराठा सेवेतील जाधवराव कुटुंब",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "जाधवराव कुटुंबाचा मराठा लष्करी सेवेशी असलेला संबंध मराठा राज्यातील एका व्यापक पॅटर्नचे प्रतिबिंब होता, ज्यात केवळ वंशपरंपरागत राजेशाही सरदारांऐवजीच प्रस्थापित युद्धखोर कुटुंबांतील सक्षम सेनापतींवरही वरिष्ठ लष्करी आदेश सोपवला जात असे — मावळ प्रदेशातील कणखर स्थानिक कुटुंबांतून स्वराज्याचे अधिकारीवर्ग उभारण्याच्या शिवाजींच्याच मूळ दृष्टिकोनापर्यंत मागे जाणारी एक गुणवत्ताधारी परंपरा, आणि जी राज्याला औरंगजेबाच्या सततच्या आक्रमणाखाली आपल्या अस्तित्वाच्या सर्वात मोठ्या बाह्य धोक्याला सामोरे जावे लागत असतानाही आपली सर्वात महत्त्वाची लष्करी पदे कशी भरत राहते हे घडवत राहिली.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 4,
+                    "title": "संभाजींच्या नेतृत्वाखाली पदांतून वर चढणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "संभाजींच्या साधारण नऊ वर्षांच्या राज्यकाळात, मराठा राज्य एकाच वेळी अनेक आघाड्यांवर लढत होते, आणि धनाजींसारख्या सक्षम रणांगणीय सेनापतींना राज्याच्या जवळजवळ सततच्या युद्धस्थितीत लष्करी कौशल्य दाखवण्याची भरपूर संधी मिळत होती. या काळातील धनाजींच्या विशिष्ट झुंजींचे तपशीलवार वृत्तांत विस्तृतपणे जतन केलेले नसले तरी, संभाजींच्या मृत्युनंतरच्या आणखी मागणी करणाऱ्या वर्षांतील त्यांची नंतरची प्रमुखता जोरकसपणे सुचवते की त्यांनी त्यांच्या ऐतिहासिक वारशाला खऱ्या अर्थाने व्याख्यायित करणाऱ्या संकटाची सुरुवात होण्यापूर्वीच एक भक्कम लष्करी प्रतिष्ठा आणि मराठा नेतृत्वाचा विश्वास आधीच प्रस्थापित केला होता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 5,
+                    "title": "संभाजींची फाशी आणि संकटातील राज्य",
+                    "duration": "५ मिनिटे",
+                    "isLocked": false,
+                    "content": "फेब्रुवारी १६८९ मध्ये संगमेश्वर येथे संभाजींची अटक आणि त्यानंतर औरंगजेबाच्या आदेशानुसार त्यांची क्रूर फाशी यांनी मराठा राज्याला खऱ्या अर्थाने अस्थिर स्थितीत सोडले — त्यांची राजधानी थेट धोक्यात, त्यांचा राजा मृत, आणि त्यांचा तरुण पुत्र शाहू लवकरच मुघल सैन्याने बंदी बनवला. याच आपत्तीच्या लगेच नंतर धनाजी जाधवराव, संताजी घोरपडे आणि इतर मराठा सेनापतींसह, राजाच्या मृत्युनंतर राज्याचा सतत लष्करी प्रतिकार पूर्णपणे कोसळू नये याची खात्री करण्याची अत्यावश्यक जबाबदारी हाती घेत होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 6,
+                    "title": "राजारामांचे जिंजीकडे पलायन",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "रायगडाला वेढा पडलेला असताना आणि तात्काळ मराठा नेतृत्व गोंधळात असताना, संभाजींचे सावत्र भाऊ राजाराम कर्नाटक प्रदेशातील दूरच्या जिंजी किल्ल्याकडे दक्षिणेकडे पळाले, तिथून त्यांनी दख्खनी मध्यवर्ती प्रदेशात कार्यरत असलेल्या मुख्य मुघल सैन्यांपासून बऱ्याच दूर, तुलनेने सुरक्षित स्थानावरून सतत मराठा प्रतिकाराचे निर्देशन करण्याचा प्रयत्न केला. यामुळे औरंगजेबाच्या सैन्याविरुद्धची दैनंदिन लष्करी मोहीम मुख्यतः महाराष्ट्रातच बऱ्याच स्वातंत्र्याने कार्यरत असलेल्या रणांगणीय सेनापतींच्या हाती राहिली — धनाजी जाधवराव आणि संताजी घोरपडे यांसारखे सेनापती, ज्यांच्या अखंड, विकेंद्रित गनिमी मोहिमा मुघल सैन्याला मराठा प्रदेशावर कधीच पूर्ण नियंत्रण बळकट करू न देण्यात निर्णायक सिद्ध होणार होत्या.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 7,
+                    "title": "गनिमी युद्ध: मराठा प्रतिसाद",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "औरंगजेबाच्या प्रचंड मोठ्या आणि अधिक साधनसंपन्न मुघल सैन्याला पारंपरिक ठराविक लढाईत भेटण्याचा प्रयत्न करण्याऐवजी, या काळातील मराठा सेनापती दशकांपूर्वी शिवाजींनी सुरू केलेल्या त्याच गतिशील, हल्ला-करून-पळून जाणाऱ्या डावपेचांवर अवलंबून राहिले — मुघल पुरवठामार्ग, विलग तुकड्या, आणि असुरक्षित छावण्यांवर वेगाने धडकत, मग मुघल सैन्ये एक परिणामकारक प्रतिसाद संघटित करण्याआधीच सह्याद्रीच्या डोंगरी प्रदेशात वेगाने माघार घेत. या प्रकारचे युद्ध, नाट्यमय, निर्णायक लढाया क्वचितच घडवत असूनही त्या प्रचंड मोठ्या व्यापणाऱ्या सैन्याला थकवणारे आणि मनोधैर्य खचवणारे, संभाजींनंतरच्या संपूर्ण प्रतिकार कालखंडाचा व्याख्यायक लष्करी दृष्टिकोन बनले, आणि धनाजी जाधवराव त्याच्या सर्वात सक्षम आणि अखंड सराव करणाऱ्यांपैकी एक सिद्ध झाले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 8,
+                    "title": "धनाजी आणि संताजी: दोन सेनापती, एक युद्ध",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "इ.स. १६९० च्या दशकभर, धनाजी जाधवराव आणि संताजी घोरपडे संपूर्ण युद्धातील दोन सर्वात गौरवशाली आणि भयभीत मराठा रणांगणीय सेनापती म्हणून उदयास आले, प्रत्येकाने दख्खनभरातील मुघल स्थानांवर वारंवार धडकणाऱ्या स्वतंत्र, अत्यंत गतिशील सैन्यांचे नेतृत्व केले, औरंगजेबाच्या व्यापणाऱ्या सैन्याला जीवितहानी, ताब्यात घेतलेला पुरवठा, आणि खचलेल्या मनोधैर्याचा एक सतत, संचयी फटका बसवत जो कोणतीही एकच निर्णायक लढाई साध्य करू शकली नसती. समकालीन आणि नंतरची वृत्तांते दोन्ही सेनापतींचे या काळात खरोखर उल्लेखनीय वैयक्तिक धाडसाचे पराक्रम साध्य केल्याचे वर्णन करतात, त्यांची प्रतिष्ठा इतकी वाढली की मुघल सेनापती कथितरीत्या रणांगणावर त्यांच्यापैकी कोणाच्याही सैन्याला सामोरे जाण्यास भयभीत होऊ लागले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 9,
+                    "title": "साम्राज्याला अपमानित करणारे छापे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "धनाजींसह या काळातील मराठा सेनापतींना ज्या उपलब्धींचे श्रेय दिले जाते त्यांत नाममात्र सुरक्षित मुघल-अधिपत्याखालील प्रदेशात खोलवर घुसणारे छापे, पुरवठा-वाहिन्या विस्कळीत करणारे, मौल्यवान सामानवाहू तांड्यांना ताब्यात घेणारे, आणि कधीकधी, खुद्द मुघल छावण्यांच्या सुरक्षेला धोका पोहोचवण्याइतके जवळ धडकणारे यांचा समावेश आहे — सततच्या रणनीतिक अपमानाचा एक पॅटर्न जो, एकत्रितपणे, कोणत्याही एका नाट्यमय मराठा विजयाइतकाच औरंगजेबाच्या स्वतःच्या सेनापतींना हे पटवून देण्यास कारणीभूत ठरला की हे युद्ध केवळ पारंपरिक वेढा-युद्धाने जिंकता येणार नाही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 10,
+                    "title": "मुघल छावणीच्या मध्यभागी धडकणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "परंपरा या काळातील मराठा सैन्यांना, धनाजी आणि संताजीसारख्या सेनापतींसह, खुद्द औरंगजेबाच्या विस्तृत गतिमान छावणीच्या परिसरापर्यंत पोहोचण्याइतके धाडसी छापे मारल्याचे श्रेय देते — सम्राटाने, अखेर, युद्धाच्या कालावधीभर आपले संपूर्ण दरबार व प्रशासन दख्खनात हलवले होते — मराठा गनिमी डावपेचांनी साम्राज्याच्याच युद्धकालीन सरकारच्या अगदी केंद्रस्थानीही सुरक्षित मुघल मागील-प्रदेश-नियंत्रणाची कोणतीही जाणीव किती संपूर्णपणे खिळखिळी करून टाकली होती याचे एक खरोखर उल्लेखनीय उदाहरण, औरंगजेबाने मूळतः लवकर संपेल असे अपेक्षिलेल्या मोहिमेच्या अनेक वर्षांनंतरही.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 11,
+                    "title": "धनाजी आणि संताजी यांच्यातील शत्रुत्व",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "सामायिक मुघल शत्रूविरुद्धचे समान यश असूनही, धनाजी जाधवराव आणि संताजी घोरपडे यांच्यात मराठा लष्करी उतरंडीतील सापेक्ष ज्येष्ठता व प्राधान्याच्या प्रश्नांवर एक गंभीर आणि, बहुतांश ऐतिहासिक वृत्तांतांनुसार, खऱ्या अर्थाने हानीकारक वैयक्तिक व व्यावसायिक शत्रुत्व विकसित झाले — प्रत्येकाला स्पष्टपणे स्वतःला सेनापती, किंवा प्रधान सेनापती, या वरिष्ठ पदासाठी अधिक पात्र उमेदवार वाटत होता, असे शत्रुत्व जे कथितरीत्या व्यापक मराठा युद्धप्रयत्नांत एका अशा क्षणी खरे घर्षण निर्माण करत होते जेव्हा एकसंध नेतृत्व संघर्षातील जवळजवळ इतर कोणत्याही क्षणापेक्षा अधिक महत्त्वाचे होते असे म्हणता येईल.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 12,
+                    "title": "संताजी घोरपडेंचा मृत्यू",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "संताजी घोरपडे साधारण इ.स. १६९६ किंवा १६९७ मध्ये मारले गेले, कथितरीत्या नागोजी माने, आणखी एक मराठा सरदार, यांच्याशी झालेल्या एका झुंजीत, अशा परिस्थितीत ज्याला काही ऐतिहासिक वृत्तांते या काळात मराठा आदेश-संरचनेत विकसित झालेल्या व्यापक तणावांशी आणि गटबाजीशी — धनाजींशी त्यांचे शत्रुत्वही यात समाविष्ट — थेट किंवा अप्रत्यक्षपणे जोडतात. संताजींच्या मृत्युमागील नेमकी कारणसाखळी ऐतिहासिक नोंदीत काहीशी अनिश्चित राहते, पण त्यांच्या नुकसानाने सुरू असलेल्या संघर्षातील एका खऱ्या अर्थाने निर्णायक क्षणी युद्धातील दोन सर्वात गौरवशाली मराठा सेनापतींपैकी एक काढून टाकला.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 13,
+                    "title": "धनाजी सेनापती बनतात",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "संताजी घोरपडेंच्या मृत्युनंतर, धनाजी जाधवराव मराठा लष्कराचे प्रमुख रणांगणीय सेनापती म्हणून उदयास आले, अखेर सेनापती हे औपचारिक पद धारण करत आणि दीर्घ युद्धाच्या उरलेल्या वर्षांत औरंगजेबाच्या सैन्यांविरुद्ध राज्याच्या सतत प्रतिकाराचा बराचसा भाग निर्देशित करत — एक एकमेव लष्करी अधिकाराचे पद जे त्यांची स्वतःची दाखवलेली क्षमता आणि हे व्यावहारिक वास्तव दोन्ही प्रतिबिंबित करत होते की आधी मराठा आदेशाला विभागणारे शत्रुत्व आता, संताजींच्या मृत्युनंतर, एकसंध नेतृत्वासाठी यापुढे अडथळा राहिले नव्हते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 14,
+                    "title": "एकट्याने युद्ध चालू ठेवणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "संघर्षाच्या अंतिम वर्षांत एकमेव प्रमुख रणांगणीय सेनापती म्हणून, धनाजींनी मुघल स्थानांविरुद्धच्या त्याच अखंड, गतिशील, त्रासदायक युद्धाच्या पॅटर्नला चालू ठेवले जो संभाजींनंतरच्या संपूर्ण प्रतिकाराला वैशिष्ट्यीकृत करत होता, वृद्ध होणाऱ्या सम्राटाचे स्वतःचे आरोग्य व धीर युद्धाच्या अंतिम वर्षांत दृश्यमानपणे ढासळत असतानाही औरंगजेबाच्या सैन्यांवरील दबाव कायम राखत, त्याचे प्रचंड सैन्य एका पाठोपाठ एका मराठा किल्ल्याला वेढा घालण्यात वाढत्या प्रमाणात अडकत जात असतानाही त्याने मूळतः सुरक्षित करण्याचा हेतू ठेवलेला निर्णायक, युद्ध-संपवणारा विजय कधीच साध्य न करता.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 15,
+                    "title": "ताराबाईंचे कारभारीपण आणि एक नवा अध्याय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "याच काळात, इ.स. १७०० मध्ये राजारामांच्या मृत्युनंतर, प्रभावी मराठा राजकीय नेतृत्व मोठ्या प्रमाणात राजारामांची विधवा ताराबाई यांच्याकडे गेले, ज्यांनी आपल्या तरुण पुत्रासाठी कारभारी म्हणून राज्य केले आणि खऱ्या कौशल्याने व निर्धाराने सतत प्रतिकाराचे निर्देशन केले — आणि याच ताराबाई-नेतृत्वाखालील युद्धाच्या टप्प्यातच धनाजी जाधवराव मराठा राज्याच्या सर्वात वरिष्ठ आणि विश्वासू लष्करी सेनापतींपैकी एक म्हणून सेवा करत राहिले, या वर्षांतील ताराबाईंच्या कारभारीपणाप्रती त्यांची निष्ठा त्यांच्या अखेरच्या निष्ठा-बदलाला, खाली पुढे चर्चिलेला, नंतर आणखीनच ऐतिहासिकदृष्ट्या महत्त्वपूर्ण बनवत होती.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 16,
+                    "title": "औरंगजेबाचा मृत्यू आणि बदललेले युद्ध",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "औरंगजेब अखेर इ.स. १७०७ मध्ये दख्खनातच, प्रगत वयात मरण पावला, आपल्या राज्यकाळाची आणि आयुष्याची शेवटची दशके ज्याला त्याने कधीच पूर्णपणे विझवण्यात यश मिळवले नाही अशा मराठा प्रतिकाराचा पाठलाग करण्यात घालवून — त्याच्या मृत्युने धोरणात्मक परिस्थिती मूलभूतपणे बदलली, सत्तावीस वर्षांचे युद्ध टिकवणारी एकमेव साम्राज्यीय इच्छाशक्ती काढून घेत आणि धनाजींसारख्या सेनापतींसह मराठा नेतृत्वाला वाट काढावी लागणारा एक खऱ्या अर्थाने नवा आणि अनिश्चित राजकीय भूदृश्य उघडत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 17,
+                    "title": "शाहूंची सुटका आणि वारसासंकट",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "औरंगजेबाच्या मृत्युनंतर, मुघलांनी शाहू, संभाजींचा पुत्र जो बालपणापासून मुघल बंदिवासात ठेवला गेला होता, याला सोडले, याची गणना करत — जी नंतर बरोबर ठरली — की त्याचा परतावा मराठा निष्ठा विभाजित करेल आणि त्याच्या वडिलांनी व आजोबांनी उभारलेल्या राज्यात उपयुक्त अस्थिरता निर्माण करेल. शाहू आणि आपल्याच पुत्राच्या वतीने राज्य करणारे ताराबाईंचे कारभारीपण लगेच मराठा सिंहासनासाठी थेट स्पर्धेत आले, धनाजी जाधवरावसह प्रत्येक महत्त्वपूर्ण मराठा सरदार व सेनापतीला लवकरच एका अंतर्गत यादवी संघर्ष बनलेल्या यात एक बाजू निवडण्यास भाग पाडत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 18,
+                    "title": "बाळाजी विश्वनाथ: एक नवी युती",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "यावेळी धनाजी जाधवरावांच्याच अधीनस्थ अधिकाऱ्यांत बाळाजी विश्वनाथ हे एक सक्षम चित्पावन ब्राह्मण प्रशासक होते जे धनाजींच्याच सेवेत कार्यरत होते — असे नाते जे प्रचंड ऐतिहासिकदृष्ट्या परिणामकारक सिद्ध होणार होते, कारण बाळाजी विश्वनाथांनी धनाजींना ताराबाईंच्या कारभारीपणाप्रतीची आपली आधीची निष्ठा चालू ठेवण्याऐवजी अखेर आपले भरीव लष्करी बळ शाहूंच्या दाव्यामागे झोकून देण्यास प्रवृत्त करणाऱ्या वाटाघाटी व गणनांत महत्त्वपूर्ण भूमिका बजावली, असा निर्णय ज्यासाठी बाळाजी विश्वनाथांना स्वतःला नंतर शाहूंचा हेतू विजयी झाल्यावर मोठ्या प्रमाणात पुरस्कृत केले जाणार होते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 19,
+                    "title": "धनाजींचा भवितव्य-निर्णायक निर्णय",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "धनाजी जाधवरावांचा आपली निष्ठा ताराबाईंच्या कारभारीपणापासून शाहूंच्या दाव्याकडे बदलण्याचा निर्णय संपूर्ण मराठा वारसासंकटातील एकच सर्वात परिणामकारक वैयक्तिक निवडींपैकी एकाचे प्रतिनिधित्व करतो, औरंगजेबाविरुद्धच्या युद्धातील दशकांच्या सततच्या सेवेनंतर राज्याचे सर्वात वरिष्ठ आणि अनुभवी रणांगणीय सेनापती म्हणून धनाजींचे स्थान लक्षात घेता — त्यांच्या लष्करी पाठिंब्याने शाहूंच्या हेतूला एक वैधता आणि व्यावहारिक आघाडी-सामर्थ्य दिले जे त्यानंतरच्या झुंजीत निर्णायक सिद्ध झाले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 20,
+                    "title": "खेडची लढाई",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "इ.स. १७०७ मध्ये, धनाजी जाधवरावांच्या अनुभवी सैन्याने भरीव प्रमाणात बळकट केलेल्या शाहूंशी निष्ठावान सैन्यांनी खेडजवळ ताराबाईंच्या कारभारी सैन्यांशी लढाई भेटली, एक निर्णायक विजय मिळवला ज्याने वारसासंघर्षाचा समतोल मूलभूतपणे शाहूंच्या बाजूने वळवला — अशी लढाई ज्यात मुघलांविरुद्धच्या जवळजवळ दोन दशकांच्या सततच्या युद्धातून उभारलेला धनाजींचा लष्करी अनुभव व प्रतिष्ठा अंतर्गत मराठा राजकीय संघर्षात थेट लागू होणारा सिद्ध झाला अशा प्रकारे ज्याने पुढील पिढीसाठी राज्याचे नेतृत्व घडवले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 21,
+                    "title": "शाहूंचे सिंहासन सुरक्षित करणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "खेडवरील विजयानंतर, शाहूंचे वैध छत्रपती म्हणून स्थान सातत्याने बळकट होत गेले, जरी ताराबाई आणि त्यांचे समर्थक कोल्हापूर येथील एका प्रतिस्पर्धी तळावरून त्यानंतर वर्षानुवर्षे प्रतिकार करत राहिले, अखेर मराठा राजेशाही अधिकाराच्या दोन स्वतंत्र शाखांतील एका टिकाऊ, औपचारिक विभागणीत परिणत झाले — शाहूंच्या नेतृत्वाखालील वरिष्ठ सातारा शाखा, आणि राजाराम व ताराबाईंच्या बाजूकडून वंशपरंपरागत कोल्हापूर शाखा — अशी विभागणी जिचे मूळ या महत्त्वपूर्ण वळणावरील धनाजी जाधवरावांच्या निर्णायक निर्णयाच्या लष्करी व राजकीय परिणामांपर्यंत थेट मागे जाते.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 22,
+                    "title": "शाहूंच्या नेतृत्वाखाली सेनापती म्हणून धनाजी",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "शाहूंचे सिंहासन सुरक्षित करण्यात इतकी निर्णायक भूमिका बजावल्यावर, धनाजी जाधवराव नव्या छत्रपतींच्या नेतृत्वाखाली सेनापती म्हणून सेवा करत राहिले, शाहूंच्या राज्यकाळाच्या महत्त्वपूर्ण सुरुवातीच्या वर्षांत राज्याच्या सर्वात वरिष्ठ लष्करी पदांपैकी एक भूषवत, नवा शासक मुघलांविरुद्धच्या दशकांच्या सततच्या युद्धातून अजूनही सावरत असलेल्या आणि ताराबाईंच्या प्रतिस्पर्धी दरबाराशी झालेल्या अंतर्गत वारसासंघर्षाने नव्याने विभागलेल्या राज्यावर आपला अधिकार बळकट करण्याचा प्रयत्न करत असताना.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 23,
+                    "title": "शेवटची वर्षे आणि मृत्यू",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "शाहूंचे सिंहासन सुरक्षित केल्यावर काही वर्षांतच धनाजी जाधवराव मरण पावले, सर्वसाधारणपणे साधारण इ.स. १७०८ मध्ये किंवा लगेच नंतर ठेवले जाते, सुरुवातीच्या मराठा राज्याच्या संपूर्ण इतिहासातील सर्वात मागणी करणाऱ्या आणि ऐतिहासिकदृष्ट्या परिणामकारक दशकांतील काही व्यापलेली एक लष्करी कारकीर्द संपवत — संभाजींच्या फाशीनंतरच्या हताश गनिमी प्रतिकारापासून ते भोंसले राजघराण्याची कोणती शाखा अखेर पुढे मुख्य मराठा अधिकार धारण करेल हे ठरवणाऱ्या निर्णायक हस्तक्षेपापर्यंत.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 24,
+                    "title": "धनाजींनंतरचा जाधवराव वारसा",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "धनाजींचा पुत्र, चंद्रसेन जाधवराव, याने आपल्या वडिलांचे पद व सेनापती ही पदवी वारशाने घेतली, पण मराठा लष्करी व राजकीय व्यवहारांतील जाधवराव कुटुंबाचे मध्यवर्ती महत्त्व त्यानंतरच्या वर्षांत हळूहळू कमी होत गेले, कारण पेशवा हे पद — बाळाजी विश्वनाथ, एकेकाळचे धनाजींचेच अधीनस्थ, जे पुढे धारण करणार होते आणि राज्याच्या सर्वात शक्तिशाली वंशपरंपरागत पदात रूपांतरित करणार होते तेच पद — पुढील दशकांच्या मराठा इतिहासात व्यावहारिक राजकीय महत्त्वात जुन्या सेनापती पदवीला वाढत्या प्रमाणात झाकोळत गेले.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 25,
+                    "title": "धनाजींची कहाणी जुळवत आणणे",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "धनाजी जाधवरावांच्या कारकिर्दीबद्दल जे काही ज्ञात आहे त्यातील बरेचसे नंतरच्या मराठा बखरी व इतिवृत्त परंपरांतून, औरंगजेबाविरुद्धच्या दीर्घ युद्धाचे दस्तऐवजीकरण करणाऱ्या मुघल दरबारी नोंदींतील संदर्भांसह, आणि शाहू-ताराबाई वारसासंकटाच्या त्यानंतरच्या, अधिक चांगल्या-दस्तऐवजीकृत राजकीय इतिहासातून टिकून आहे. या तीव्रपणे गोंधळलेल्या काळातील इतर अनेक मराठा सेनापतींप्रमाणेच, इ.स. १६९० च्या दशकातील गनिमी युद्धादरम्यानच्या त्यांच्या वैयक्तिक मोहिमांचे आणि विशिष्ट रणांगणीय उपलब्धींचे तपशीलवार समकालीन दस्तऐवजीकरण त्यांच्या नंतरच्या, वारसा-निर्णायक भूमिकेच्या अधिक पूर्णपणे इतिवृत्तीकृत राजकीय नाट्यापेक्षा बरेच तुटपुंजे आहे — एक परिचित पॅटर्न ज्यात एका लष्करी व्यक्तिमत्त्वाचा सर्वात निर्णायक ऐतिहासिक प्रभाव कधीकधी त्याची प्रतिष्ठा प्रथम स्थापित करणाऱ्या झिजवणाऱ्या, वैयक्तिकरीत्या कमी वैभवशाली सेवेच्या वर्षांपेक्षा अधिक चांगल्या प्रकारे दस्तऐवजीकृत असतो.",
+                    "audioUrl": null
+                },
+                {
+                    "number": 26,
+                    "title": "वारसा: राजा निवडणारा सेनापती",
+                    "duration": "५ मिनिटे",
+                    "isLocked": true,
+                    "content": "धनाजी जाधवरावांचा ऐतिहासिक वारसा दोन वेगळ्या पण जोडलेल्या उपलब्धींवर टिकून आहे: औरंगजेबाविरुद्धच्या अस्तित्वाच्या युद्धादरम्यान मराठा राज्याच्या सर्वात अखंड आणि भयभीत रणांगणीय सेनापतींपैकी एक म्हणून जवळजवळ दोन दशके, संभाजींच्या फाशीने मराठा प्रतिकार विझवला नाही याची खात्री करण्यास मदत करत, आणि, युद्धाच्या अंतापर्यंत, एक एकमेव निर्णायक राजकीय निर्णय — खेडच्या लढाईत ताराबाईंऐवजी शाहूंना पाठिंबा देण्याची त्यांची निवड — ज्याने पुढील पिढ्यांसाठी मराठा राजेशाही अधिकाराची अंतर्गत रचना घडवली आणि, त्यांच्याच अधीनस्थ बाळाजी विश्वनाथांमार्फत, पुढील शतकभर मराठा राजकारणावर वर्चस्व गाजवणाऱ्या पेशवा राजवंशाचा अखेरचा उदय गती देण्यास मदत केली.",
                     "audioUrl": null
                 }
             ]
