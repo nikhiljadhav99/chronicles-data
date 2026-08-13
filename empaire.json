@@ -13,7 +13,7 @@
         "English"
       ],
       "duration": "34 min",
-      "rating": 4.8,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/morya_dynasty.jpg",
       "summary": "From a young adventurer's gamble against a crumbling kingdom to the first empire to unite most of the Indian subcontinent — and its quiet, sudden collapse two centuries later.",
       "isPremium": false,
@@ -156,7 +156,7 @@
         "English"
       ],
       "duration": "39 min",
-      "rating": 4.8,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/mughal_dyansty.jpg",
       "summary": "A Central Asian prince's improbable conquest of Delhi, three centuries of grandeur and reinvention, and the long decline that ended with a last emperor exiled from his own capital.",
       "isPremium": false,
@@ -343,7 +343,7 @@
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/maratha.webp",
       "summary": "A hill warrior's dream of self-rule, a guerrilla campaign against the mightiest empire in India, and a confederacy that briefly dominated the subcontinent before the British ended it.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -518,7 +518,7 @@
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Gupta.jpg",
       "summary": "A modest Magadha family's rise through marriage and conquest to an empire remembered less for its battles than for the mathematicians, poets, and sculptors who flourished under it — and the Huna invasions that eventually brought it down.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -1183,11 +1183,11 @@
         "English"
       ],
       "duration": "52 min",
-      "rating": 4.5,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Nanda.webp",
       "summary": "A low-born king who called himself 'sole sovereign,' an army so vast its reputation alone turned back Alexander the Great, and the humiliated scholar who swore to bring the whole wealthy, resented dynasty down.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -1615,11 +1615,11 @@
         "इंग्रजी"
       ],
       "duration": "34 min",
-      "rating": 4.8,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/morya_dynasty.jpg",
       "summary": "एका तरुण साहसी व्यक्तीच्या ढासळत्या राज्याविरुद्धच्या धाडसी डावापासून ते भारतीय उपखंडाचा बहुतांश भाग एकत्र आणणाऱ्या पहिल्या साम्राज्यापर्यंत — आणि दोनशे वर्षांनंतर झालेल्या त्याच्या शांत, अचानक पतनापर्यंतचा प्रवास.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -1758,7 +1758,7 @@
         "इंग्रजी"
       ],
       "duration": "39 min",
-      "rating": 4.8,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/mughal_dyansty.jpg",
       "summary": "एका मध्य आशियाई राजपुत्राने दिल्लीवर मिळवलेला अनपेक्षित विजय, तीन शतकांचे वैभव व पुनर्घडण, आणि स्वतःच्याच राजधानीतून हद्दपार झालेल्या शेवटच्या सम्राटासह संपलेली दीर्घ पडझड.",
       "isPremium": false,
@@ -1945,7 +1945,7 @@
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/maratha.webp",
       "summary": "एका डोंगरी योद्ध्याचे स्वराज्याचे स्वप्न, भारतातील सर्वांत बलाढ्य साम्राज्याविरुद्धची गनिमी मोहीम, आणि ब्रिटिशांनी अंत केलेले, काही काळ संपूर्ण उपखंडावर वर्चस्व गाजवणारे संघराज्य.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -2120,7 +2120,7 @@
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Gupta.jpg",
       "summary": "मगधातील एका साध्या कुटुंबाचा विवाह आणि विजयातून साम्राज्यापर्यंतचा प्रवास, जे लढायांपेक्षा त्याच्या काळात बहरलेल्या गणितज्ञ, कवी आणि शिल्पकारांसाठी अधिक स्मरणात राहिले — आणि अखेर त्याला उलथवणारी हूण आक्रमणे.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -2785,11 +2785,11 @@
         "इंग्रजी"
       ],
       "duration": "५२ मिनिटे",
-      "rating": 4.5,
+      "rating": 4.9,
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Nanda.webp",
       "summary": "स्वतःला 'एकमेव सार्वभौम' म्हणवणारा एक नीच-कुळातील राजा, ज्याच्या केवळ ख्यातीनेच खुद्द अलेक्झांडर द ग्रेटला मागे परतवले असे इतके विशाल सैन्य, आणि संपूर्ण श्रीमंत, तिरस्कारित राजवंशाला उलथवण्याची शपथ घेणारा अपमानित विद्वान.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
@@ -2956,7 +2956,7 @@
       "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Haryanka.webp",
       "summary": "विवाहांतून सत्ता मिळवणारा आणि बुद्धांना आश्रय देणारा एक राजा, आपल्याच वडिलांना बंदी बनवणारा आणि वर्षानुवर्षांच्या धीराच्या घातपातातून एक गणराज्य विसर्जित करणारा पुत्र, आणि गंगेकाठचे ते किल्लेवजा नगर जे एके दिवशी एका साम्राज्याची राजधानी बनणार होते.",
       "isPremium": false,
-      "isNew": true,
+      "isNew": false,
       "isKing": false,
       "progress": null,
       "chapters": [
