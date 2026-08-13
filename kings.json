@@ -359,7 +359,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Chandragupta.webp",
             "summary": "From a young man of disputed origins to the founder of the first empire to unite most of ancient India — and the quiet renunciation that ended his life far from the throne he built.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -717,7 +717,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/laxmibai.webp",
             "summary": "A girl trained to ride and fight like the sons of the Peshwa's court, a queen stripped of her throne by British policy, and the battlefield stand that made her one of India's most enduring symbols of resistance.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -924,7 +924,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/bindusar.webp",
             "summary": "The quiet middle reign that history nearly forgot — how the son of an empire's founder held it together, managed a crowded and dangerous court, and raised the grandson who would transform it forever.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -1338,7 +1338,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/maharana.webp",
             "summary": "While every other great kingdom of northern India bent the knee to the Mughal throne, one Rajput king chose exile, hunger, and grass-bread over submission — and became, in the process, the most enduring symbol of defiance in Indian memory.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -1692,7 +1692,7 @@
                 "English"
             ],
             "duration": "58 min",
-            "rating": 4.6,
+            "rating": 4.9,
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Dhanaji.webp",
             "summary": "The field commander who kept Maratha resistance alive through Aurangzeb's twenty-seven-year war after Sambhaji's execution, and whose single decisive choice of allegiance at Khed determined who would rule the kingdom next.",
             "isPremium": false,
@@ -2271,7 +2271,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Chandragupta.webp",
             "summary": "वादग्रस्त मूळ असलेल्या एका तरुणापासून प्राचीन भारताचा बहुतांश भाग एकसंध करणाऱ्या पहिल्या साम्राज्याच्या संस्थापकापर्यंत — आणि त्याने उभारलेल्या सिंहासनापासून दूर, त्याचे आयुष्य संपवणारा तो शांत त्याग.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -2629,7 +2629,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/laxmibai.webp",
             "summary": "पेशव्यांच्या दरबारातील मुलांप्रमाणे घोडेस्वारी आणि युद्धकौशल्याचे प्रशिक्षण घेतलेली मुलगी, ब्रिटिश धोरणाने सिंहासनापासून वंचित केलेली राणी, आणि रणांगणावरील तिचा निर्धार, ज्याने तिला भारताच्या प्रतिकाराच्या सर्वात चिरस्थायी प्रतीकांपैकी एक बनवले.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -3250,7 +3250,7 @@
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/maharana.webp",
             "summary": "उत्तर भारतातील प्रत्येक महान राज्य मुघल सिंहासनासमोर नतमस्तक होत असताना, एका राजपूत राजाने शरणागतीपेक्षा वनवास, उपासमार, आणि गवताची भाकरी निवडली — आणि याच प्रक्रियेत भारतीय स्मृतीतील अवज्ञेचे सर्वात चिरस्थायी प्रतीक बनला.",
             "isPremium": false,
-            "isNew": true,
+            "isNew": false,
             "isKing": true,
             "progress": null,
             "chapters": [
@@ -3604,7 +3604,7 @@
                 "इंग्रजी"
             ],
             "duration": "५८ मिनिटे",
-            "rating": 4.6,
+            "rating": 4.9,
             "coverEmoji": "https://raw.githubusercontent.com/nikhiljadhav99/chronicles-data/main/images/Dhanaji.webp",
             "summary": "संभाजींच्या फाशीनंतर औरंगजेबाच्या सत्तावीस वर्षांच्या युद्धात मराठा प्रतिकार जिवंत ठेवणारा रणांगणीय सेनापती, आणि खेडवरील त्याच्या एका निर्णायक निष्ठा-निवडीने पुढे राज्यावर कोण राज्य करणार हे ठरवले.",
             "isPremium": false,
